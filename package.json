@@ -1,0 +1,11 @@
+{
+  "name": "travelbot",
+  "version": "1.0.0",
+  "description": "Tpsit project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francesco Minei",
+  "license": "ISC"
+}
