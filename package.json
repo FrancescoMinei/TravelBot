@@ -1,15 +1,18 @@
 {
-  "name": "travelbot",
-  "version": "1.0.0",
-  "description": "Tpsit project",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Francesco Minei",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1",
-    "node-telegram-bot-api": "^0.51.0"
-  }
+    "name": "travelbot",
+    "version": "1.0.0",
+    "description": "Tpsit project",
+    "main": "app.js",
+    "scripts": {
+        "dev": "nodemon app.js"
+    },
+    "author": "Francesco Minei",
+    "license": "ISC",
+    "dependencies": {
+        "better-sqlite3": "^7.1.2",
+        "express": "^4.17.1",
+        "nodemon": "^2.0.7",
+        "telegraf": "^4.3.0",
+        "telegraf-inline-menu": "^6.2.0"
+    }
 }
