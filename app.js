@@ -16,10 +16,16 @@ bot.start((ctx) => {
     else if (ctx.from.last_name)
         ctx.reply('Welcome ' + ctx.from.last_name + ' on TravelBot');
 });
+bot.help((ctx) => ctx.reply('Send me a sticker'))
 
 bot.command('winform', (ctx) => {
     ctx.reply('Prof mi metta 10 sulla fiducia')
 });
+
+const row = db.prepare('SELECT DISTINCT City FROM City');
+console.log(row.City);
+
+
 
 
 bot.launch();
