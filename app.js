@@ -48,11 +48,4 @@ bot.hears(Search, (ctx) => {
     return;
 })
 
-
-//const row = db.prepare('SELECT DISTINCT City FROM City');
-//console.log(row.City);
-
-
-
-
 bot.launch();
