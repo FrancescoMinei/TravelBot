@@ -1,0 +1,8498 @@
+1,Zanesville,ZZV
+2,Mzuzu,ZZU
+3,Tymovskoye,ZZO
+4,(Old) Scandium City,ZYW
+5,Sylhet,ZYL
+6,Zunyi,ZYI
+7,Unorganized Yukon,ZYA
+8,Baku,ZXT
+9,Wollaston Lake,ZWL
+10,Springvale,ZVG
+11,Miandrivazo,ZVA
+12,Churchill Falls,ZUM
+13,Zilfi,ZUL
+14,"Jinwan, Zhuhai",ZUH
+15,Ancud,ZUD
+16,Ignace,ZUC
+17,Zaqatala,ZTU
+18,Tahsis,ZTS
+19,Shamattawa,ZTM
+20,Zakynthos Island,ZTH
+21,Tête-à-la-Baleine,ZTB
+22,Stewart,ZST
+23,Sassandra,ZSS
+24,St. Paul,ZSP
+25,Sandy Lake,ZSJ
+26,St Pierre,ZSE
+27,San Salvador,ZSA
+28,Zaraza,ZRZ
+29,Sarmi-Papua Island,ZRM
+30,Round Lake,ZRJ
+31,Serui-Japen Island,ZRI
+32,Zurich,ZRH
+33,Zhangjiakou,ZQZ
+34,Zweibrücken,ZQW
+35,Queenstown,ZQN
+36,Donaueschingen,ZQL
+37,Pinehouse Lake,ZPO
+38,Zephyrhills,ZPH
+39,Pucon,ZPC
+40,Sachigo Lake,ZPB
+41,Osorno,ZOS
+42,Ocean Falls,ZOF
+43,Zanzibar,ZNZ
+44,Namu,ZNU
+45,Newman,ZNE
+46,Zinder,ZND
+47,Nyac,ZNC
+48,Nanaimo,ZNA
+49,Masset,ZMT
+50,108 Mile,ZMH
+51,Magdeburg,ZMG
+52,Sena Madureira,ZMD
+53,Zalingei,ZLX
+54,La Tabatière,ZLT
+55,Linares,ZLR
+56,Manzanillo,ZLO
+57,La Güera,ZLG
+58,(Old) Yukonia,ZKT
+59,Zyryanka,ZKP
+60,Sette Cama,ZKM
+61,Zigong,ZKL
+62,Kegaska,ZKG
+63,Kashechewan,ZKE
+64,Kasaba Bay,ZKB
+65,Swan River,ZJN
+66,Locarno,ZJI
+67,Jenpeg,ZJG
+68,Zamzama Gas Field,ZIZ
+69,Zhigansk,ZIX
+70,Zintan,ZIS
+71,Ixtapa,ZIH
+72,Ziguinchor,ZIG
+73,Victoria,ZIC
+74,Moscow,ZIA
+75,Zhongwei,ZHY
+76,High Prairie,ZHP
+77,Shamshernagar,ZHM
+78,Grenchen,ZHI
+79,Herschel Island (Yukon Territory),ZHH
+80,"Xiashan, Zhanjiang",ZHA
+81,Gaua Island,ZGU
+82,La Romaine,ZGS
+83,Little Grand Rapids,ZGR
+84,Ngoma,ZGM
+85,Gods River,ZGI
+86,Grand Forks,ZGF
+87,Fairview,ZFW
+88,Arujá,ZFU
+89,Tulita,ZFN
+90,Fort Mcpherson,ZFM
+91,Fond-Du-Lac,ZFD
+92,Faro,ZFA
+93,Ziro,ZER
+94,Zenag,ZEN
+95,Eastmain River,ZEM
+96,Bella Bella,ZEL
+97,Senggo-Papua Island,ZEG
+98,Secunda,ZEC
+99,Delma Island,ZDY
+100,Temuco,ZCO
+101,Zacatecas,ZCL
+102,Sainyabuli,ZBY
+103,Chabahar,ZBR
+104,Bromont,ZBM
+105,Žabljak Airport,ZBK
+106,Bathurst,ZBF
+107,Zabreh,ZBE
+108,Zaragoza,ZAZ
+109,Zhaotong,ZAT
+110,Zaria,ZAR
+111,Cahors/Lalbenque,ZAO
+112,Zamboanga City,ZAM
+113,Valdivia,ZAL
+114,Zaranj,ZAJ
+115,Zahedan,ZAH
+116,Zagreb,ZAG
+117,Zemunik (Zadar),ZAD
+118,York Landing,ZAC
+119,Trail,YZZ
+120,Zhangye,YZY
+121,Greenwood,YZX
+122,Teslin,YZW
+123,Sept-Îles,YZV
+124,Whitecourt,YZU
+125,Port Hardy,YZT
+126,Coral Harbour,YZS
+127,Sarnia,YZR
+128,Sandspit,YZP
+129,Slave Lake,YZH
+130,Salluit,YZG
+131,Yellowknife,YZF
+132,Gore Bay,YZE
+133,Cache Creek,YZA
+134,Toronto,YYZ
+135,Mont-Joli,YYY
+136,Armstrong,YYW
+137,Kapuskasing,YYU
+138,St. John's,YYT
+139,Blissville,YYS
+140,Goose Bay,YYR
+141,Churchill,YYQ
+142,Swift Current,YYN
+143,Cowley,YYM
+144,Lynn Lake,YYL
+145,Victoria,YYJ
+146,Taloyoak,YYH
+147,Charlottetown,YYG
+148,Penticton,YYF
+149,Fort Nelson,YYE
+150,Smithers,YYD
+151,Calgary,YYC
+152,North Bay,YYB
+153,Yueyang,YYA
+154,Wawa,YXZ
+155,Whitehorse,YXY
+156,Abbotsford,YXX
+157,London,YXU
+158,Terrace,YXT
+159,Prince George,YXS
+160,Earlton,YXR
+161,Beaver Creek,YXQ
+162,Pangnirtung,YXP
+163,Whale Cove,YXN
+164,Sioux Lookout,YXL
+165,Rimouski,YXK
+166,Fort St.John,YXJ
+167,Killaloe,YXI
+168,Medicine Hat,YXH
+169,Saskatoon,YXE
+170,Edmonton,YXD
+171,Cranbrook,YXC
+172,Wrigley,YWY
+173,Whistler,YWS
+174,White River,YWR
+175,Chutes-des-Passes,YWQ
+176,Webequie,YWP
+177,Lupin Mine,YWO
+178,Winisk,YWN
+179,Williams Harbour,YWM
+180,Williams Lake,YWL
+181,Wabush,YWK
+182,Déline,YWJ
+183,Victoria,YWH
+184,Winnipeg,YWG
+185,Kangiqsujuaq,YWB
+186,Petawawa,YWA
+187,Deer Lake,YVZ
+188,Wiarton,YVV
+189,Buffalo Narrows,YVT
+190,Vancouver,YVR
+191,Norman Wells,YVQ
+192,Kuujjuaq,YVP
+193,Val-d'Or,YVO
+194,Qikiqtarjuaq,YVM
+195,Vermilion,YVG
+196,Vernon,YVE
+197,Yeva,YVD
+198,La Ronge,YVC
+199,Bonaventure,YVB
+200,Moroni,YVA
+201,Rouyn-Noranda,YUY
+202,Hall Beach,YUX
+203,Repulse Bay,YUT
+204,Yushu,YUS
+205,Yuma,YUM
+206,Montréal,YUL
+207,Umiujaq,YUD
+208,Tuktoyaktuk,YUB
+209,Yuanmou,YUA
+210,Toronto,YTZ
+211,Yangzhou and Taizhou,YTY
+212,Telegraph Creek,YTX
+213,Tasu,YTU
+214,Tisdale,YTT
+215,Timmins,YTS
+216,Trenton,YTR
+217,Tasiujaq,YTQ
+218,Tofino Harbour,YTP
+219,Rivière Rouge,YTM
+220,Big Trout Lake,YTL
+221,"Terrace Bay, ON",YTJ
+222,Thompson,YTH
+223,Sullivan Bay,YTG
+224,Alma,YTF
+225,Cape Dorset,YTE
+226,Thicket Portage,YTD
+227,Hartley Bay,YTB
+228,Pembroke,YTA
+229,Sachs Harbour,YSY
+230,Bella Bella,YSX
+231,RCAF Station Saglek,YSV
+232,Slemon Park,YSU
+233,St. Theresa Point,YST
+234,Qian Gorlos Mongol Autonomous County,YSQ
+235,Marathon,YSP
+236,Postville,YSO
+237,Salmon Arm,YSN
+238,Fort Smith,YSM
+239,St Leonard,YSL
+240,Sanikiluaq,YSK
+241,Saint John,YSJ
+242,Frying Pan Island,YSI
+243,Smiths Falls,YSH
+244,Lutselk'e,YSG
+245,Stony Rapids,YSF
+246,Squamish,YSE
+247,Suffield,YSD
+248,Sherbrooke,YSC
+249,Sudbury,YSB
+250,Sable Island,YSA
+251,Revelstoke,YRV
+252,Rankin Inlet,YRT
+253,Red Sucker Lake,YRS
+254,Big Bay,YRR
+255,Trois-Rivières,YRQ
+256,Ottawa,YRO
+257,Rivers Inlet,YRN
+258,Rocky Mountain House,YRM
+259,Red Lake,YRL
+260,Roberval,YRJ
+261,Rivière-du-Loup,YRI
+262,Rigolet,YRG
+263,Cartwright,YRF
+264,Kimsquit Valley,YRD
+265,Desolation Sound,YRC
+266,Resolute Bay,YRB
+267,Gamètì,YRA
+268,Quesnel,YQZ
+269,Sydney,YQY
+270,Gander,YQX
+271,North Battleford,YQW
+272,Yorkton,YQV
+273,Grande Prairie,YQU
+274,Thunder Bay,YQT
+275,St Thomas,YQS
+276,Regina,YQR
+277,Comox,YQQ
+278,Nakina,YQN
+279,Moncton,YQM
+280,Lethbridge,YQL
+281,Kenora,YQK
+282,Quadra Island,YQJ
+283,Yarmouth,YQI
+284,Watson Lake,YQH
+285,Windsor,YQG
+286,Red Deer,YQF
+287,The Pas,YQD
+288,Quaqtaq,YQC
+289,Quebec,YQB
+290,Muskoka,YQA
+291,Burns Lake,YPZ
+292,Fort Chipewyan,YPY
+293,Puvirnituq,YPX
+294,Powell River,YPW
+295,Port Hawkesbury,YPS
+296,Prince Rupert,YPR
+297,Peterborough,YPQ
+298,Peawanuck,YPO
+299,Port-Menier,YPN
+300,Pikangikum,YPM
+301,Pickle Lake,YPL
+302,Aupaluk,YPJ
+303,Lax Kw'alaams,YPI
+304,Inukjuak,YPH
+305,Portage la Prairie,YPG
+306,Peace River,YPE
+307,Parry Sound,YPD
+308,Paulatuk,YPC
+309,Port Alberni,YPB
+310,Prince Albert,YPA
+311,Ottawa,YOW
+312,Yotvata,YOT
+313,Owen Sound,YOS
+314,Rainbow Lake,YOP
+315,Oshawa,YOO
+316,Tashigang,YON
+317,Yola,YOL
+318,High Level,YOJ
+319,Éléonore Mine,YOI
+320,Oxford House,YOH
+321,Ogoki Post,YOG
+322,Donnelly,YOE
+323,Cold Lake,YOD
+324,Old Crow,YOC
+325,Ekati,YOA
+326,Yancheng,YNZ
+327,Gonghang-ro,YNY
+328,Snap Lake Mine,YNX
+329,Yantai,YNT
+330,Nemiscau,YNS
+331,Natuashish,YNP
+332,North Spirit Lake,YNO
+333,Matagami,YNM
+334,Points North Landing,YNL
+335,Yanji,YNJ
+336,Hudson's Hope,YNH
+337,Youngstown/Warren,YNG
+338,Norway House,YNE
+339,Gatineau,YND
+340,Wemindji,YNC
+341,Yanbu,YNB
+342,Natashquan,YNA
+343,Montréal,YMX
+344,Maniwaki,YMW
+345,Chibougamau,YMT
+346,Yurimaguas,YMS
+347,Port Mcneill,YMP
+348,Moosonee,YMO
+349,Makkovik,YMN
+350,Fort McMurray,YMM
+351,Charlevoix,YML
+352,Mys Kamennyi,YMK
+353,Moose Jaw,YMJ
+354,Mary's Harbour,YMH
+355,Manitouwadge,YMG
+356,Matane,YME
+357,Prince Patrick Is.,YMD
+358,Merritt,YMB
+359,Mayo,YMA
+360,Langley,YLY
+361,Kelowna,YLW
+362,Yevlakh,YLV
+363,Alert,YLT
+364,Lebel-sur-Quévillon,YLS
+365,Leaf Rapids,YLR
+366,La Tuque,YLQ
+367,Longue-Pointe-de-Mingan,YLP
+368,Clinton Creek Mine,YLM
+369,Lloydminster,YLL
+370,Barrie-Orillia,YLK
+371,Meadow Lake,YLJ
+372,Lansdowne House,YLH
+373,Yalgoo,YLG
+374,Whatì,YLE
+375,Chapleau,YLD
+376,Kimmirut,YLC
+377,Lac La Biche,YLB
+378,Toronto,YKZ
+379,Kindersley,YKY
+380,Kirkland Lake,YKX
+381,Chisasibi,YKU
+382,Klemtu,YKT
+383,Yakutsk,YKS
+384,Waskaganish,YKQ
+385,Hakkari,YKO
+386,Yankton,YKN
+387,Yakima,YKM
+388,Schefferville,YKL
+389,Kitkatla,YKK
+390,Key Lake,YKJ
+391,"Laobian, Yingkou",YKH
+392,Kangirsuk,YKG
+393,Kitchener,YKF
+394,Knee Lake,YKE
+395,Kincardine,YKD
+396,Collins Bay,YKC
+397,Kamloops,YKA
+398,Stephenville,YJT
+399,Samjiyŏn,YJS
+400,Hinton,YJP
+401,St Jean,YJN
+402,Fort Liard,YJF
+403,Jasper,YJA
+404,Yiwu,YIW
+405,Island Lake,YIV
+406,Detroit,YIP
+407,Pond Inlet,YIO
+408,Yining,YIN
+409,Ivujivik,YIK
+410,Yichang,YIH
+411,Stuart Island,YIG
+412,St-Augustin,YIF
+413,Arxan,YIE
+414,Yichun,YIC
+415,Atikokan,YIB
+416,Yogyakarta,YIA
+417,Halifax,YHZ
+418,Hay River,YHY
+419,Montréal,YHU
+420,Haines Junction,YHT
+421,Sechelt,YHS
+422,Chevery,YHR
+423,Poplar Hill,YHP
+424,Hopedale,YHO
+425,Hornepayne,YHN
+426,Hamilton,YHM
+427,Gjoa Haven,YHK
+428,Ulukhaktok,YHI
+429,Campbell River,YHH
+430,Hearst,YHF
+431,Hope,YHE
+432,Dryden,YHD
+433,Hudson Bay,YHB
+434,Port Hope Simpson,YHA
+435,Grise Fiord,YGZ
+436,Gillam,YGX
+437,Kuujjuarapik,YGW
+438,Havre-Saint-Pierre,YGV
+439,Igloolik,YGT
+440,Îles-de-la-Madeleine,YGR
+441,Geraldton,YGQ
+442,Gaspé,YGP
+443,Gods Lake Narrows,YGO
+444,Broughton Island,YGN
+445,Gimli,YGM
+446,La Grande Rivière,YGL
+447,Kingston,YGK
+448,Yonago,YGJ
+449,Fort Good Hope,YGH
+450,Salt Spring Island,YGG
+451,Gorge Harbour,YGE
+452,Grande Cache,YGC
+453,Texada,YGB
+454,Duhamel,YGA
+455,St. Lewis,YFX
+456,Fort Simpson,YFS
+457,Fort Resolution,YFR
+458,Flin Flon,YFO
+459,Fort Reliance,YFL
+460,Wekweètì,YFJ
+461,Suncor Energy Site,YFI
+462,Fort Hope,YFH
+463,Fontanges,YFG
+464,Forestville,YFE
+465,Fredericton,YFC
+466,Iqaluit,YFB
+467,Fort Albany,YFA
+468,Amos,YEY
+469,Inuvik,YEV
+470,Eureka,YEU
+471,Edson,YET
+472,Yasouj,YES
+473,Fort Severn,YER
+474,Yeovil,YEO
+475,Estevan,YEN
+476,Manitowaning,YEM
+477,Elliot Lake,YEL
+478,Arviat,YEK
+479,Bursa,YEI
+480,Asaloyeh,YEH
+481,Yinchuan,YEH
+482,Edmonton,YEG
+483,Yecheon-ri,YEC
+484,Bar River,YEB
+485,Obre Lake,YDW
+486,Bloodvein River,YDV
+487,Kasba Lake,YDU
+488,Vancouver,YDT
+489,Dawson Creek,YDQ
+490,Nain,YDP
+491,Dolbeau-St-Félicien,YDO
+492,Dauphin,YDN
+493,Dease Lake,YDL
+494,Hatchet Lake,YDJ
+495,Digby,YDG
+496,Deer Lake,YDF
+497,Drayton Valley,YDC
+498,Burwash,YDB
+499,Dawson City,YDA
+500,Fairmont Hot Springs,YCZ
+501,Clyde River,YCY
+502,Chilliwack,YCW
+503,Montreal,YCV
+504,Yuncheng,YCU
+505,Coronation,YCT
+506,Chesterfield Inlet,YCS
+507,Cross Lake,YCR
+508,Chetwynd,YCQ
+509,Kugluktuk,YCO
+510,Cochrane,YCN
+511,St Catharines,YCM
+512,Charlo,YCL
+513,Colville Lake,YCK
+514,Miramichi,YCH
+515,Castlegar,YCG
+516,Cortes Bay,YCF
+517,Centralia,YCE
+518,Nanaimo,YCD
+519,Cornwall,YCC
+520,Cambridge Bay,YCB
+521,Courtenay,YCA
+522,Bonnyville,YBY
+523,Lourdes-De-Blanc-Sablon,YBX
+524,Bedwell Harbour,YBW
+525,Berens River,YBV
+526,Brochet,YBT
+527,Opapimiskan Lake,YBS
+528,Brandon,YBR
+529,Thetis Island,YBQ
+530,Yibin,YBP
+531,Yibin,YBP
+532,Bob Quinn Lake,YBO
+533,Bronson Creek,YBM
+534,Campbell River,YBL
+535,Baker Lake,YBK
+536,Baie-Johan-Beetz,YBJ
+537,Black Tickle,YBI
+538,Bull Harbour,YBH
+539,Bagotville,YBG
+540,Bamfield,YBF
+541,Uranium City,YBE
+542,Baie-Comeau,YBC
+543,Kugaaruk,YBB
+544,Banff,YBA
+545,Tofino,YAZ
+546,St. Anthony,YAY
+547,Angling Lake,YAX
+548,Miners Bay,YAV
+549,Kattiniq,YAU
+550,Attawapiskat,YAT
+551,Yasawa Island,YAS
+552,La Grande-3,YAR
+553,Maple Bay,YAQ
+554,Yap Island,YAP
+555,Yaoundé,YAO
+556,Yangambi,YAN
+557,Sault Ste Marie,YAM
+558,Alert Bay,YAL
+559,Yakutat,YAK
+560,Saturna Island,YAJ
+561,Chillan,YAI
+562,La Grande-4,YAH
+563,Fort Frances,YAG
+564,Cat Lake,YAC
+565,Arctic Bay,YAB
+566,Anahim Lake,YAA
+567,Sé,XZM
+568,Zabré,XZA
+569,Yellow River Mission,XYR
+570,Ye,XYE
+571,Yandina,XYA
+572,Riyadh,XXN
+573,Williston,XWA
+574,Valenciennes/Denain,XVS
+575,Vinh Long,XVL
+576,Xuzhou,XUZ
+577,Tadoule Lake,XTL
+578,Seletar,XSP
+579,South Indian Lake,XSI
+580,Sebba,XSE
+581,Tonopah,XSD
+582,Jerez de la Frontera,XRY
+583,Ross River,XRR
+584,New Barag Right Banner,XRQ
+585,Richmond,XRH
+586,Qualicum Beach,XQU
+587,Quepos,XQP
+588,Pine Ridge,XPR
+589,Poplar River,XPP
+590,Comayagua,XPL
+591,Pukatawagan,XPK
+592,Pama,XPA
+593,Orange/Caritat,XOG
+594,Nouna,XNU
+595,Xingtai,XNT
+596,Xining,XNN
+597,Nasiriyah,XNH
+598,Quảng Ngãi,XNG
+599,Fayetteville/Springdale/Rogers,XNA
+600,Yam Island,XMY
+601,Macas,XMS
+602,Macmillan Pass,XMP
+603,"Xiang'an, Xiamen",XMN
+604,Xiamen,XMN
+605,Masasi,XMI
+606,Mahendranagar,XMG
+607,Maubeuge/Élesmes,XME
+608,Madison,XMD
+609,Maramag,XMA
+610,Lemwerder,XLW
+611,Leo,XLU
+612,Saint Louis,XLS
+613,Long Xuyên,XLO
+614,Lac Brochet,XLB
+615,Kaya,XKY
+616,Kasabonika,XKS
+617,Xieng Khouang,XKH
+618,Kantchari,XKA
+619,Mangla,XJM
+620,Ar Rayyan,XJD
+621,Xi'an,XIY
+622,Ilimanaq,XIQ
+623,"Xingning, Meizhou",XIN
+624,Xilinhot,XIL
+625,Ahmed Al Jaber AB,XIJ
+626,Xinguara,XIG
+627,Xienglom,XIE
+628,Xichang,XIC
+629,Kangiqsualujjuaq,XGR
+630,Xangongo,XGN
+631,Gorom-Gorom,XGG
+632,Gaoua,XGA
+633,Hamburg,XFW
+634,Xiangfan,XFN
+635,Lake Geneva,XES
+636,"Xingcheng, Huludao",XEN
+637,Djibo,XDJ
+638,Diebougou,XDE
+639,Perigueux,XDA
+640,Charleville-Mézières,XCZ
+641,Vatry,XCR
+642,Colac,XCO
+643,Chatham-Kent,XCM
+644,Cluff Lake,XCL
+645,Flying Fish Cove,XCH
+646,Brockville,XBR
+647,Boulsa,XBO
+648,Biniguni,XBN
+649,Birjand,XBJ
+650,Bogande,XBG
+651,Bearskin Lake,XBE
+652,Blubber Bay,XBB
+653,Saül,XAU
+654,Aribinda,XAR
+655,Chapecó,XAP
+656,Álamos,XAL
+657,Xinyang,XAI
+658,Urad Middle Banner,WZQ
+659,West Yellowstone,WYS
+660,Yengema,WYE
+661,Yes Bay,WYB
+662,Washington Slaabaii,WYA
+663,Whyalla,WYA
+664,Wanxian,WXN
+665,West Wyalong,WWY
+666,Newtok,WWT
+667,Woodward,WWR
+668,Whale Pass,WWP
+669,Wewak,WWK
+670,Woodie Woodie,WWI
+671,Wildwood,WWD
+672,Wasilla,WWA
+673,Wilhelmshaven,WVN
+674,Waterville,WVL
+675,Manakara,WVK
+676,Watsonville,WVI
+677,Walvis Bay,WVB
+678,Tangbu,WUZ
+679,Wuzhou (Changzhou),WUZ
+680,Wuxi,WUX
+681,Wuvulu Island,WUV
+682,Wau,WUU
+683,Xinzhou,WUT
+684,Wuyishan,WUS
+685,Wasum,WUM
+686,Murrin Murrin,WUI
+687,Wuhan,WUH
+688,Wau,WUG
+689,Wuhai,WUA
+690,Wantoat,WTT
+691,Tsiroanomandidy,WTS
+692,Whiteriver,WTR
+693,Fatima Mission,WTP
+694,Wotho Island,WTO
+695,Waddington,WTN
+696,Tuntutuliak,WTL
+697,Noatak,WTK
+698,Wotje Atoll,WTE
+699,West End,WTD
+700,Toowoomba,WTB
+701,Tambohorano,WTA
+702,Westsound,WSX
+703,Wasu,WSU
+704,Westerly,WST
+705,Wasior-Papua Island,WSR
+706,Waspam,WSP
+707,Washabo,WSO
+708,South Naknek,WSN
+709,Wiseman,WSM
+710,Wushan,WSK
+711,Shirley,WSH
+712,Washington,WSG
+713,White Sands,WSD
+714,Steamboat Bay,WSB
+715,Wasua,WSA
+716,Weerawila,WRZ
+717,Westray,WRY
+718,Warton,WRT
+719,Wrocław,WRO
+720,Windarling Mine,WRN
+721,Worland,WRL
+722,Wrightstown,WRI
+723,Wrangell,WRG
+724,Warner Robins,WRB
+725,Warder,WRA
+726,Puerto Williams,WPU
+727,Porvenir,WPR
+728,Paonia,WPO
+729,Wipim,WPM
+730,Pincher Creek,WPC
+731,Port Bergé,WPB
+732,Puerto Aysen,WPA
+733,Willow,WOW
+734,Wang'an,WOT
+735,Wonsan,WOS
+736,Wondoola,WON
+737,Wonken,WOK
+738,Bergen Op Zoom,WOE
+739,Wonenara,WOA
+740,Wenzhou,WNZ
+741,Wanuma,WNU
+742,Nawabashah,WNS
+743,Naga,WNP
+744,Wunnumin Lake,WNN
+745,Wangi-wangi Island,WNI
+746,Wenshan,WNH
+747,Napakiak,WNA
+748,"Wamena, Jayawijaya Regency, Papua Province",WMX
+749,Zunyi,WMT
+750,Mananara Nord,WMR
+751,Mampikony,WMP
+752,White Mountain,WMO
+753,Malaimbandy,WML
+754,Meyers Chuck,WMK
+755,Warsaw,WMI
+756,Mountain Home,WMH
+757,Mandabe,WMD
+758,Winnemucca,WMC
+759,Mandritsara,WMA
+760,Willows,WLW
+761,Wallis Island,WLS
+762,Loring,WLR
+763,Selawik,WLK
+764,Walaha,WLH
+765,Wellington,WLG
+766,Winfield / Arkansas City,WLD
+767,Wallal,WLA
+768,Wakunai,WKN
+769,Waikoloa Village,WKL
+770,Aleknagik,WKK
+771,Wakkanai,WKJ
+772,Hwange,WKI
+773,Pretoria,WKF
+774,Wonju,WJU
+775,Wajir,WJR
+776,Lancaster,WJF
+777,Woja,WJA
+778,Garove Island,WIU
+779,Wairoa,WIR
+780,Nairobi,WIL
+781,Wiesbaden,WIE
+782,British Armed Forces,WID
+783,Wick,WIC
+784,Vernon,WIB
+785,Wuhu,WHU
+786,Wharton,WHT
+787,Whalsay,WHS
+788,Los Angeles,WHP
+789,Welshpool,WHL
+790,Wadi Halfa,WHF
+791,Hyder,WHD
+792,Wagny,WGY
+793,Wagau,WGU
+794,Waingapu-Sumba Island,WGP
+795,Winchester,WGO
+796,Shaoyang,WGN
+797,Warangal,WGC
+798,Bahawalnagar,WGB
+799,Wagga Wagga,WGA
+800,Frenchville,WFK
+801,Fianarantsoa,WFI
+802,Ketchikan,WFB
+803,Wagethe-Papua Island,WET
+804,Weam,WEP
+805,West Malling,WEM
+806,Weipa,WEI
+807,Weihai,WEH
+808,Weifang,WEF
+809,Wedau,WED
+810,Weatherford,WEA
+811,Shiyan,WDS
+812,Winder,WDR
+813,Eastsound,WDN
+814,Windhoek,WDH
+815,Enid,WDG
+816,Ain District,WDA
+817,Chandalar Lake,WCR
+818,Chaiten,WCH
+819,Carosue Dam Gold Mine,WCD
+820,Castro,WCA
+821,Wilkes-Barre,WBW
+822,Boulder,WBU
+823,Big Rapids,WBR
+824,Beaver,WBQ
+825,Beroroha,WBO
+826,West Branch,WBK
+827,Jagel,WBG
+828,Bealanana,WBE
+829,Befandriana,WBD
+830,Wapolu,WBC
+831,Stebbins,WBB
+832,Seram Island,WBA
+833,Waynesburg,WAY
+834,Zuwara,WAX
+835,Warsaw,WAW
+836,Wauchope,WAU
+837,Waterford,WAT
+838,Swach,WAR
+839,Antsalova,WAQ
+840,Magalang,WAP
+841,Alto Palena,WAP
+842,Wabo,WAO
+843,Waverney,WAN
+844,Ambatondrazaka,WAM
+845,Wallops Island,WAL
+846,Ankazoabo,WAK
+847,Wavoi Falls,WAJ
+848,Antsohihy,WAI
+849,Wahpeton,WAH
+850,Wanganui,WAG
+851,Waana,WAF
+852,Andriamena,WAD
+853,Waca,WAC
+854,Wabag,WAB
+855,Wales,WAA
+856,Peru,VYS
+857,Vilyuisk,VYI
+858,Vryheid,VYD
+859,Växjö,VXO
+860,São Pedro,VXE
+861,Lichinga,VXC
+862,Illizi,VVZ
+863,Artyom,VVO
+864,Las Malvinas,VVN
+865,Västervik,VVK
+866,Santa Cruz,VVI
+867,Villavicencio,VVC
+868,Mahanoro,VVB
+869,Liwonde National Park,VUU
+870,Velikiy Ustyug,VUS
+871,Valledupar,VUP
+872,Visakhapatnam,VTZ
+873,Las Tunas,VTU
+874,Valentine,VTN
+875,Beersheba,VTM
+876,Vung Tau,VTG
+877,Vatulele,VTF
+878,Vientiane,VTE
+879,Vitebsk,VTB
+880,Stockholm / Västerås,VST
+881,Luhansk,VSG
+882,Springfield,VSF
+883,Viseu,VSE
+884,Villahermosa,VSA
+885,Værøy,VRY
+886,Vyrburg,VRU
+887,Versailles,VRS
+888,Varadero,VRO
+889,Verona,VRN
+890,Vila Real,VRL
+891,Varkaus / Joroinen,VRK
+892,Varandey,VRI
+893,Vredendal,VRE
+894,Virac,VRC
+895,Vero Beach,VRB
+896,Varadero,VRA
+897,Vieques Island,VQS
+898,Vieques Island,VQS
+899,Jacksonville,VQQ
+900,Valparaiso,VPZ
+901,Chimoio,VPY
+902,Valparaiso,VPS
+903,Vopnafjörður,VPN
+904,Vipingo Estate,VPG
+905,Ngiva,VPE
+906,Voronezh,VOZ
+907,Votuporanga,VOT
+908,Nea Anchialos,VOL
+909,Camp Douglas,VOK
+910,Voinjama,VOI
+911,Volgograd,VOG
+912,Vodochody,VOD
+913,Van Nuys,VNY
+914,Vilanculo,VNX
+915,Ventspils,VNT
+916,Varanasi,VNS
+917,Vilnius,VNO
+918,Vannes/Meucon,VNE
+919,Vangaindrano,VND
+920,Venice,VNC
+921,Saravane,VNA
+922,Baimuru,VMU
+923,Puerto Vallemi,VMI
+924,Villa Mercedes,VME
+925,Angelsey,VLY
+926,Valera,VLV
+927,Velikiye Luki,VLU
+928,Epi Island,VLS
+929,Vallenar,VLR
+930,Vila Rica,VLP
+931,Valencia,VLN
+932,Villamontes,VLM
+933,Valladolid,VLL
+934,Port Vila,VLI
+935,Villa Gesell,VLG
+936,Grand Canyon,VLE
+937,Valdosta,VLD
+938,Valencia,VLC
+939,Vandalia,VLA
+940,Vorkuta,VKT
+941,Vicksburg,VKS
+942,Moscow,VKO
+943,Rach Gia,VKG
+944,Gurue,VJQ
+945,Abingdon,VJI
+946,Xai-Xai,VJB
+947,Villacoublay/Vélizy,VIY
+948,Vitória,VIX
+949,Vivigani,VIV
+950,Viru,VIU
+951,Alava,VIT
+952,Visalia,VIS
+953,Durban,VIR
+954,Viqueque,VIQ
+955,Vinnitsa,VIN
+956,Dakhla,VIL
+957,Spanish Town,VIJ
+958,Vinh,VII
+959,Rolla/Vichy,VIH
+960,El Vigía,VIG
+961,Vieste,VIF
+962,Vienna (Schwechat),VIE
+963,Vicenza,VIC
+964,Comondú,VIB
+965,Videira,VIA
+966,Vahitahi,VHZ
+967,Vichy/Charmeil,VHY
+968,Verkhnevilyuisk,VHV
+969,Van Horn,VHN
+970,Saurimo,VHC
+971,Villa Garzón,VGZ
+972,Las Vegas,VGT
+973,General Villegas,VGS
+974,Vigo,VGO
+975,Vologda,VGD
+976,Gannavaram,VGA
+977,Victoria Falls,VFA
+978,Vestmannaeyjar,VEY
+979,Tioga,VEX
+980,Barakoma,VEV
+981,Veracruz,VER
+982,Vernal,VEL
+983,Maikwak,VEG
+984,Venetie,VEE
+985,Valdez,VDZ
+986,Toranagallu,VDY
+987,Vadsø,VDS
+988,Villa Dolores,VDR
+989,Van Don,VDO
+990,Viedma / Carmen de Patagones,VDM
+991,Vidalia,VDI
+992,Dong Hoi,VDH
+993,El Hierro Island,VDE
+994,Vitória da Conquista,VDC
+995,Eilat,VDA
+996,Victorville,VCV
+997,Victoria,VCT
+998,Con Dao,VCS
+999,Carora,VCR
+1000,Campinas,VCP
+1001,Tam Nghĩa,VCL
+1002,Vichadero,VCH
+1003,Valcheta,VCF
+1004,Venice,VCE
+1005,Nili,VCC
+1006,Limbé,VCC
+1007,Can Tho,VCA
+1008,Visby,VBY
+1009,Vanua Balavu,VBV
+1010,Montichiari (BS),VBS
+1011,Bokpyinn,VBP
+1012,Lompoc,VBG
+1013,Aeng,VBA
+1014,Vardø,VAW
+1015,Vava'u Island,VAV
+1016,Vatukoula,VAU
+1017,Vatomandry,VAT
+1018,Sivas,VAS
+1019,Varna,VAR
+1020,Viña Del Mar,VAP
+1021,Suavanao,VAO
+1022,Van,VAN
+1023,Maamigili,VAM
+1024,Valença,VAL
+1025,Chevak,VAK
+1026,Vanimo,VAI
+1027,Vallegrande,VAH
+1028,Varginha,VAG
+1029,Valence/Chabeuil,VAF
+1030,Valdosta,VAD
+1031,Cloppenburg,VAC
+1032,Vaasa,VAA
+1033,Curuzu Cuatia,UZU
+1034,Urzhar,UZR
+1035,Hope Bay,UZM
+1036,Užice,UZC
+1037,Quijarro,UYU
+1038,Yulin,UYN
+1039,Nyala,UYL
+1040,Ware,UWA
+1041,Uvol,UVO
+1042,Vieux Fort,UVF
+1043,Ouvéa,UVE
+1044,Uvalde,UVA
+1045,Manumu,UUU
+1046,Yuzhno-Sakhalinsk,UUS
+1047,Kuparuk,UUK
+1048,Ulan Ude,UUD
+1049,Bugulma,UUA
+1050,Queenstown,UTW
+1051,Ustupo,UTU
+1052,Mthatha,UTT
+1053,Ust-Tsylma,UTS
+1054,Uttaradit,UTR
+1055,Rayong,UTP
+1056,Utopia Creek,UTO
+1057,Upington,UTN
+1058,Tunica,UTM
+1059,Utirik Island,UTK
+1060,Utti / Valkeala,UTI
+1061,Udon Thani,UTH
+1062,Quthing,UTG
+1063,Bultfontein,UTE
+1064,Nutwood Downs,UTD
+1065,Soesterberg,UTC
+1066,Mutare,UTA
+1067,Coron,USU
+1068,St Augustine,UST
+1069,Sancti Spiritus,USS
+1070,Ust-Nera,USR
+1071,Uşak,USQ
+1072,Usino,USO
+1073,Ulsan,USN
+1074,Na Thon (Ko Samui Island),USM
+1075,Usinsk,USK
+1076,Usharal,USJ
+1077,Mabaruma,USI
+1078,Ushuahia,USH
+1079,Concord,USA
+1080,Orūzgān,URZ
+1081,Gurayat,URY
+1082,Uroubi,URU
+1083,Surat Thani,URT
+1084,Kursk,URS
+1085,Urrao,URR
+1086,Rouen/Vallée de Seine,URO
+1087,Urgun,URN
+1088,Uray,URJ
+1089,Uribe,URI
+1090,Uruguaiana,URG
+1091,Kuressaare,URE
+1092,Ebermannstadt,URD
+1093,Ürümqi,URC
+1094,Castilho,URB
+1095,Uralsk,URA
+1096,Upavon,UPV
+1097,Upiara,UPR
+1098,Hawi,UPP
+1099,Upala,UPL
+1100,Ujung Pandang-Celebes Island,UPG
+1101,Havana,UPB
+1102,Oxford,UOX
+1103,Sewanee,UOS
+1104,Buol-Celebes Island,UOL
+1105,Mururoa Atoll,UOA
+1106,Juneau,UNU
+1107,Shetland Islands,UNT
+1108,Öndörkhaan,UNR
+1109,Unalakleet,UNK
+1110,Union Island,UNI
+1111,Kiunga,UNG
+1112,Qacha's Nek,UNE
+1113,Kunduz,UND
+1114,Arquia,UNC
+1115,Una,UNA
+1116,Sumy,UMY
+1117,Umuarama,UMU
+1118,Umiat,UMT
+1119,Ust-Maya,UMS
+1120,Woomera,UMR
+1121,Summit,UMM
+1122,Quince Mil,UMI
+1123,Umeå,UME
+1124,Uummannaq,UMD
+1125,Umba,UMC
+1126,Maisi,UMA
+1127,Uliastai,ULZ
+1128,Ulyanovsk,ULY
+1129,Ulusaba,ULX
+1130,Ulyanovsk,ULV
+1131,Gulu,ULU
+1132,Tuluá,ULQ
+1133,Ulaangom,ULO
+1134,Ulaanbaatar,ULN
+1135,New Ulm,ULM
+1136,Lensk,ULK
+1137,Falalop Island,ULI
+1138,Al Ula,ULH
+1139,Ölgii,ULG
+1140,Sule,ULE
+1141,Ulundi,ULD
+1142,Santiago,ULC
+1143,Ambrym Island,ULB
+1144,San Julian,ULA
+1145,Ust-Kut,UKX
+1146,Nuku,UKU
+1147,Quakertown,UKT
+1148,Sevastopol,UKS
+1149,Mukayras,UKR
+1150,Waukon,UKN
+1151,Ust Kamenogorsk,UKK
+1152,Ukiah,UKI
+1153,Mukhaizna Oil Field,UKH
+1154,Ust-Kuyga,UKG
+1155,Kobe,UKB
+1156,Ukunda,UKA
+1157,"Bongsan-ri, Uljin",UJN
+1158,Ujae Atoll,UJE
+1159,Jabor Jaluit Atoll,UIT
+1160,Quoin Hill,UIQ
+1161,Quimper/Pluguffan,UIP
+1162,Quito,UIO
+1163,Quincy,UIN
+1164,Quillayute,UIL
+1165,Ust-Ilimsk,UIK
+1166,Utila Island,UII
+1167,Quy Nohn,UIH
+1168,Quibdó,UIB
+1169,Upper Heyford,UHF
+1170,Uherské Hradiště,UHE
+1171,Sugapa-Papua Island,UGU
+1172,Umnugobitour,UGT
+1173,Ugashik,UGS
+1174,Uige,UGO
+1175,Chicago/Waukegan,UGN
+1176,San Juan,UGI
+1177,Urgench,UGC
+1178,Pilot Point,UGB
+1179,Bulgan,UGA
+1180,Ufa,UFA
+1181,Quetta,UET
+1182,Waukesha,UES
+1183,Urengoy,UEN
+1184,Quelimane,UEL
+1185,Udaipur,UDR
+1186,Udine,UDN
+1187,Uzhhorod,UDJ
+1188,Uberlândia,UDI
+1189,Palm Springs,UDD
+1190,Uchiza,UCZ
+1191,Union City,UCY
+1192,Ukhta,UCT
+1193,Buchanan,UCN
+1194,Lutsk,UCK
+1195,Eunice,UCE
+1196,Mercury,UCC
+1197,Ulanqab,UCB
+1198,Ubatuba,UBT
+1199,Columbus,UBS
+1200,Ubrub-Papua Island,UBR
+1201,Ubon Ratchathani,UBP
+1202,Ulaanbaatar (Sergelen),UBN
+1203,Ube,UBJ
+1204,Buin,UBI
+1205,Mabuiag Island,UBB
+1206,Uberaba,UBA
+1207,Uaxactun,UAX
+1208,Samburu,UAS
+1209,Bouarfa,UAR
+1210,San Juan,UAQ
+1211,Ua Pou,UAP
+1212,"Yigo, Mariana Island",UAM
+1213,Luau,UAL
+1214,Narsarsuaq,UAK
+1215,Suai,UAI
+1216,Ua Huka,UAH
+1217,San Luis Río Colorado,UAC
+1218,Sarıçam,UAB
+1219,Trabzon,TZX
+1220,Taszár,TZR
+1221,Ankisatra,TZO
+1222,Andros,TZN
+1223,Tizimin,TZM
+1224,Tuzla,TZL
+1225,Caro,TZC
+1226,Belize City,TZA
+1227,Taylor,TYZ
+1228,Treinta y Tres,TYT
+1229,Knoxville,TYS
+1230,Tyler,TYR
+1231,Tobermorey,TYP
+1232,Taiyuan,TYN
+1233,Talara,TYL
+1234,Tyonek,TYE
+1235,Tynda,TYD
+1236,Tula,TYA
+1237,Tabou,TXU
+1238,Tanbar Station,TXR
+1239,Huangshan,TXN
+1240,Atinjoe-Papua Island,TXM
+1241,Berlin,TXL
+1242,Texarkana,TXK
+1243,Taichung (Xitun),TXG
+1244,Teixeira De Freitas,TXF
+1245,Takengon,TXE
+1246,Twitzel,TWZ
+1247,Tawa,TWY
+1248,Tawau,TWU
+1249,Torwood,TWP
+1250,Two Harbors,TWH
+1251,Twin Falls,TWF
+1252,Taylor,TWE
+1253,Port Townsend,TWD
+1254,Tumxuk,TWC
+1255,Toowoomba,TWB
+1256,Twin Hills,TWA
+1257,Dawei,TVY
+1258,Matei,TVU
+1259,Tangshan,TVS
+1260,South Lake Tahoe,TVL
+1261,Thomasville,TVI
+1262,Thief River Falls,TVF
+1263,Traverse City,TVC
+1264,Morafenobe,TVA
+1265,Tucumã,TUZ
+1266,Tulum,TUY
+1267,Tumbler Ridge,TUX
+1268,Tucupita,TUV
+1269,Tabuk,TUU
+1270,Tauta,TUT
+1271,Tucson,TUS
+1272,Tucuruí,TUR
+1273,Tougan,TUQ
+1274,Tupelo,TUP
+1275,Taupo,TUO
+1276,Tunis,TUN
+1277,Tulsa,TUL
+1278,Turbat,TUK
+1279,Tum,TUJ
+1280,Turaif,TUI
+1281,Tullahoma,TUH
+1282,Tuguegarao City,TUG
+1283,Tours/Val de Loire (Loire Valley),TUF
+1284,Isla Tupile,TUE
+1285,Tambacounda,TUD
+1286,San Miguel de Tucumán,TUC
+1287,Tulcán,TUA
+1288,Anjo Peninsula,TTX
+1289,Tissamaharama,TTW
+1290,Tétouan,TTU
+1291,Taitung City,TTT
+1292,Tsaratanana,TTS
+1293,Makale,TTR
+1294,Roxana,TTQ
+1295,Britton,TTO
+1296,Trenton,TTN
+1297,Nanuya Levu Island,TTL
+1298,Tottori,TTJ
+1299,Tetiaroa,TTI
+1300,Thumrait,TTH
+1301,Tartagal,TTG
+1302,Sango-Ternate Island,TTE
+1303,Portland,TTD
+1304,Taltal,TTC
+1305,Arbatax,TTB
+1306,Tan Tan,TTA
+1307,Tselserleg,TSZ
+1308,Tasikmalaya-Java Island,TSY
+1309,Santan-Borneo Island,TSX
+1310,Tsewi,TSW
+1311,Townsville,TSV
+1312,Tabiteuea South,TSU
+1313,Trang,TST
+1314,New York,TSS
+1315,Timişoara,TSR
+1316,Torres,TSQ
+1317,Tehachapi,TSP
+1318,Tianjin,TSN
+1319,Taos,TSM
+1320,Taskul,TSK
+1321,Tsushima,TSJ
+1322,Tsile Tsile,TSI
+1323,Tshikapa,TSH
+1324,Tanacross,TSG
+1325,Treviso,TSF
+1326,Astana,TSE
+1327,Tshipise,TSD
+1328,Taisha,TSC
+1329,Tsumeb,TSB
+1330,Taipei City,TSA
+1331,Tiruchirappalli,TRZ
+1332,Tororo,TRY
+1333,Tarawa,TRW
+1334,Thiruvananthapuram,TRV
+1335,Trujillo,TRU
+1336,Trieste,TRS
+1337,Trincomalee,TRR
+1338,Tarauacá,TRQ
+1339,Taree,TRO
+1340,Torino,TRN
+1341,Palm Springs,TRM
+1342,Terrell,TRL
+1343,Tarakan Island,TRK
+1344,Tarakbits,TRJ
+1345,Bristol/Johnson/Kingsport,TRI
+1346,Trona,TRH
+1347,Tauranga,TRG
+1348,Torp,TRF
+1349,Balemartine,TRE
+1350,Trondheim,TRD
+1351,Torreón,TRC
+1352,Turbo,TRB
+1353,Tarama,TRA
+1354,Ottawa,TR7
+1355,Tres Esquinas,TQS
+1356,Tremiti Islands,TQR
+1357,Waha-Tomea Island,TQQ
+1358,Trepell,TQP
+1359,Taleqan,TQN
+1360,Tarko-Sale,TQL
+1361,Tiniteqilaaq,TQI
+1362,Al Habbaniyah,TQD
+1363,Upernavik,TQA
+1364,Tupai Atoll,TPX
+1365,Tikapur,TPU
+1366,Tapeta,TPT
+1367,Trapani (TP),TPS
+1368,Tom Price,TPR
+1369,Tepic,TPQ
+1370,Tarapoto,TPP
+1371,Tiputini,TPN
+1372,Temple,TPL
+1373,Tapak Tuan-Sumatra Island,TPK
+1374,Taplejung,TPJ
+1375,Tapini,TPI
+1376,Tonopah,TPH
+1377,Taiping,TPG
+1378,Tampa,TPF
+1379,Taipei,TPE
+1380,Tarapoa,TPC
+1381,Tampa,TPA
+1382,Touba,TOZ
+1383,Toyama,TOY
+1384,Tobolsk,TOX
+1385,Toledo,TOW
+1386,Tortola,TOV
+1387,Touho,TOU
+1388,Totness,TOT
+1389,Tromsø,TOS
+1390,Torrington,TOR
+1391,Tocopilla,TOQ
+1392,Topeka,TOP
+1393,Coto Brus,TOO
+1394,Tonu,TON
+1395,Timbuktu,TOM
+1396,Toledo,TOL
+1397,Torokina,TOK
+1398,Madrid,TOJ
+1399,Troy,TOI
+1400,Loh/Linua,TOH
+1401,Togiak Village,TOG
+1402,Tomsk,TOF
+1403,Tozeur,TOE
+1404,Pulau Tioman,TOD
+1405,Toccoa,TOC
+1406,Tobruk,TOB
+1407,Torrance,TOA
+1408,Tosontsengel,TNZ
+1409,Stung Treng,TNX
+1410,Tena,TNW
+1411,Tabuaeran Island,TNV
+1412,Newton,TNU
+1413,Miami,TNT
+1414,Tungsten,TNS
+1415,Antananarivo,TNR
+1416,Teraina,TNQ
+1417,Twentynine Palms,TNP
+1418,Tamarindo,TNO
+1419,Tainan (Rende),TNN
+1420,Villa Las Estrellas,TNM
+1421,Tununak,TNK
+1422,Tanjung Pinang-Bintan Island,TNJ
+1423,Tonghua,TNH
+1424,Tangier,TNG
+1425,Toussus-le-Noble,TNF
+1426,Tanegashima,TNE
+1427,Trinidad,TND
+1428,Tin City,TNC
+1429,Tanah Grogot-Borneo Island,TNB
+1430,Jinan,TNA
+1431,Tiom-Papua Island,TMY
+1432,Timimoun,TMX
+1433,Tamworth,TMW
+1434,Nicoya,TMU
+1435,Oriximiná,TMT
+1436,São Tomé,TMS
+1437,Tamanrasset,TMR
+1438,Tambao,TMQ
+1439,Tampere / Pirkkala,TMP
+1440,Tamana Island,TMN
+1441,Tamale,TML
+1442,Termez,TMJ
+1443,Tumling Tar,TMI
+1444,Tanah Merah-Papua Island,TMH
+1445,Tomanggong,TMG
+1446,Thimarafushi,TMF
+1447,Tame,TME
+1448,Timbedra,TMD
+1449,Waikabubak-Sumba Island,TMC
+1450,Miami,TMB
+1451,Tifton,TMA
+1452,Catalão,TLZ
+1453,Plastun,TLY
+1454,Talca,TLX
+1455,Talasea,TLW
+1456,Tel Aviv,TLV
+1457,Tolú,TLU
+1458,Tuluksak,TLT
+1459,Toulouse/Blagnac,TLS
+1460,Tulare,TLR
+1461,Turpan,TLQ
+1462,Tumolbil,TLP
+1463,Tol,TLO
+1464,Toulon/Hyères/Le Palyvestre,TLN
+1465,Tlemcen,TLM
+1466,Tallinn,TLL
+1467,Talakan Oil Field,TLK
+1468,Takotna,TLJ
+1469,Toli Toli-Celebes Island,TLI
+1470,Tallahassee,TLH
+1471,Tulaghi Island,TLG
+1472,Telida,TLF
+1473,Toliara,TLE
+1474,Tuli Lodge,TLD
+1475,Toluca,TLC
+1476,Tarbela,TLB
+1477,Teller,TLA
+1478,Tokoroa,TKZ
+1479,Turkey Creek,TKY
+1480,Tekin,TKW
+1481,Tatakoto,TKV
+1482,Turku,TKU
+1483,Tokushima,TKS
+1484,Thakurgaon,TKR
+1485,Kigoma,TKQ
+1486,Tlokoeng,TKO
+1487,Amagi,TKN
+1488,Tikal,TKM
+1489,Taku Lodge,TKL
+1490,Weno Island,TKK
+1491,Tok,TKJ
+1492,Tokeen,TKI
+1493,Bandar Lampung-Sumatra Island,TKG
+1494,Truckee,TKF
+1495,Tenakee Springs,TKE
+1496,Sekondi-Takoradi,TKD
+1497,Tiko,TKC
+1498,Tekadu,TKB
+1499,Talkeetna,TKA
+1500,Thanjavur,TJV
+1501,Kulyab,TJU
+1502,Tanjung Selor-Borneo Island,TJS
+1503,Tanjung Pandan-Belitung Island,TJQ
+1504,Takume,TJN
+1505,Tyumen,TJM
+1506,Três Lagoas,TJL
+1507,Tokat,TJK
+1508,Trujillo,TJI
+1509,Toyooka,TJH
+1510,Tanta-Tabalong-Borneo Island,TJG
+1511,Ticantiqui,TJC
+1512,Tanjung Balai-Karinmunbesar Island,TJB
+1513,Tarija,TJA
+1514,Tari,TIZ
+1515,Tidjikja,TIY
+1516,Titusville,TIX
+1517,Tacoma,TIW
+1518,Tivat,TIV
+1519,Tirupati,TIR
+1520,Tinian Island,TIQ
+1521,Tripoli,TIP
+1522,Tilin,TIO
+1523,Tindouf,TIN
+1524,Timika-Papua Island,TIM
+1525,Cheadle,TIL
+1526,Oklahoma City,TIK
+1527,Tijuana,TIJ
+1528,Tarinkot,TII
+1529,Tingwon Island,TIG
+1530,Ta’if,TIF
+1531,Tippi,TIE
+1532,Tiaret,TID
+1533,Arno Atoll,TIC
+1534,Tibú,TIB
+1535,Tirana,TIA
+1536,Tahoua,THZ
+1537,Thohoyandou,THY
+1538,Turukhansk,THX
+1539,Trincomalee,THW
+1540,Thomasville,THV
+1541,Thule,THU
+1542,Tamchakett,THT
+1543,Tehran,THR
+1544,Tianshui,THQ
+1545,Thermopolis,THP
+1546,Thorshofn,THO
+1547,Trollhättan,THN
+1548,Thompson Falls,THM
+1549,Tachileik,THL
+1550,Thakhek,THK
+1551,Tichitt,THI
+1552,Taharoa,THH
+1553,Biloela,THG
+1554,Berlin,THF
+1555,Teresina,THE
+1556,Thanh Hóa,THD
+1557,Zwedru,THC
+1558,Thaba-Tseka,THB
+1559,Tullahoma,THA
+1560,Tuxtla Gutiérrez,TGZ
+1561,Buhovtsi,TGV
+1562,Tegucigalpa,TGU
+1563,Tanga,TGT
+1564,Chokwé,TGS
+1565,Touggourt,TGR
+1566,Tangará Da Serra,TGQ
+1567,Bor,TGP
+1568,Tongliao,TGO
+1569,Morwell,TGN
+1570,Târgu Mureş,TGM
+1571,Sudest Island,TGL
+1572,Taganrog,TGK
+1573,Tiga,TGJ
+1574,Tingo Maria,TGI
+1575,Tongoa Island,TGH
+1576,Kuala Terengganu,TGG
+1577,Tuskegee,TGE
+1578,Podgorica,TGD
+1579,Tanjung Manis,TGC
+1580,Western Water Catchment,TGA
+1581,Krui,TFY
+1582,"Jianyang, Chengdu",TFU
+1583,Taftan,TFT
+1584,Tenerife Island,TFS
+1585,Tenerife Island,TFN
+1586,Telefomin,TFM
+1587,Teófilo Otoni,TFL
+1588,Tufi,TFI
+1589,Tefé,TFF
+1590,Tifalmin,TFB
+1591,Þingeyri,TEY
+1592,Telluride,TEX
+1593,Teruel,TEV
+1594,Tete,TET
+1595,Tessenei,TES
+1596,Praia da Vitória,TER
+1597,Çorlu,TEQ
+1598,Teptep,TEP
+1599,Terapo Mission,TEO
+1600,Temora,TEM
+1601,Telupid,TEL
+1602,Tatitlek,TEK
+1603,Tezu,TEI
+1604,Tenkodogo,TEG
+1605,Tébessi,TEE
+1606,Thisted,TED
+1607,Telêmaco Borba,TEC
+1608,Teterboro,TEB
+1609,Tela,TEA
+1610,Toledo,TDZ
+1611,Laem Ngop,TDX
+1612,Amarillo,TDW
+1613,Tanandava,TDV
+1614,Welverdiend,TDT
+1615,Sasereme,TDS
+1616,Corrientes,TDP
+1617,Toledo,TDO
+1618,Theda Station,TDN
+1619,Tandil,TDL
+1620,Taldy Kurgan,TDK
+1621,Tadjoura,TDJ
+1622,Trinidad,TDD
+1623,Tetebedi,TDB
+1624,Trinidad,TDA
+1625,Tengchong,TCZ
+1626,Terrace Bay,TCY
+1627,Tabas,TCX
+1628,Homeward,TCU
+1629,Takotna,TCT
+1630,Truth Or Consequences,TCS
+1631,Vagaikulam,TCR
+1632,Tacna,TCQ
+1633,Taba,TCP
+1634,Tumaco,TCO
+1635,Tacoma,TCM
+1636,Tuscaloosa,TCL
+1637,Tinboli,TCK
+1638,Torembi,TCJ
+1639,Tchibanga,TCH
+1640,Tacheng,TCG
+1641,Tulcea,TCE
+1642,Tarapacá,TCD
+1643,Tucumcari,TCC
+1644,Treasure Cay,TCB
+1645,Tennant Creek,TCA
+1646,Tabriz,TBZ
+1647,Tshabong,TBY
+1648,Tambov,TBW
+1649,Tabal Island,TBV
+1650,Nuku'alofa,TBU
+1651,Tabatinga,TBT
+1652,Tbilisi,TBS
+1653,Statesboro,TBR
+1654,Tarabo,TBQ
+1655,Tumbes,TBP
+1656,Tabora,TBO
+1657,Fort Leonard Wood,TBN
+1658,Tumbang Samba-Borneo Island,TBM
+1659,Tabarka,TBJ
+1660,Cat Island,TBI
+1661,Tablas Island,TBH
+1662,Tabubil,TBG
+1663,Timbunke,TBE
+1664,Tuba City,TBC
+1665,Tuy Hoa,TBB
+1666,Tabibuga,TBA
+1667,Daşoguz,TAZ
+1668,Tartu,TAY
+1669,Tikong-Taliabu Island,TAX
+1670,Tacuarembo,TAW
+1671,Tau,TAV
+1672,Tauramena,TAU
+1673,Poprad,TAT
+1674,Tashkent,TAS
+1675,Grottaglie,TAR
+1676,Tarcoola,TAQ
+1677,Tapachula,TAP
+1678,"Jiaodong, Jiaozhou",TAO
+1679,Qingdao,TAO
+1680,Tampico,TAM
+1681,Tanana,TAL
+1682,Takamatsu,TAK
+1683,Aitape,TAJ
+1684,Ta'izz,TAI
+1685,Panglao,TAG
+1686,Tagbilaran City,TAG
+1687,Tafraoui,TAF
+1688,Daegu,TAE
+1689,Trinidad,TAD
+1690,Tacloban City,TAC
+1691,Scarborough,TAB
+1692,Tarapaina,TAA
+1693,Goleniow,SZZ
+1694,Olsztyn,SZY
+1695,"Bao'an, Shenzhen",SZX
+1696,Suzhou,SZV
+1697,San Cristobal de las Casas,SZT
+1698,Oban,SZS
+1699,Stara Zagora,SZR
+1700,Presidencia Roque Sáenz Peña,SZQ
+1701,Santa Paula,SZP
+1702,Santa Barbara,SZN
+1703,Knob Noster,SZL
+1704,Skukuza,SZK
+1705,Isla de la Juventud,SZJ
+1706,Zaysan,SZI
+1707,Senipah,SZH
+1708,Salzburg,SZG
+1709,Samsun,SZF
+1710,Semera,SZE
+1711,Subang,SZB
+1712,Soyo,SZA
+1713,Shiraz,SYZ
+1714,Stornoway,SYY
+1715,Sanya (Tianya),SYX
+1716,Sehwan Sharif,SYW
+1717,Sylvester,SYV
+1718,Sue Islet,SYU
+1719,Saint-Yan,SYT
+1720,Saskylakh,SYS
+1721,Syracuse,SYR
+1722,San Jose,SYQ
+1723,Santiago,SYP
+1724,Shonai,SYO
+1725,Stanton,SYN
+1726,Pu'er,SYM
+1727,Camp Roberts/San Miguel,SYL
+1728,Stykkishólmur,SYK
+1729,Shelbyville,SYI
+1730,Namche Bazaar,SYH
+1731,Gabriola Island,SYF
+1732,Sa'dah,SYE
+1733,Sydney,SYD
+1734,Shiringayoc,SYC
+1735,Seal Bay,SYB
+1736,Shemya,SYA
+1737,Siirt,SXZ
+1738,Sidney,SXY
+1739,São Félix do Xingu,SXX
+1740,Sauren,SXW
+1741,Salem,SXV
+1742,Soddu,SXU
+1743,Taman Negara,SXT
+1744,Sahabat,SXS
+1745,Srinagar,SXR
+1746,Soldotna,SXQ
+1747,Nunam Iqua,SXP
+1748,São Félix Do Araguaia,SXO
+1749,Sowa,SXN
+1750,Saint Martin,SXM
+1751,Sligo,SXL
+1752,Saumlaki-Yamdena Island,SXK
+1753,Shanshan,SXJ
+1754,Sehulea,SXH
+1755,Senanga,SXG
+1756,Sale,SXE
+1757,Strasbourg,SXB
+1758,Sialum,SXA
+1759,Sydney (Badgerys Creek),SWZ
+1760,Sitiawan,SWY
+1761,Shakawe,SWX
+1762,Sweetwater,SWW
+1763,Evensk,SWV
+1764,Strezhevoy,SWT
+1765,Swansea,SWS
+1766,Silur Mission,SWR
+1767,Sumbawa Island,SWQ
+1768,Swakopmund,SWP
+1769,Stillwater,SWO
+1770,Sahiwal,SWN
+1771,Alto Boa Vista,SWM
+1772,San Vicente,SWL
+1773,Malekula Island,SWJ
+1774,Satwag,SWG
+1775,Newburgh,SWF
+1776,Siwea,SWE
+1777,Seward,SWD
+1778,Shaw River,SWB
+1779,"Rongcheng, Jieyang",SWA
+1780,Yekaterinburg,SVX
+1781,Sparrevohn,SVW
+1782,San Salvador de Paul,SVV
+1783,Savusavu,SVU
+1784,Savuti,SVT
+1785,Stevens Village,SVS
+1786,Savissivik,SVR
+1787,Sevilla,SVQ
+1788,Kuito,SVP
+1789,Moscow,SVO
+1790,Savannah,SVN
+1791,Savonlinna,SVL
+1792,Silver Creek,SVK
+1793,Svolvær,SVJ
+1794,San Vicente Del Caguán,SVI
+1795,Statesville,SVH
+1796,Stavanger,SVG
+1797,Savé,SVF
+1798,Susanville,SVE
+1799,Kingstown,SVD
+1800,Kingstown,SVD
+1801,Silver City,SVC
+1802,Savoonga,SVA
+1803,Suria,SUZ
+1804,Suntar,SUY
+1805,Sioux City,SUX
+1806,Superior,SUW
+1807,Nausori,SUV
+1808,Fairfield,SUU
+1809,Sumbawanga,SUT
+1810,St Louis,SUS
+1811,Summer Beaver,SUR
+1812,Sucua,SUQ
+1813,Sumenep-Madura Island,SUP
+1814,Sunriver,SUO
+1815,Hailey,SUN
+1816,Sumter,SUM
+1817,Sui,SUL
+1818,Batagay-Alyta,SUK
+1819,Satu Mare,SUJ
+1820,Sukhumi,SUI
+1821,Sur,SUH
+1822,Surigao City,SUG
+1823,Lamezia Terme (CZ),SUF
+1824,Sturgeon Bay,SUE
+1825,Stroud,SUD
+1826,Surabaya,SUB
+1827,Stuart,SUA
+1828,Santa Terezinha,STZ
+1829,Salto,STY
+1830,Christiansted,STX
+1831,Stavropol,STW
+1832,Santa Cruz,STU
+1833,"Charlotte Amalie, Harry S. Truman Airport",STT
+1834,Santa Rosa,STS
+1835,Stuttgart,STR
+1836,St Marys,STQ
+1837,St Paul,STP
+1838,London,STN
+1839,Santarém,STM
+1840,St Louis,STL
+1841,Sterling,STK
+1842,St Joseph,STJ
+1843,Santiago,STI
+1844,St George,STG
+1845,Stephens Island,STF
+1846,Stevens Point,STE
+1847,Santo Domingo,STD
+1848,Saint Cloud,STC
+1849,Skjern / Ringkøbing,STA
+1850,Guarujá,SSZ
+1851,Mbanza Congo,SSY
+1852,Singita Safari Lodge,SSX
+1853,Friday Harbor,SSW
+1854,Siasi,SSV
+1855,White Sulphur Springs,SSU
+1856,Santa Teresita,SST
+1857,Siassi,SSS
+1858,Pentecost Island,SSR
+1859,La Sarre,SSQ
+1860,Silver Plains,SSP
+1861,São Lourenço,SSO
+1862,Simgok-dong,SSN
+1863,Santa Rosalia,SSL
+1864,Sturt Creek,SSK
+1865,Alstahaug,SSJ
+1866,St Simons Island,SSI
+1867,Sharm el-Sheikh,SSH
+1868,Malabo,SSG
+1869,San Antonio,SSF
+1870,Solapur,SSE
+1871,San Felipe,SSD
+1872,Sumter,SSC
+1873,Christiansted St Croix,SSB
+1874,Salvador,SSA
+1875,Santa Cruz,SRZ
+1876,Sari,SRY
+1877,Sirt,SRX
+1878,Salisbury,SRW
+1879,Stony River,SRV
+1880,Scotts Valley,SRU
+1881,Soroti,SRT
+1882,San Marcos,SRS
+1883,Stradbroke Island,SRR
+1884,Sarasota/Bradenton,SRQ
+1885,Leirvik,SRP
+1886,Santana Ramos,SRO
+1887,Sandringham Station,SRM
+1888,Mulegé,SRL
+1889,Siorapaluk,SRK
+1890,San Borja,SRJ
+1891,Sarh,SRH
+1892,Semarang-Java Island,SRG
+1893,San Rafael,SRF
+1894,Yamparaez,SRE
+1895,San Ramón / Mamoré,SRD
+1896,Santa Rosa,SRB
+1897,Santa Rosa,SRA
+1898,Scampton,SQZ
+1899,São Lourenço Do Sul,SQY
+1900,São Miguel Do Oeste,SQX
+1901,Skive,SQW
+1902,Sequim,SQV
+1903,Plaza Saposoa,SQU
+1904,Samarai Island,SQT
+1905,San Ignacio,SQS
+1906,Soroako-Celebes Island,SQR
+1907,Šiauliai,SQQ
+1908,Sanana-Seram Island,SQN
+1909,São Miguel Do Araguaia,SQM
+1910,San Carlos,SQL
+1911,Sidi Barrani,SQK
+1912,Sanming,SQJ
+1913,Sterling/Rockfalls,SQI
+1914,Son-La,SQH
+1915,Sintang-Borneo Island,SQG
+1916,Solano,SQF
+1917,San Luis De Palenque,SQE
+1918,Shangrao,SQD
+1919,Piedras,SQB
+1920,Santa Ynez,SQA
+1921,Kralendijk,SQA
+1922,Springdale,SPZ
+1923,Giza,SPX
+1924,Spencer,SPW
+1925,Sepik Plains,SPV
+1926,Split,SPU
+1927,Sipitang,SPT
+1928,Wichita Falls,SPS
+1929,San Pedro,SPR
+1930,San Pedro,SPQ
+1931,Menongue,SPP
+1932,Saipan Island,SPN
+1933,Trier,SPM
+1934,Sparti,SPJ
+1935,Springfield,SPI
+1936,Sopu,SPH
+1937,St Petersburg,SPG
+1938,Spearfish,SPF
+1939,Sepulot,SPE
+1940,Saidpur,SPD
+1941,"Sta Cruz de la Palma, La Palma Island",SPC
+1942,Charlotte Amalie St Thomas,SPB
+1943,Spartanburg,SPA
+1944,Solenzara,SOZ
+1945,Stronsay,SOY
+1946,Sogamoso,SOX
+1947,Show Low,SOW
+1948,Seldovia,SOV
+1949,Southampton,SOU
+1950,Sodankyla,SOT
+1951,Al Thaurah,SOR
+1952,Sorong-Papua Island,SOQ
+1953,Pinehurst/Southern Pines,SOP
+1954,Söderhamn,SOO
+1955,Luganville,SON
+1956,El Tigre,SOM
+1957,Solomon,SOL
+1958,Semonkong,SOK
+1959,Sørkjosen,SOJ
+1960,South Molle Island Resort,SOI
+1961,Solita,SOH
+1962,Sogndal,SOG
+1963,Sofia,SOF
+1964,Souanke,SOE
+1965,Sorocaba,SOD
+1966,Sukarata(Solo)-Java Island,SOC
+1967,Sármellék,SOB
+1968,Sóc Trăng,SOA
+1969,Rio de Janeiro,SNZ
+1970,Sidney,SNY
+1971,Semnan,SNX
+1972,Thandwe,SNW
+1973,Santa Clara,SNU
+1974,Sabana De Torres,SNT
+1975,Salinas,SNS
+1976,Saint-Nazaire/Montoir,SNR
+1977,Ensenada,SNQ
+1978,St Paul Island,SNP
+1979,Shannon,SNN
+1980,San Ignacio de Moxos,SNM
+1981,Shawnee,SNL
+1982,Snyder,SNK
+1983,Pinar Del Rio,SNJ
+1984,Greenville,SNI
+1985,San Ignacio de Velasco,SNG
+1986,San Felipe,SNF
+1987,Preguiça,SNE
+1988,Salinas,SNC
+1989,Santa Ana,SNA
+1990,Stoelmanseiland,SMZ
+1991,Simenti,SMY
+1992,Santa Maria,SMX
+1993,Smara,SMW
+1994,Sheep Mountain,SMU
+1995,Sorriso,SMT
+1996,Santa Marta,SMR
+1997,Sampit-Borneo Island,SMQ
+1998,Stockholm,SMP
+1999,Santa Monica,SMO
+2000,Salmon,SMN
+2001,Semporna,SMM
+2002,Stella Maris,SML
+2003,St Michael,SMK
+2004,Sim,SMJ
+2005,Samos Island,SMI
+2006,Sapmanga,SMH
+2007,Santa María,SMG
+2008,Sacramento,SMF
+2009,Somerset,SME
+2010,Fort Wayne,SMD
+2011,Cerro Sombrero,SMB
+2012,Vila do Porto,SMA
+2013,São Luís,SLZ
+2014,Salekhard,SLY
+2015,Salt Cay,SLX
+2016,Saltillo,SLW
+2017,Castries,SLU
+2018,Salida,SLT
+2019,Silistra,SLS
+2020,Sulphur Springs,SLR
+2021,Sleetmute,SLQ
+2022,San Luis Potosí,SLP
+2023,Salem,SLO
+2024,Salina,SLN
+2025,Salamanca,SLM
+2026,Salalah,SLL
+2027,Saranac Lake,SLK
+2028,Karijini National Park,SLJ
+2029,Solwesi,SLI
+2030,Sola,SLH
+2031,Siloam Springs,SLG
+2032,Salem,SLE
+2033,Sliač,SLD
+2034,Salt Lake City,SLC
+2035,Storm Lake,SLB
+2036,Salta,SLA
+2037,Mirpur Khas,SKZ
+2038,Sandusky,SKY
+2039,Saransk,SKX
+2040,Skwentna,SKW
+2041,Saint Catherine,SKV
+2042,Skiros Island,SKU
+2043,Sialkot,SKT
+2044,Vojens,SKS
+2045,Shakiso,SKR
+2046,Sekakes,SKQ
+2047,Skopje,SKP
+2048,Sokoto,SKO
+2049,Hadsel,SKN
+2050,Skeldon,SKM
+2051,Shaktoolik,SKK
+2052,Sitkinak Island,SKJ
+2053,Skikda,SKI
+2054,Surkhet,SKH
+2055,Thessaloniki,SKG
+2056,San Antonio,SKF
+2057,Geiteryggen,SKE
+2058,Samarkand,SKD
+2059,Suki,SKC
+2060,Basseterre,SKB
+2061,Spokane,SKA
+2062,Velas,SJZ
+2063,Seinäjoki / Ilmajoki,SJY
+2064,Sartaneja,SJX
+2065,Shijiazhuang,SJW
+2066,San Javier,SJV
+2067,San Juan,SJU
+2068,San Angelo,SJT
+2069,San José de Chiquitos,SJS
+2070,San Juan De Uraba,SJR
+2071,Sesheke,SJQ
+2072,São José Do Rio Preto,SJP
+2073,San José (Alajuela),SJO
+2074,St Johns,SJN
+2075,San Juan,SJM
+2076,São Gabriel Da Cachoeira,SJL
+2077,São José Dos Campos,SJK
+2078,Sarajevo,SJJ
+2079,San Jose,SJI
+2080,San Juan Del César,SJH
+2081,Saint John Island,SJF
+2082,San José Del Guaviare,SJE
+2083,San José del Cabo,SJD
+2084,San Jose,SJC
+2085,San Joaquín,SJB
+2086,San Juan de Marcona,SJA
+2087,Sissano,SIZ
+2088,Singleton,SIX
+2089,Parapat-Sumatra Island,SIW
+2090,Monticello,SIV
+2091,Siuna,SIU
+2092,Sitka,SIT
+2093,Sishen,SIS
+2094,Sion,SIR
+2095,Pasirkuning-Singkep Island,SIQ
+2096,Simferopol,SIP
+2097,Singapore,SIN
+2098,Simbai,SIM
+2099,Sila Mission,SIL
+2100,Sikeston,SIK
+2101,Siglufjörður,SIJ
+2102,Sidi Ifni,SII
+2103,Silgadi Doti,SIH
+2104,San Juan,SIG
+2105,Simara,SIF
+2106,Espargos,SID
+2107,Las Perlas,SIC
+2108,Sibiti,SIB
+2109,Xi'an,SIA
+2110,Seshutes,SHZ
+2111,Shinyanga,SHY
+2112,Shageluk,SHX
+2113,Shreveport,SHV
+2114,Shashi,SHS
+2115,Sheridan,SHR
+2116,"Jangsan-ri, Ganghyeon-myeon",SHO
+2117,Shelton,SHN
+2118,Shirahama,SHM
+2119,Shillong,SHL
+2120,Sehonghong,SHK
+2121,Sharjah,SHJ
+2122,Miyakojima,SHI
+2123,Shishmaref,SHH
+2124,Shungnak,SHG
+2125,Shihezi,SHF
+2126,"Hunnan, Shenyang",SHE
+2127,Staunton/Waynesboro/Harrisonburg,SHD
+2128,Shire Indasilase,SHC
+2129,Nakashibetsu,SHB
+2130,Shanghai,SHA
+2131,Skagway,SGY
+2132,Songea,SGX
+2133,Saginaw Bay,SGW
+2134,Sierra Grande,SGV
+2135,St George,SGU
+2136,Stuttgart,SGT
+2137,Houston,SGR
+2138,Sanggata/Sangkimah,SGQ
+2139,Shay Gap,SGP
+2140,Ho Chi Minh City,SGN
+2141,Mulegé,SGM
+2142,Cavite,SGL
+2143,Cavite,SGL
+2144,Sengapi,SGK
+2145,Sargodha,SGI
+2146,Springfield,SGH
+2147,Sri Aman,SGG
+2148,Springfield,SGF
+2149,Sønderborg,SGD
+2150,Surgut,SGC
+2151,Shiveh,SGA
+2152,Pawtucket,SFZ
+2153,Ciudad Guayana,SFX
+2154,Safia,SFU
+2155,Skellefteå,SFT
+2156,Olongapo,SFS
+2157,Los Angeles,SFR
+2158,Şanlıurfa,SFQ
+2159,San Francisco,SFO
+2160,Santa Fe,SFN
+2161,Sanford,SFM
+2162,São Filipe,SFL
+2163,Soure,SFK
+2164,Kangerlussuaq,SFJ
+2165,Safi,SFI
+2166,Mexicali,SFH
+2167,Grand Case,SFG
+2168,Spokane,SFF
+2169,Inglaterra,SFD
+2170,St-François,SFC
+2171,Orlando,SFB
+2172,Sfax,SFA
+2173,Mahe Island,SEZ
+2174,Sélibaby,SEY
+2175,Sembach,SEX
+2176,Siwa,SEW
+2177,Sievierodonetsk,SEV
+2178,Seronera,SEU
+2179,Seymour,SER
+2180,Bengkalis-Sumatra Island,SEQ
+2181,Stephenville,SEP
+2182,Seguela,SEO
+2183,Southend,SEN
+2184,(Old) Zuid-Kaap,SEN
+2185,Selma,SEM
+2186,Srednekolymsk,SEK
+2187,Senggeh,SEH
+2188,Selinsgrove,SEG
+2189,Sebring,SEF
+2190,San Diego/El Cajon,SEE
+2191,Sabha,SEB
+2192,Seattle,SEA
+2193,Sidney,SDY
+2194,Sedona,SDX
+2195,Tel Aviv,SDV
+2196,Rio De Janeiro,SDU
+2197,Saidu Sharif,SDT
+2198,Sado,SDS
+2199,Santander,SDR
+2200,Santo Domingo,SDQ
+2201,Sand Point,SDP
+2202,Sandane,SDN
+2203,San Diego,SDM
+2204,Sundsvall/ Härnösand,SDL
+2205,Sandakan,SDK
+2206,Natori,SDJ
+2207,Saidor,SDI
+2208,Santa Rosa de Copán,SDH
+2209,Louisville,SDF
+2210,Santiago del Estero,SDE
+2211,Lubango,SDD
+2212,Sand Creek,SDC
+2213,Langebaanweg,SDB
+2214,Santa Cruz/Graciosa Bay/Luova,SCZ
+2215,San Cristóbal,SCY
+2216,Salina Cruz,SCX
+2217,Syktyvkar,SCW
+2218,Suceava,SCV
+2219,Santiago,SCU
+2220,Socotra Islands,SCT
+2221,Shetland Islands,SCS
+2222,Sälen / Trysil,SCR
+2223,Sälen,SCR
+2224,Santiago de Compostela,SCQ
+2225,Mende,SCP
+2226,Aktau,SCO
+2227,Saarbrücken,SCN
+2228,Scammon Bay,SCM
+2229,Santiago,SCL
+2230,Stockton,SCK
+2231,Schenectady,SCH
+2232,Scottsdale,SCF
+2233,State College,SCE
+2234,Sulaco,SCD
+2235,Deadhorse,SCC
+2236,Scribner,SCB
+2237,Sibiu,SBZ
+2238,Salisbury,SBY
+2239,Shelby,SBX
+2240,Sibu,SBW
+2241,Sabah,SBV
+2242,Springbok,SBU
+2243,Sabetta,SBT
+2244,Steamboat Springs,SBS
+2245,Saibai Island,SBR
+2246,Sibi,SBQ
+2247,San Luis Obispo,SBP
+2248,Salina,SBO
+2249,South Bend,SBN
+2250,Sheboygan,SBM
+2251,Santa Ana del Yacuma,SBL
+2252,Saint-Brieuc/Armor,SBK
+2253,São Mateus,SBJ
+2254,Koundara,SBI
+2255,Gustavia / Saint-Jean,SBH
+2256,Sabang-We Island,SBG
+2257,Sardeh Band,SBF
+2258,San Bernardino,SBD
+2259,Selbang,SBC
+2260,Santa Bárbara,SBB
+2261,Santa Barbara,SBA
+2262,Sasstown,SAZ
+2263,Siena,SAY
+2264,Boca de Sábalo,SAX
+2265,"Pendik, Istanbul",SAW
+2266,Savannah,SAV
+2267,Sabu-Sawu Island,SAU
+2268,San Antonio,SAT
+2269,Salton City,SAS
+2270,Sparta,SAR
+2271,Andros Island,SAQ
+2272,San Pedro Sula,SAP
+2273,San Diego,SAN
+2274,Salamo,SAM
+2275,San Salvador (San Luis Talpa),SAL
+2276,Sauðárkrókur,SAK
+2277,Sana'a,SAH
+2278,Kakadi,SAG
+2279,Santa Fe,SAF
+2280,Sangir-Simbawa Island,SAE
+2281,Safford,SAD
+2282,Sacramento,SAC
+2283,Saba,SAB
+2284,Saratoga,SAA
+2285,Roanoke Rapids,RZZ
+2286,Sawan-Bali Island,RZS
+2287,Sawan,RZS
+2288,Taytay,RZP
+2289,Ryazan,RZN
+2290,Preobrazheniye,RZH
+2291,Rzeszów,RZE
+2292,Santa Cruz,RZA
+2293,Rio Turbio,RYO
+2294,Royan/Médis,RYN
+2295,Rahim Yar Khan,RYK
+2296,Oslo,RYG
+2297,Rybinsk,RYB
+2298,Roxas City,RXS
+2299,Rexburg,RXE
+2300,Rivne,RWN
+2301,Rawlins,RWL
+2302,Rocky Mount,RWI
+2303,Redwood Falls,RWF
+2304,Rivera,RVY
+2305,Tulsa,RVS
+2306,Green River,RVR
+2307,Reivilo,RVO
+2308,Rovaniemi,RVN
+2309,Rørvik,RVK
+2310,Rostov-on-Don,RVI
+2311,St. Petersburg,RVH
+2312,Saravena,RVE
+2313,Rio Verde,RVD
+2314,River Cess,RVC
+2315,Farafangana,RVA
+2316,Copán Ruinas,RUY
+2317,Rubelsanto,RUV
+2318,Kawbenaberi,RUU
+2319,Rutland,RUT
+2320,Marau,RUS
+2321,St Denis,RUN
+2322,Rumjatar,RUM
+2323,Maavaarulu,RUL
+2324,Rukumkot,RUK
+2325,Ruidoso,RUI
+2326,Riyadh,RUH
+2327,Rugao,RUG
+2328,Amgotro,RUF
+2329,Butembo,RUE
+2330,Arua,RUA
+2331,Saratov,RTW
+2332,Raton,RTN
+2333,Rotterdam,RTM
+2334,Spirit Lake,RTL
+2335,Roti-Rote Island,RTI
+2336,Ba'a - Rote Island,RTI
+2337,Satar Tacik-Flores Island,RTG
+2338,Roatan Island,RTB
+2339,Rotuma,RTA
+2340,Rouses Point,RSX
+2341,Fort Myers,RSW
+2342,Yeosu,RSU
+2343,Rochester,RST
+2344,Ad Damazin,RSS
+2345,Ruston,RSN
+2346,Russell,RSL
+2347,Ransiki-Papua Island,RSK
+2348,Rosario,RSJ
+2349,Russian Mission,RSH
+2350,Sydney,RSE
+2351,Rock Sound,RSD
+2352,Santa Rosa,RSA
+2353,Warroad,RRT
+2354,Røros,RRS
+2355,Marromeu,RRM
+2356,Merrill,RRL
+2357,Rio De Janeiro,RRJ
+2358,Port Mathurin,RRG
+2359,Qayyarah,RQW
+2360,El Reno,RQO
+2361,Ruoqiang Town,RQA
+2362,Roundup,RPX
+2363,Roper Valley,RPV
+2364,Raipur,RPR
+2365,Rosh Pina,RPN
+2366,Roper Bar,RPB
+2367,Rolpa,RPA
+2368,Rota,ROZ
+2369,Rio Mayo,ROY
+2370,Roseau,ROX
+2371,Roswell,ROW
+2372,Rostov-on-Don,ROV
+2373,Shtraklevo,ROU
+2374,Rotorua,ROT
+2375,Rosario,ROS
+2376,Babelthuap Island,ROR
+2377,Rota Island,ROP
+2378,Rondonópolis,ROO
+2379,Roosevelt,ROL
+2380,Rockhampton,ROK
+2381,Rogers,ROG
+2382,Montague,ROF
+2383,Robertson,ROD
+2384,Rochester,ROC
+2385,Monrovia,ROB
+2386,Roanoke,ROA
+2387,Rensselaer,RNZ
+2388,Ranau,RNU
+2389,Renton,RNT
+2390,Rennes/Saint-Jacques,RNS
+2391,Robinson River,RNR
+2392,Rongelap Island,RNP
+2393,Reno,RNO
+2394,Rønne,RNN
+2395,Ghaba,RNM
+2396,Rennell Island,RNL
+2397,Yoron,RNJ
+2398,Corn Island,RNI
+2399,Roanne/Renaison,RNE
+2400,Universal City,RND
+2401,Mc Minnville,RNC
+2402,Arona,RNA
+2403,Mariposa,RMY
+2404,Corvera,RMU
+2405,Rimatara Island,RMT
+2406,Ramstein,RMS
+2407,Taichung (Qingshui),RMQ
+2408,Rampart,RMP
+2409,Colombo,RML
+2410,Rimini,RMI
+2411,Rome,RMG
+2412,Marsa Alam,RMF
+2413,Rome,RME
+2414,Ramagundam,RMD
+2415,Buraimi,RMB
+2416,Roma,RMA
+2417,Arlit,RLT
+2418,Rosella Plains,RLP
+2419,Merlo,RLO
+2420,Bavannur,RLK
+2421,Rostock,RLG
+2422,Rolla,RLA
+2423,Xigazê,RKZ
+2424,Rokeby,RKY
+2425,Rockwood,RKW
+2426,Reykjavik,RKV
+2427,Yule Island,RKU
+2428,Ras Al Khaimah,RKT
+2429,Rock Springs,RKS
+2430,Rockport,RKP
+2431,Sipora Island,RKO
+2432,Rokot-Sumatra Island,RKI
+2433,Rock Hill,RKH
+2434,Copenhagen,RKE
+2435,Rockland,RKD
+2436,Waisai,RJM
+2437,Logroño,RJL
+2438,Rijeka,RJK
+2439,Rajouri,RJI
+2440,Rajshahi,RJH
+2441,Rajbiraj,RJB
+2442,Rajahmundry,RJA
+2443,Rizhao,RIZ
+2444,Riyan,RIY
+2445,Riga,RIX
+2446,Riverton,RIW
+2447,Riverside,RIV
+2448,Rishiri,RIS
+2449,Ringi Cove,RIN
+2450,Rodriguez de Mendoza,RIM
+2451,Rifle,RIL
+2452,Rioja,RIJ
+2453,Río Hato,RIH
+2454,Rio Grande,RIG
+2455,Rice Lake,RIE
+2456,Richmond,RIC
+2457,Riberalta,RIB
+2458,Santa Maria,RIA
+2459,San Jose,RHV
+2460,Badanjilin,RHT
+2461,Ras Al Khaimah,RHR
+2462,Ramechhap,RHP
+2463,Rodes Island,RHO
+2464,Rosh Pinah,RHN
+2465,Rhinelander,RHI
+2466,Ruhengeri,RHG
+2467,Reims/Champagne,RHE
+2468,Termas de Río Hondo,RHD
+2469,Reykhólar,RHA
+2470,Rengat-Sumatra Island,RGT
+2471,Burgos,RGS
+2472,Ranger,RGR
+2473,Hoemun-ri,RGO
+2474,Yangon,RGN
+2475,Rio Gallegos,RGL
+2476,Gorno-Altaysk,RGK
+2477,Balurghat,RGH
+2478,Porgera,RGE
+2479,Rio Grande,RGA
+2480,La Rosita,RFS
+2481,Rio Frio / Progreso,RFR
+2482,Uturoa,RFP
+2483,Raufarhöfn,RFN
+2484,Refugio,RFG
+2485,Chicago/Rockford,RFD
+2486,Rafaï,RFA
+2487,Resende,REZ
+2488,Reyes,REY
+2489,Reynosa,REX
+2490,Rewa,REW
+2491,Reus,REU
+2492,Resistencia,RES
+2493,Retalhuleu,RER
+2494,Chagai,REQ
+2495,Siem Reap,REP
+2496,Rome,REO
+2497,Orenburg,REN
+2498,Rawson,REL
+2499,Régina,REI
+2500,Rehoboth Beach,REH
+2501,Reggio Calabria,REG
+2502,Lubbock,REE
+2503,Reedsville,RED
+2504,Recife,REC
+2505,Lärz,REB
+2506,Rodez/Marcillac,RDZ
+2507,Red Devil,RDV
+2508,Raleigh/Durham,RDU
+2509,Richard Toll,RDT
+2510,Rincon de los Sauces,RDS
+2511,Grand Forks,RDR
+2512,Durgapur,RDP
+2513,Radom,RDO
+2514,Redang,RDN
+2515,Redmond,RDM
+2516,Reading,RDG
+2517,Merdei-Papua Island,RDE
+2518,Redding,RDD
+2519,Redenção,RDC
+2520,Red Dog,RDB
+2521,Rockhampton Downs,RDA
+2522,Rio Cuarto,RCU
+2523,Reed City,RCT
+2524,Rochester,RCS
+2525,Rochester,RCR
+2526,Reconquista,RCQ
+2527,Rochefort/Saint-Agnant,RCO
+2528,American River,RCN
+2529,Redcliffe,RCL
+2530,Rockdale,RCK
+2531,"Rincon, Bonaire",RCK
+2532,Riohacha,RCH
+2533,Roche Harbor,RCE
+2534,Richards Bay,RCB
+2535,Rapid City,RCA
+2536,Ruby,RBY
+2537,Rumbek,RBX
+2538,Walterboro,RBW
+2539,Ramata,RBV
+2540,Roebourne,RBU
+2541,Marsabit,RBT
+2542,Rio Branco,RBR
+2543,Rurenabaque,RBQ
+2544,Rabaraba,RBP
+2545,Roboré,RBO
+2546,Straubing,RBM
+2547,Red Bluff,RBL
+2548,Murrieta/Temecula,RBK
+2549,Rebun,RBJ
+2550,Rabi Island,RBI
+2551,Roseburg,RBG
+2552,Big Bear,RBF
+2553,Ratanakiri,RBE
+2554,Dallas,RBD
+2555,Borba,RBB
+2556,Rabat,RBA
+2557,Rawalakot,RAZ
+2558,Arawa,RAW
+2559,Cravo Norte,RAV
+2560,Raduzhnyi,RAT
+2561,Rasht,RAS
+2562,Avarua,RAR
+2563,Raha-Muna Island,RAQ
+2564,Rapid City,RAP
+2565,Ribeirão Preto,RAO
+2566,Ravenna,RAN
+2567,Riverside,RAL
+2568,Marrakech,RAK
+2569,Rajkot,RAJ
+2570,Praia,RAI
+2571,Rafha,RAH
+2572,Rafaela,RAF
+2573,Arar,RAE
+2574,Racine,RAC
+2575,Tokua,RAB
+2576,Rakanda,RAA
+2577,Gdynia,QYD
+2578,Charlotte,QWG
+2579,Volta Redonda,QVR
+2580,St. Ives,QUY
+2581,Uyo,QUO
+2582,Chun Chon City,QUN
+2583,Chichester,QUG
+2584,Ubari,QUB
+2585,Shache,QSZ
+2586,New Amsterdam,QSX
+2587,Salerno,QSR
+2588,San Nicolás,QSN
+2589,Moshi,QSI
+2590,Sétif,QSF
+2591,São Carlos,QSC
+2592,Sabadell,QSA
+2593,Ikerassaarsuk,QRY
+2594,Warri,QRW
+2595,Rieti,QRT
+2596,Querétaro,QRO
+2597,Bragado,QRF
+2598,Rancagua,QRC
+2599,Johannesburg,QRA
+2600,Qeqertaq,QQT
+2601,Kangaatsiaq,QPW
+2602,Pirassununga,QPS
+2603,Palapye,QPH
+2604,Padova,QPA
+2605,Owerri,QOW
+2606,Mococa,QOA
+2607,New York,QNY
+2608,Nova Iguaçu,QNV
+2609,Annemasse,QNJ
+2610,Novi Sad,QND
+2611,Masjed Soleyman,QMJ
+2612,Oum El Bouaghi,QMH
+2613,Mafra,QMF
+2614,Latina,QLT
+2615,Sarzana (SP),QLP
+2616,Lahti,QLF
+2617,Blida,QLD
+2618,Pocheon,QJP
+2619,Ikamiut,QJI
+2620,Kitsissuarsuit,QJE
+2621,Jubail,QJB
+2622,Itapetinga,QIT
+2623,Rio Claro,QIQ
+2624,Iguatu,QIG
+2625,Três Corações,QID
+2626,Novo Hamburgo,QHV
+2627,Husum,QHU
+2628,Debre Zeyit,QHR
+2629,Taguatinga,QHN
+2630,Piracicaba,QHB
+2631,Gifu,QGU
+2632,Attu,QGQ
+2633,Garanhuns,QGP
+2634,Montenegro,QGF
+2635,Lençóis Paulista,QGC
+2636,Limeira,QGB
+2637,Guaíra,QGA
+2638,Igaliku,QFX
+2639,Iginniarfik,QFI
+2640,Eqalugaarsuit,QFG
+2641,Troll Station,QET
+2642,Czechowice-Dziedzice,QEO
+2643,Taean,QDY
+2644,Djelfa,QDJ
+2645,Dracena,QDC
+2646,Cachoeira Do Sul,QDB
+2647,Coningsby,QCY
+2648,Curitibanos,QCR
+2649,Currais Novos,QCP
+2650,Canela,QCN
+2651,Botucatu,QCJ
+2652,Colatina,QCH
+2653,Bella Coola,QBC
+2654,L'Aquila,QAQ
+2655,Castro,QAC
+2656,Piešťany,PZY
+2657,Port Sudan,PZU
+2658,Temuco,PZS
+2659,Puerto Ordaz-Ciudad Guayana,PZO
+2660,Phinda,PZL
+2661,Pukapuka Atoll,PZK
+2662,Panzhihua,PZI
+2663,Fort Sandeman,PZH
+2664,Penzance,PZE
+2665,Pietermaritzburg,PZB
+2666,Paz De Ariporo,PZA
+2667,Mae Hong Son,PYY
+2668,Pattaya,PYX
+2669,Yaviza,PYV
+2670,Andravida,PYR
+2671,Puerto Putumayo,PYO
+2672,Plymouth,PYM
+2673,Perry Island,PYL
+2674,Karaj,PYK
+2675,Yakutia,PYJ
+2676,Puerto Ayacucho,PYH
+2677,Pakyong,PYG
+2678,Penrhyn Island,PYE
+2679,Playón Chico,PYC
+2680,Jeypore,PYB
+2681,Puerto Boyacá,PYA
+2682,Pleiku,PXU
+2683,Surin,PXR
+2684,Vila Baleira,PXO
+2685,Puerto Escondido,PXM
+2686,Polacca,PXL
+2687,OZ Minerals Prominent Hill Mine,PXH
+2688,Bentayan-Sumatra Island,PXA
+2689,Pinedale,PWY
+2690,Bremerton,PWT
+2691,Port Walter,PWR
+2692,Pavlodar,PWQ
+2693,Pweto,PWO
+2694,Pitts Town,PWN
+2695,Portland,PWM
+2696,Purwokerto-Java Island,PWL
+2697,Chicago/Prospect Heights/Wheeling,PWK
+2698,Pawe,PWI
+2699,Apapelgino,PWE
+2700,Plentywood,PWD
+2701,Oklahoma City,PWA
+2702,Plainesville,PVZ
+2703,Plainview,PVW
+2704,Provo,PVU
+2705,Chukotka,PVS
+2706,Puerto Vallarta,PVR
+2707,Portoviejo,PVO
+2708,Pikeville,PVL
+2709,Preveza/Lefkada,PVK
+2710,Paranavaí,PVI
+2711,Porto Velho,PVH
+2712,Shanghai,PVG
+2713,Placerville,PVF
+2714,El Porvenir,PVE
+2715,Providence,PVD
+2716,Provincetown,PVC
+2717,Providencia,PVA
+2718,Puerto Cabezas,PUZ
+2719,Pula,PUY
+2720,Puerto Varas,PUX
+2721,Pullman/Moscow,PUW
+2722,Poum,PUV
+2723,Puerto Asís,PUU
+2724,Puttaparthi,PUT
+2725,Busan,PUS
+2726,Puerto Rico/Manuripi,PUR
+2727,Punta Arenas,PUQ
+2728,Po,PUP
+2729,Punia,PUN
+2730,Kolaka,PUM
+2731,Poulsbo,PUL
+2732,Pukarua,PUK
+2733,Punta Cana,PUJ
+2734,Pureni,PUI
+2735,Pau/Pyrénées (Uzein),PUF
+2736,Puerto Obaldia,PUE
+2737,Puerto Deseado,PUD
+2738,Price,PUC
+2739,Pueblo,PUB
+2740,Puas Mission,PUA
+2741,Shell Mera,PTZ
+2742,Tocumen,PTY
+2743,Pitalito,PTX
+2744,Pottstown,PTW
+2745,Porterville,PTV
+2746,Platinum,PTU
+2747,Pratt,PTT
+2748,Porto De Moz,PTQ
+2749,Pointe-à-Pitre,PTP
+2750,Pato Branco,PTO
+2751,Patterson,PTN
+2752,Palmarito,PTM
+2753,Pontiac,PTK
+2754,Port Heiden,PTH
+2755,Polokwane,PTG
+2756,Malolo Lailai Island,PTF
+2757,Port Alexander,PTD
+2758,Port Alice,PTC
+2759,Petersburg,PTB
+2760,Port Alsworth,PTA
+2761,Puerto Suárez,PSZ
+2762,Stanley,PSY
+2763,Palacios,PSX
+2764,Passos,PSW
+2765,Papa Stour Island,PSV
+2766,Putussibau-Borneo Island,PSU
+2767,Preston,PST
+2768,Posadas,PSS
+2769,Pescara,PSR
+2770,Essington,PSQ
+2771,Palm Springs,PSP
+2772,Pasto,PSO
+2773,Palestine,PSN
+2774,Portsmouth,PSM
+2775,Perth,PSL
+2776,Dublin,PSK
+2777,Poso-Celebes Island,PSJ
+2778,Pasni,PSI
+2779,Sankt Peter-Ording,PSH
+2780,Petersburg,PSG
+2781,Pittsfield,PSF
+2782,Ponce,PSE
+2783,Port Said,PSD
+2784,Pasco,PSC
+2785,Pisa,PSA
+2786,Prineville,PRZ
+2787,Pretoria,PRY
+2788,Paris,PRX
+2789,Prentice,PRW
+2790,Přerov,PRV
+2791,Pye,PRU
+2792,Parasi,PRS
+2793,Paruma,PRR
+2794,Presidencia Roque Sáenz Peña,PRQ
+2795,Propriano,PRP
+2796,Perry,PRO
+2797,Prishtina,PRN
+2798,Bogota,PRM
+2799,Portimão,PRM
+2800,Prieska,PRK
+2801,Praslin Island,PRI
+2802,Prague,PRG
+2803,Pore,PRE
+2804,Pardoo,PRD
+2805,Prescott,PRC
+2806,Paso Robles,PRB
+2807,Parana,PRA
+2808,Pilot Station,PQS
+2809,Port Macquarie,PQQ
+2810,Presque Isle,PQI
+2811,Batticaloa,PQD
+2812,Phu Quoc Island,PQC
+2813,Puerto Paez,PPZ
+2814,Pouso Alegre,PPY
+2815,Nepesi,PPX
+2816,Papa Westray,PPW
+2817,Port Protection,PPV
+2818,Pa Pun,PPU
+2819,Papeete,PPT
+2820,Puerto Princesa City,PPS
+2821,Pasir Pengarayan-Sumatra Island,PPR
+2822,Proserpine,PPP
+2823,Popayán,PPN
+2824,Pompano Beach,PPM
+2825,Phaplu,PPL
+2826,Petropavlosk,PPK
+2827,Jakarta,PPJ
+2828,Parai-tepuí,PPH
+2829,Pago Pago,PPG
+2830,Parsons,PPF
+2831,Puerto Peñasco,PPE
+2832,Palmas del Mar,PPD
+2833,Prospect Creek,PPC
+2834,Presidente Prudente,PPB
+2835,Pampa,PPA
+2836,Poznań,POZ
+2837,Powell,POY
+2838,Cormeilles-en-Vexin,POX
+2839,Portorož,POW
+2840,Prešov,POV
+2841,Poughkeepsie,POU
+2842,Ken Jones,POT
+2843,Port of Spain,POS
+2844,Pori,POR
+2845,Puerto Plata,POP
+2846,Poços De Caldas,POO
+2847,Poptún,PON
+2848,Port Moresby,POM
+2849,Pemba / Porto Amelia,POL
+2850,Patos De Minas,POJ
+2851,Potosí,POI
+2852,Port Gentil,POG
+2853,Poplar Bluff,POF
+2854,Fort Polk,POE
+2855,Podor,POD
+2856,La Verne,POC
+2857,Fayetteville,POB
+2858,Porto Alegre,POA
+2859,Petrolina,PNZ
+2860,Puducherry (Pondicherry),PNY
+2861,Sherman/Denison,PNX
+2862,Panevėžys,PNV
+2863,Panguitch,PNU
+2864,Puerto Natales,PNT
+2865,Pensacola,PNS
+2866,Pointe Noire,PNR
+2867,Pune,PNQ
+2868,Popondetta,PNP
+2869,Princeton,PNN
+2870,Pantelleria (TP),PNL
+2871,Pontianak-Borneo Island,PNK
+2872,Pohnpei Island,PNI
+2873,Phnom Penh (Pou Senchey),PNH
+2874,Paranaguá,PNG
+2875,Philadelphia,PNE
+2876,Punta Gorda,PND
+2877,Ponca City,PNC
+2878,Porto Nacional,PNB
+2879,Pamplona,PNA
+2880,Palmar Sur,PMZ
+2881,Puerto Madryn,PMY
+2882,Palmer,PMX
+2883,Palmas,PMW
+2884,Isla Margarita,PMV
+2885,Paramakatoi,PMT
+2886,Tadmur,PMS
+2887,Perito Moreno,PMQ
+2888,Pimaga,PMP
+2889,Palermo,PMO
+2890,Pumani,PMN
+2891,Phanom Sarakham,PMM
+2892,Cold Bay,PML
+2893,Palma De Mallorca,PMI
+2894,Portsmouth,PMH
+2895,Ponta Porã,PMG
+2896,Parma,PMF
+2897,Gosport,PME
+2898,Palmdale,PMD
+2899,Puerto Montt,PMC
+2900,Pembina,PMB
+2901,Chake,PMA
+2902,Port Elizabeth,PLZ
+2903,Plymouth,PLY
+2904,Semey,PLX
+2905,Palu-Celebes Island,PLW
+2906,Poltava,PLV
+2907,Belo Horizonte,PLU
+2908,Plato,PLT
+2909,Providenciales Island,PLS
+2910,Pell City,PLR
+2911,Palanga,PLQ
+2912,La Palma,PLP
+2913,Port Lincoln,PLO
+2914,Pellston,PLN
+2915,Palembang-Sumatra Island,PLM
+2916,Manaus,PLL
+2917,Branson / Hollister,PLK
+2918,Placencia,PLJ
+2919,Plymouth,PLH
+2920,Pala,PLF
+2921,Paiela,PLE
+2922,Carrillo,PLD
+2923,Plattsburgh,PLB
+2924,Pakse,PKZ
+2925,Palangkaraya-Kalimantan Tengah,PKY
+2926,Beijing / Langfang,PKX
+2927,Pskov,PKV
+2928,Pekanbaru-Sumatra Island,PKU
+2929,Pokhara,PKR
+2930,Parakou,PKO
+2931,Pangkalanbun-Borneo Island,PKN
+2932,Pakhokku,PKK
+2933,Playa Grande,PKJ
+2934,Porto Cheli,PKH
+2935,Pangkor Island,PKG
+2936,Park Falls,PKF
+2937,Parkes,PKE
+2938,Park Rapids,PKD
+2939,Petropavlovsk-Kamchatsky,PKC
+2940,Parkersburg,PKB
+2941,Napaskiak,PKA
+2942,Puerto Jimenez,PJM
+2943,Panjgur,PJG
+2944,Pedro Juan Caballero,PJC
+2945,Payson,PJB
+2946,Point Lay,PIZ
+2947,Pico Island,PIX
+2948,Pikwitonei,PIW
+2949,Pirapora,PIV
+2950,Piura,PIU
+2951,Pittsburgh,PIT
+2952,Poitiers/Biard,PIS
+2953,Pierre,PIR
+2954,Pilot Point,PIP
+2955,Pisco,PIO
+2956,Parintins,PIN
+2957,Pine Mountain,PIM
+2958,Pilar,PIL
+2959,Glasgow,PIK
+2960,Pocatello,PIH
+2961,Pingtung,PIF
+2962,St Petersburg-Clearwater,PIE
+2963,Nassau,PID
+2964,Pine Cay,PIC
+2965,Hattiesburg/Laurel,PIB
+2966,Peoria,PIA
+2967,Phoenix,PHX
+2968,Phalaborwa,PHW
+2969,Paris,PHT
+2970,Phosphate Hill,PHQ
+2971,Philip,PHP
+2972,Point Hope,PHO
+2973,Port Huron,PHN
+2974,Böblingen,PHM
+2975,Böblingen,PHM
+2976,Philadelphia,PHL
+2977,Pahokee,PHK
+2978,Pinheiro,PHI
+2979,Phan Thiet,PHH
+2980,Port Harcourt,PHG
+2981,Newport News,PHF
+2982,Port Hedland,PHE
+2983,New Philadelphia,PHD
+2984,Port Harcourt,PHC
+2985,Parnaíba,PHB
+2986,Phan Rang,PHA
+2987,Ponta Grossa,PGZ
+2988,Périgueux/Bassillac,PGX
+2989,Greenville,PGV
+2990,Asalouyeh,PGU
+2991,Paragould,PGR
+2992,Pekaulang,PGQ
+2993,Porto Alegro,PGP
+2994,Pagosa Springs,PGO
+2995,Pangia,PGN
+2996,Port Graham,PGM
+2997,Pascagoula,PGL
+2998,Pangkal Pinang-Palaubangka Island,PGK
+2999,Chitato,PGI
+3000,Pantnagar,PGH
+3001,Perpignan/Rivesaltes,PGF
+3002,Punta Gorda,PGD
+3003,Petersburg,PGC
+3004,Pangoa,PGB
+3005,Page,PGA
+3006,Ilebo,PFR
+3007,Parsabad,PFQ
+3008,Paphos,PFO
+3009,Patreksfjörður,PFJ
+3010,Pacific City,PFC
+3011,Passo Fundo,PFB
+3012,Penza,PEZ
+3013,Penong,PEY
+3014,Pechora,PEX
+3015,Peshawar,PEW
+3016,Pécs-Pogány,PEV
+3017,Puerto Lempira,PEU
+3018,Pelotas,PET
+3019,Petrozavodsk,PES
+3020,Perth,PER
+3021,Pecos,PEQ
+3022,Peppimenarti,PEP
+3023,Penang,PEN
+3024,Puerto Maldonado,PEM
+3025,Pelaneng,PEL
+3026,Beijing,PEK
+3027,Pereira,PEI
+3028,Pehuajó,PEH
+3029,Perugia,PEG
+3030,Peenemünde,PEF
+3031,Perm,PEE
+3032,Pardubice,PED
+3033,Pelican,PEC
+3034,Pebane,PEB
+3035,Ironstone,PEA
+3036,Portland,PDX
+3037,Plovdiv,PDV
+3038,Paysandu,PDU
+3039,Pendleton,PDT
+3040,Presidente Dutra,PDR
+3041,Punta del Este,PDP
+3042,Talang Gudang-Sumatra Island,PDO
+3043,Kangaroo Island,PDN
+3044,Pedasi,PDM
+3045,Ponta Delgada,PDL
+3046,Atlanta,PDK
+3047,Pindiu,PDI
+3048,Ketaping/Padang - Sumatra Island,PDG
+3049,Prado,PDF
+3050,Ponta do Ouro,PDD
+3051,Mueo,PDC
+3052,Pedro Bay,PDB
+3053,Puerto Inírida,PDA
+3054,Mulegé,PCV
+3055,Poplarville,PCU
+3056,Princeton/Rocky Hill,PCT
+3057,Picos,PCS
+3058,Puerto Carreño,PCR
+3059,Phongsaly,PCQ
+3060,La Ribera,PCO
+3061,La Ribera,PCO
+3062,Koromiko,PCN
+3063,Solidaridad,PCM
+3064,Pucallpa,PCL
+3065,Puerto La Victoria,PCJ
+3066,Palacios,PCH
+3067,Paso Caballos,PCG
+3068,Potchefstroom,PCF
+3069,Prairie Du Chien,PCD
+3070,Puerto Rico,PCC
+3071,Jakarta,PCB
+3072,Portage Creek,PCA
+3073,Plettenberg Bay,PBZ
+3074,Porto Alegre Do Norte,PBX
+3075,Porto Dos Gaúchos,PBV
+3076,Putao,PBU
+3077,Puerto Leda,PBT
+3078,Puerto Barrios,PBR
+3079,Pimenta Bueno,PBQ
+3080,Nandayure,PBP
+3081,Paraburdoo,PBO
+3082,Port Amboim,PBN
+3083,Zandery,PBM
+3084,Paama Island,PBJ
+3085,West Palm Beach,PBI
+3086,Paro,PBH
+3087,Plattsburgh,PBG
+3088,Pine Bluff,PBF
+3089,Puerto Berrio,PBE
+3090,Porbandar,PBD
+3091,Puebla,PBC
+3092,Paranaíba,PBB
+3093,Poza Rica,PAZ
+3094,Pamol,PAY
+3095,Port-de-Paix,PAX
+3096,Paulo Afonso,PAV
+3097,Pauk,PAU
+3098,Patna,PAT
+3099,Paros Island,PAS
+3100,Palmer,PAQ
+3101,Port-au-Prince,PAP
+3102,Palo Alto,PAO
+3103,Panama City,PAM
+3104,La Dorada,PAL
+3105,Hanapepe,PAK
+3106,Parachinar,PAJ
+3107,Paducah,PAH
+3108,Pagadian City,PAG
+3109,Kabalega Falls,PAF
+3110,Everett,PAE
+3111,Paderborn,PAD
+3112,Albrook,PAC
+3113,Bilaspur,PAB
+3114,Hpa-N,PAA
+3115,Ouarzazate,OZZ
+3116,Fort Rucker/Ozark,OZR
+3117,Morón,OZP
+3118,Zaporizhia,OZH
+3119,Zagora,OZG
+3120,Ozamiz City,OZC
+3121,Ozona,OZA
+3122,Saint-Georges-de-l'Oyapock Airport,OYP
+3123,Tres Arroyos,OYO
+3124,Moyale (Lower),OYL
+3125,Oiapoque,OYK
+3126,Moyo,OYG
+3127,Oyem,OYE
+3128,Goya,OYA
+3129,Oxnard,OXR
+3130,Orientos,OXO
+3131,Kidlington,OXF
+3132,Oxford,OXD
+3133,Oxford,OXC
+3134,Bissau,OXB
+3135,Norridgewock,OWK
+3136,Norwood,OWD
+3137,Owensboro,OWB
+3138,Owatonna,OWA
+3139,Sovetskiy,OVS
+3140,Olavarria,OVR
+3141,Ovalle,OVL
+3142,Overberg,OVG
+3143,Oroville,OVE
+3144,Ranón,OVD
+3145,Novosibirsk,OVB
+3146,Bekily,OVA
+3147,Zouérate,OUZ
+3148,Bousso,OUT
+3149,Ourinhos,OUS
+3150,Batouri,OUR
+3151,Norman,OUN
+3152,Oum Hadjer,OUM
+3153,Oulu / Oulunsalo,OUL
+3154,Grunay Island,OUK
+3155,Oudtshoorn,OUH
+3156,Ouahigouya,OUG
+3157,Oujda,OUD
+3158,Ouagadougou,OUA
+3159,Kotzebue,OTZ
+3160,Oria,OTY
+3161,Ontong Java Atoll,OTV
+3162,Remedios,OTU
+3163,Cotriguaçu,OTT
+3164,Anacortes,OTS
+3165,Corredores,OTR
+3166,Bucharest,OTP
+3167,Oaktown,OTN
+3168,Ottumwa,OTM
+3169,Boutilimit,OTL
+3170,Tillamook,OTK
+3171,Otjiwarongo,OTJ
+3172,Gotalalamo-Morotai Island,OTI
+3173,North Bend,OTH
+3174,Contadora Island,OTD
+3175,Bol,OTC
+3176,Zegrze Pomorskie,OSZ
+3177,Namsos,OSY
+3178,Orsk,OSW
+3179,Columbus,OSU
+3180,Ostend,OST
+3181,Osh,OSS
+3182,Ostrava,OSR
+3183,Mosul,OSM
+3184,Oslo,OSL
+3185,Osijek,OSI
+3186,Oshkosh,OSH
+3187,Ossima,OSG
+3188,Moscow,OSF
+3189,Omora,OSE
+3190,Östersund,OSD
+3191,Oscoda,OSC
+3192,Orange Walk,ORZ
+3193,Paris,ORY
+3194,Oriximiná,ORX
+3195,Ormara Raik,ORW
+3196,Noorvik,ORV
+3197,Oruro,ORU
+3198,Northway,ORT
+3199,Orapa,ORP
+3200,Yoro,ORO
+3201,Oran,ORN
+3202,Northampton,ORM
+3203,Orlando,ORL
+3204,Cork,ORK
+3205,Orinduik,ORJ
+3206,Port Lions,ORI
+3207,Worcester,ORH
+3208,Paramaribo,ORG
+3209,Norfolk,ORF
+3210,Orléans,ORE
+3211,Chicago,ORD
+3212,Orocue,ORC
+3213,Örebro,ORB
+3214,Orán,ORA
+3215,Opuwa,OPW
+3216,Balimo,OPU
+3217,Sinop,OPS
+3218,Porto,OPO
+3219,Miami,OPF
+3220,Maitanakunai,OPB
+3221,Kópasker,OPA
+3222,Onotoa,OOT
+3223,Cooma,OOM
+3224,Gold Coast,OOL
+3225,Toksook Bay,OOK
+3226,Colón,ONX
+3227,Ono-i-Lau,ONU
+3228,Ontario,ONT
+3229,Zonguldak,ONQ
+3230,Newport,ONP
+3231,Ontario,ONO
+3232,O'Neill,ONL
+3233,Olenyok,ONK
+3234,Kitaakita,ONJ
+3235,Moanamani-Papua Island,ONI
+3236,Ondangwa,OND
+3237,Onange Mission,ONB
+3238,Tbeng Meanchey,OMY
+3239,Omsk,OMS
+3240,Oradea,OMR
+3241,Mostar,OMO
+3242,Osmanabad,OMN
+3243,Marmul,OMM
+3244,Omkalai,OML
+3245,Omak,OMK
+3246,Nagasaki,OMJ
+3247,Omidiyeh,OMI
+3248,Urmia,OMH
+3249,Omega,OMG
+3250,Mafraq,OMF
+3251,Nome,OME
+3252,Oranjemund,OMD
+3253,Ormoc City,OMC
+3254,Omboue,OMB
+3255,Omaha,OMA
+3256,Olyokminsk,OLZ
+3257,Olkiombo,OLX
+3258,Olive Branch,OLV
+3259,Nogales,OLS
+3260,Khost,OLR
+3261,Olsobip,OLQ
+3262,Olympic Dam,OLP
+3263,Olomouc,OLO
+3264,Sarmiento,OLN
+3265,Olympia,OLM
+3266,Oyo,OLL
+3267,Fuerte Olimpo,OLK
+3268,Olpoi,OLJ
+3269,Rif,OLI
+3270,Old Harbor,OLH
+3271,Wolf Point,OLF
+3272,Old Town,OLD
+3273,São Paulo De Olivença,OLC
+3274,Olbia (SS),OLB
+3275,Ørland,OLA
+3276,Okao,OKV
+3277,Mokuti Lodge,OKU
+3278,Kzyl-Yar,OKT
+3279,Oshkosh,OKS
+3280,Yorke Island,OKR
+3281,Okaba-Papua Island,OKQ
+3282,Oksapmin,OKP
+3283,Fussa,OKO
+3284,Okondja,OKN
+3285,Okmulgee,OKM
+3286,Oksibil-Papua Island,OKL
+3287,Kokomo,OKK
+3288,Okayama,OKJ
+3289,Okinoshima,OKI
+3290,Cottesmore,OKH
+3291,Okoyo,OKG
+3292,Okaukuejo,OKF
+3293,Wadomari,OKE
+3294,Sapporo,OKD
+3295,Oklahoma City,OKC
+3296,Orchid Beach,OKB
+3297,Naha,OKA
+3298,Olathe,OJC
+3299,Oita,OIT
+3300,Okushiri Island,OIR
+3301,Izu Oshima,OIM
+3302,Oil City,OIL
+3303,Norwich,OIC
+3304,Ourilândia do Norte,OIA
+3305,Kohat,OHT
+3306,Sohar,OHS
+3307,Wyk auf Föhr,OHR
+3308,Okhotsk,OHO
+3309,Oshakati,OHI
+3310,Okha,OHH
+3311,Mohe,OHE
+3312,Ohrid,OHD
+3313,Moramanga,OHB
+3314,Beslan,OGZ
+3315,Ouargla,OGX
+3316,Ordu,OGU
+3317,Ogdensburg,OGS
+3318,Bongor,OGR
+3319,Abengourou,OGO
+3320,Ustupo,OGM
+3321,Ogle,OGL
+3322,Kahului,OGG
+3323,Ogden,OGD
+3324,Orangeburg,OGB
+3325,Ogallala,OGA
+3326,Ofu,OFU
+3327,Norfolk,OFK
+3328,Ólafsfjörður,OFJ
+3329,Ouango Fitini,OFI
+3330,Omaha,OFF
+3331,San Antonio Oeste,OES
+3332,Örnsköldsvik,OER
+3333,Osceola,OEO
+3334,Paloemeu,OEM
+3335,Orel,OEL
+3336,Oecussi-Ambeno,OEC
+3337,Vincennes,OEA
+3338,Oudomsay,ODY
+3339,Oak Harbor,ODW
+3340,Odessa,ODS
+3341,Ord River,ODR
+3342,Bodaybo,ODO
+3343,Long Seridan,ODN
+3344,Cordillo Downs,ODL
+3345,Ouanda Djallé,ODJ
+3346,Odiham,ODH
+3347,Odense,ODE
+3348,Oakdale,ODC
+3349,Córdoba,ODB
+3350,Ouadda,ODA
+3351,Washington,OCW
+3352,Ocaña,OCV
+3353,Corisco Island,OCS
+3354,Oceanside,OCN
+3355,Boscobel,OCJ
+3356,Nacogdoches,OCH
+3357,Ocala,OCF
+3358,Ocean City,OCE
+3359,Coca,OCC
+3360,Key Largo,OCA
+3361,Ittoqqortoormiit,OBY
+3362,Obo,OBX
+3363,Kobuk,OBU
+3364,Aubenas/Ardèche Méridional,OBS
+3365,Obihiro,OBO
+3366,North Connel,OBN
+3367,Morobe,OBM
+3368,Northbrook,OBK
+3369,Óbidos,OBI
+3370,Weßling,OBF
+3371,Okeechobee,OBE
+3372,Obano-Papua Island,OBD
+3373,Obock,OBC
+3374,Lashkar Gah,OAZ
+3375,Oaxaca,OAX
+3376,Sharana,OAS
+3377,Marina,OAR
+3378,Olanchito,OAN
+3379,Cacoal,OAL
+3380,Oakland,OAK
+3381,Jacksonville,OAJ
+3382,Bagram,OAI
+3383,Shindand,OAH
+3384,Orange,OAG
+3385,Baraki Barak,OAA
+3386,San Diego,NZY
+3387,Zhalantun,NZL
+3388,Nzérékoré,NZE
+3389,Nazca,NZC
+3390,Nzagi,NZA
+3391,Monywar,NYW
+3392,Nyaung U,NYU
+3393,Pyinmana,NYT
+3394,Nyurba,NYR
+3395,Stockholm / Nyköping,NYO
+3396,Nadym,NYM
+3397,Nanyuki,NYK
+3398,Sunyani,NYI
+3399,Nyeri,NYE
+3400,Nyagan,NYA
+3401,Nowata,NWT
+3402,Norwich,NWI
+3403,Neyveli,NVY
+3404,Navegantes,NVT
+3405,Nevers/Fourchambault,NVS
+3406,Velikiy Novgorod,NVR
+3407,Novo Aripuanã,NVP
+3408,Beckwourth,NVN
+3409,Narvik,NVK
+3410,Navoi,NVI
+3411,Nueva Guinea,NVG
+3412,Neiva,NVA
+3413,Novy Urengoy,NUX
+3414,Oak Harbor,NUW
+3415,Nakuru,NUU
+3416,Norsup,NUS
+3417,Mountain View,NUQ
+3418,Nunapitchuk,NUP
+3419,Neom,NUM
+3420,Nulato,NUL
+3421,Nukutavake,NUK
+3422,Nuiqsut,NUI
+3423,Nuguria Island,NUG
+3424,Hatton,NUF
+3425,Nuremberg,NUE
+3426,En Nahud,NUD
+3427,Pilanesberg,NTY
+3428,Ranai-Natuna Besar Island,NTX
+3429,Virginia Beach,NTU
+3430,Niuatoputapu,NTT
+3431,Wajima,NTQ
+3432,Ponta do Sol,NTO
+3433,Normanton,NTN
+3434,Williamtown,NTL
+3435,Manti,NTJ
+3436,Bintuni,NTI
+3437,Nantong,NTG
+3438,Nantes,NTE
+3439,Point Mugu,NTD
+3440,Santa Carolina,NTC
+3441,Notodden,NTB
+3442,Mbatiri,NTA
+3443,Sigonella (CT),NSY
+3444,Nakhon Si Thammarat,NST
+3445,Nuussuaq,NSQ
+3446,Nelson,NSN
+3447,Slayton,NSL
+3448,Norilsk,NSK
+3449,Yaoundé,NSI
+3450,Milton,NSE
+3451,Bimini,NSB
+3452,Newry,NRY
+3453,Tokyo / Narita,NRT
+3454,Imperial Beach,NRS
+3455,Ceiba,NRR
+3456,Weeze,NRN
+3457,Nara,NRM
+3458,North Ronaldsay,NRL
+3459,Norrköping,NRK
+3460,Afton,NRI
+3461,Narrogin,NRG
+3462,Namrole-Buru Island,NRE
+3463,Norderney,NRD
+3464,Crows Landing,NRC
+3465,Mayport,NRB
+3466,Narrandera,NRA
+3467,Newquay,NQY
+3468,Key West,NQX
+3469,Nuquí,NQU
+3470,Nottingham,NQT
+3471,Neuquen,NQN
+3472,Niquelândia,NQL
+3473,Kingsville,NQI
+3474,Millington,NQA
+3475,Mpanda,NPY
+3476,San Pedro de Urabá,NPU
+3477,Newport,NPT
+3478,Novo Progresso,NPR
+3479,Napperby,NPP
+3480,Nanga Pinoh-Borneo Island,NPO
+3481,New Plymouth,NPL
+3482,Nephi,NPH
+3483,Nipa,NPG
+3484,Napier,NPE
+3485,Pensacola,NPA
+3486,Novokuznetsk,NOZ
+3487,Huambo,NOV
+3488,Nouméa,NOU
+3489,Novato,NOT
+3490,Nosy Be,NOS
+3491,Norðfjörður,NOR
+3492,Sinop,NOP
+3493,Naoro Vilage,NOO
+3494,Nonouti,NON
+3495,Nomad River,NOM
+3496,Nova Xavantina,NOK
+3497,Noyabrsk,NOJ
+3498,Nogales,NOG
+3499,Norddeich,NOD
+3500,Charleston,NOC
+3501,Nicoya,NOB
+3502,Nanyang,NNY
+3503,Nunukan-Nunukan Island,NNX
+3504,Nanuque,NNU
+3505,Inverin,NNR
+3506,Naryan Mar,NNM
+3507,Nondalton,NNL
+3508,Naknek,NNK
+3509,Namutoni,NNI
+3510,Nanning (Jiangnan),NNG
+3511,Nangade,NND
+3512,Santa Ana Island,NNB
+3513,Kenitra,NNA
+3514,Namtu,NMT
+3515,Namsang,NMS
+3516,Basalt,NMP
+3517,Namane,NMN
+3518,Fort McMurray,NML
+3519,Isla del Rey,NMG
+3520,Noonu Atoll,NMF
+3521,Nightmute,NME
+3522,Daman,NMB
+3523,Namangan,NMA
+3524,Nikolayev,NLV
+3525,Mexico City (Santa Lucía),NLU
+3526,Xinyuan,NLT
+3527,Nelspruit,NLP
+3528,N'dolo,NLO
+3529,Kneeland,NLN
+3530,Burnt Pine,NLK
+3531,Nikolayevsk-na-Amure Airport,NLI
+3532,Ninglang,NLH
+3533,Nelson Lagoon,NLG
+3534,Darnley Island,NLF
+3535,Niles,NLE
+3536,Nuevo Laredo,NLD
+3537,Lemoore,NLC
+3538,Ndola,NLA
+3539,Nkayi,NKY
+3540,San Diego,NKX
+3541,Diego Garcia,NKW
+3542,Nkaus,NKU
+3543,Şırnak,NKT
+3544,Nkongsamba,NKS
+3545,Nukutepipi,NKP
+3546,Gwarawon,NKN
+3547,Nagoya,NKM
+3548,N'Kolo-Fuma,NKL
+3549,Tuxekan Island,NKI
+3550,Nanjing,NKG
+3551,Sinak,NKD
+3552,Nouakchott,NKC
+3553,El Centro,NJK
+3554,Najaf,NJF
+3555,Nizhnevartovsk,NJC
+3556,Ayase / Yamato,NJA
+3557,Nioro du Sahel,NIX
+3558,Naiu Atoll,NIU
+3559,Niort/Souché,NIT
+3560,Simberi Island,NIS
+3561,Beeville,NIR
+3562,Niaqornat,NIQ
+3563,Jacksonville,NIP
+3564,Nioki,NIO
+3565,Niamey,NIM
+3566,Niokolo-Koba National Park,NIK
+3567,Nikunau,NIG
+3568,Nicosia,NIC
+3569,Nikolai,NIB
+3570,Nimba,NIA
+3571,Brunswick,NHZ
+3572,Foley,NHX
+3573,London,NHT
+3574,Nushki,NHS
+3575,Patuxent River,NHK
+3576,New Halfa,NHF
+3577,Dubai,NHD
+3578,Nha Trang,NHA
+3579,Alameda,NGZ
+3580,Ngawal,NGX
+3581,Norfolk,NGU
+3582,Nagasaki,NGS
+3583,Shiquanhe,NGQ
+3584,Tokoname,NGO
+3585,Ngala,NGL
+3586,Nogliki,NGK
+3587,Ngau,NGI
+3588,Kaneohe,NGF
+3589,N'Gaoundéré,NGE
+3590,Anegada,NGD
+3591,Ningbo,NGB
+3592,Nafurah 1,NFR
+3593,"Angaha, Niuafo'ou Island",NFO
+3594,Fallon,NFL
+3595,Nefteyugansk,NFG
+3596,New Orleans,NEW
+3597,Charlestown,NEV
+3598,Neryungri,NER
+3599,Jacksonville,NEN
+3600,Lakehurst,NEL
+3601,Nekemte,NEK
+3602,Nejo,NEJ
+3603,Terney,NEI
+3604,Negril,NEG
+3605,Neftekamsk,NEF
+3606,Necochea,NEC
+3607,Sanday,NDY
+3608,Rundu,NDU
+3609,Sandstone,NDS
+3610,Nador,NDR
+3611,Nadunumu,NDN
+3612,Mendi,NDM
+3613,N'Délé,NDL
+3614,Namorik Atoll,NDK
+3615,N'Djamena,NDJ
+3616,Namudi,NDI
+3617,Qiqihar,NDG
+3618,N'dalatando,NDF
+3619,Mandera,NDE
+3620,Sumbe,NDD
+3621,Nanded,NDC
+3622,Nouadhibou,NDB
+3623,Banda-Naira Island,NDA
+3624,Annecy/Meythet,NCY
+3625,Nukus,NCU
+3626,Nicoya/Guanacate,NCT
+3627,Newcastle,NCS
+3628,San Carlos,NCR
+3629,North Kingstown,NCO
+3630,Chenega,NCN
+3631,Newcastle,NCL
+3632,Sunchales,NCJ
+3633,Necocli,NCI
+3634,Nachingwea,NCH
+3635,Nice,NCE
+3636,North Caicos,NCA
+3637,Nabire-Papua Island,NBX
+3638,Guantanamo Bay Naval Station,NBW
+3639,Baishan,NBS
+3640,Nairobi,NBO
+3641,San Antonio de Palé,NBN
+3642,Wannukandi,NBL
+3643,Nambucca Heads,NBH
+3644,New Orleans,NBG
+3645,Enfidha,NBE
+3646,Nizhnekamsk,NBC
+3647,Barranco Minas,NBB
+3648,Nambaiyufa,NBA
+3649,Star Harbor,NAZ
+3650,Beijing,NAY
+3651,Nevşehir,NAV
+3652,Napuka Island,NAU
+3653,Natal,NAT
+3654,Nassau,NAS
+3655,Armenia,NAR
+3656,Qaanaaq,NAQ
+3657,Nápoli,NAP
+3658,Nanchong,NAO
+3659,Nadi,NAN
+3660,Namlea-Buru Island,NAM
+3661,Nalchik,NAL
+3662,Chaloem Phra Kiat,NAK
+3663,Nakhchivan,NAJ
+3664,Annai,NAI
+3665,Tahuna-Sangihe Island,NAH
+3666,Nagpur,NAG
+3667,Banaina-Borneo Island,NAF
+3668,Natitingou,NAE
+3669,Macanal,NAD
+3670,Narrabri,NAA
+3671,Marion,MZZ
+3672,Mossel Bay,MZY
+3673,Mecheria,MZW
+3674,Mulu,MZV
+3675,Mazatlán,MZT
+3676,Mostyn,MZS
+3677,Mazar-i-Sharif,MZR
+3678,Mkuze,MZQ
+3679,Manzanillo,MZO
+3680,Metz/Frescaty,MZM
+3681,Manizales,MZL
+3682,Marakei,MZK
+3683,Marana,MZJ
+3684,Amasya,MZH
+3685,Huxi,MZG
+3686,Santiago de Méndez,MZD
+3687,Mitzic,MZC
+3688,Mocímboa da Praia,MZB
+3689,Mazamari,MZA
+3690,Monkey Bay,MYZ
+3691,Miri,MYY
+3692,Menyamya,MYX
+3693,Mtwara,MYW
+3694,Marysville,MYV
+3695,Mekoryuk,MYU
+3696,Myitkyina,MYT
+3697,Moyale,MYS
+3698,Myrtle Beach,MYR
+3699,Mysore,MYQ
+3700,Mary,MYP
+3701,Myroodah,MYO
+3702,Mareb,MYN
+3703,Monkey Mountain,MYM
+3704,McCall,MYL
+3705,May Creek,MYK
+3706,Matsuyama,MYJ
+3707,Murray Island,MYI
+3708,Abrahams Bay,MYG
+3709,San Diego,MYF
+3710,Miyakejima,MYE
+3711,Malindi,MYD
+3712,Maracay,MYC
+3713,Mayumba,MYB
+3714,Moruya,MYA
+3715,"Meixian, Meizhou",MXZ
+3716,Mccarthy,MXY
+3717,Mora,MXX
+3718,Mandalgobi,MXW
+3719,Mörön,MXV
+3720,Maintirano,MXT
+3721,Maota,MXS
+3722,Moussoro,MXR
+3723,Myrhorod,MXR
+3724,Milan,MXP
+3725,Morlaix/Ploujean,MXN
+3726,Morombe,MXM
+3727,Mexicali,MXL
+3728,Mindik,MXK
+3729,Minna,MXJ
+3730,Mati,MXI
+3731,Moro,MXH
+3732,Marlboro,MXG
+3733,Montgomery,MXF
+3734,Maxton,MXE
+3735,Marion Downs,MXD
+3736,Monticello,MXC
+3737,Masamba-Celebes Island,MXB
+3738,Manila,MXA
+3739,Mwanza,MWZ
+3740,Miranda Downs,MWY
+3741,Piseo-ri (Muan),MWX
+3742,Sen Monorom,MWV
+3743,Moolawatana Station,MWT
+3744,Motswari Private Game Reserve,MWR
+3745,Magway,MWQ
+3746,Mountain,MWP
+3747,Middletown,MWO
+3748,Mwadui,MWN
+3749,Mineral Wells,MWL
+3750,Matak Island,MWK
+3751,Matthews Ridge,MWJ
+3752,Maramuni,MWI
+3753,Moses Lake,MWH
+3754,Marawaka,MWG
+3755,Maewo Island,MWF
+3756,Merowe,MWE
+3757,Mianwali,MWD
+3758,Milwaukee,MWC
+3759,Marion,MWA
+3760,Masvingo,MVZ
+3761,Martha's Vineyard,MVY
+3762,Minvoul,MVX
+3763,Burlington/Mount Vernon,MVW
+3764,Megève,MVV
+3765,Musgrave,MVU
+3766,Mucuri,MVS
+3767,Maroua,MVR
+3768,Mogilev,MVQ
+3769,Mitú,MVP
+3770,Mongo,MVO
+3771,Kayenta,MVM
+3772,Morrisville,MVL
+3773,Mulka,MVK
+3774,Manetai,MVI
+3775,Mossoró,MVF
+3776,Montevideo,MVE
+3777,Montevideo,MVD
+3778,Monroeville,MVC
+3779,Franceville,MVB
+3780,Myvatn,MVA
+3781,Musoma,MUZ
+3782,Mouyondzi,MUY
+3783,Multan,MUX
+3784,Ghriss,MUW
+3785,Muscatine,MUT
+3786,Ogasawara,MUS
+3787,Marudi,MUR
+3788,Muccan Station,MUQ
+3789,Mountain Home,MUO
+3790,Maturín,MUN
+3791,Mumias,MUM
+3792,Mauke Island,MUK
+3793,Omo National Park,MUJ
+3794,Fort Indiantown Gap(Annville),MUI
+3795,Marsa Matruh,MUH
+3796,Mulege,MUG
+3797,Muting,MUF
+3798,Waimea (Kamuela),MUE
+3799,Mueda,MUD
+3800,Munich,MUC
+3801,Munich,MUC
+3802,Maun,MUB
+3803,Masada,MTZ
+3804,Monterrey,MTY
+3805,Fairbanks,MTX
+3806,Manitowoc,MTW
+3807,Ablow,MTV
+3808,Montepuez,MTU
+3809,Minatitlán,MTT
+3810,Manzini,MTS
+3811,Montería,MTR
+3812,Montauk,MTP
+3813,Mattoon/Charleston,MTO
+3814,Baltimore,MTN
+3815,Metlakatla,MTM
+3816,Makin Island,MTK
+3817,Montrose,MTJ
+3818,Vila do Mosteiros,MTI
+3819,Marathon,MTH
+3820,Vila Bela Da Santíssima Trindade,MTG
+3821,Mizan Teferi,MTF
+3822,Monte Alegre,MTE
+3823,Mount Clemens,MTC
+3824,Montelíbano,MTB
+3825,Moçâmedes,MSZ
+3826,New Orleans,MSY
+3827,Mossendjo,MSX
+3828,Massawa,MSW
+3829,Monticello,MSV
+3830,Maseru,MSU
+3831,Maastricht,MST
+3832,Massena,MSS
+3833,Muş,MSR
+3834,Minsk,MSQ
+3835,Minneapolis,MSP
+3836,Missoula,MSO
+3837,Madison,MSN
+3838,Masi Manimba,MSM
+3839,Muscle Shoals,MSL
+3840,Misawa,MSJ
+3841,Masalembo Island,MSI
+3842,Masirah,MSH
+3843,Manston,MSE
+3844,Mount Pleasant,MSD
+3845,Mesa,MSC
+3846,Saint Martin,MSB
+3847,Muskrat Dam,MSA
+3848,Moree,MRZ
+3849,Monterey,MRY
+3850,Mahshahr,MRX
+3851,Lolland Falster / Maribo,MRW
+3852,Mineralnyye Vody,MRV
+3853,Port Louis,MRU
+3854,Moroak,MRT
+3855,Marseille,MRS
+3856,Macará,MRR
+3857,Gasan,MRQ
+3858,Masterton,MRO
+3859,Morganton,MRN
+3860,Manari,MRM
+3861,Marco Island,MRK
+3862,Marcala,MRJ
+3863,Anchorage,MRI
+3864,May River,MRH
+3865,Marfa,MRF
+3866,Masai Mara,MRE
+3867,Mara Lodges,MRE
+3868,Mérida,MRD
+3869,Columbia/Mount Pleasant,MRC
+3870,Martinsburg,MRB
+3871,Misratah,MRA
+3872,Smyrna,MQY
+3873,Mostaganem,MQV
+3874,Mariquita,MQU
+3875,Marquette,MQT
+3876,Mustique Island,MQS
+3877,Mosquera,MQR
+3878,Mpumalanga,MQP
+3879,Malam,MQO
+3880,Mo i Rana,MQN
+3881,Mardin,MQM
+3882,Mildura,MQL
+3883,San Matías,MQK
+3884,Khonuu,MQJ
+3885,Minaçu,MQH
+3886,Midgard,MQG
+3887,Magnitogorsk,MQF
+3888,Marqua,MQE
+3889,Maquinchao,MQD
+3890,Miquelon,MQC
+3891,Macomb,MQB
+3892,Mandora,MQA
+3893,Mount Pleasant,MPZ
+3894,Maripasoula,MPY
+3895,Miyanmin,MPX
+3896,Mariupol,MPW
+3897,Barre/Montpelier,MPV
+3898,Tatau Island,MPU
+3899,Maliana-Alor Island,MPT
+3900,Maliana,MPT
+3901,Mulatupo,MPP
+3902,Mount Pocono,MPO
+3903,Mount Pleasant,MPN
+3904,Maputo,MPM
+3905,Montpellier/Méditerranée,MPL
+3906,Gonghang-ro (Mokpo),MPK
+3907,Morrilton,MPJ
+3908,Mamitupo,MPI
+3909,Malay,MPH
+3910,Makini,MPG
+3911,Mapoda,MPF
+3912,Madison,MPE
+3913,Sindhri,MPD
+3914,Muko Muko-Sumatra Island,MPC
+3915,Miami,MPB
+3916,Mpacha,MPA
+3917,Monterrey,MOY
+3918,Moranbah,MOV
+3919,Mountain Village,MOU
+3920,Minot,MOT
+3921,Elim,MOS
+3922,Morondava,MOQ
+3923,Moudjeria,MOM
+3924,Årø,MOL
+3925,Moengo,MOJ
+3926,Mitiaro Island,MOI
+3927,Morowali,MOH
+3928,Mong Hsat,MOG
+3929,Maumere-Flores Island,MOF
+3930,Modesto,MOD
+3931,Montes Claros,MOC
+3932,Mobile,MOB
+3933,Moa,MOA
+3934,Manassas,MNZ
+3935,Stirling Island,MNY
+3936,Manicoré,MNX
+3937,Mawlamyine,MNU
+3938,Minto,MNT
+3939,Mansa,MNS
+3940,Mongu,MNR
+3941,Hermit Islands,MNP
+3942,Manono,MNO
+3943,Marion,MNN
+3944,Menominee,MNM
+3945,Manila,MNL
+3946,Maiana,MNK
+3947,Mananjary,MNJ
+3948,Gerald's Park,MNI
+3949,Plymouth,MNI
+3950,Al Masna'ah,MNH
+3951,Maningrida,MNG
+3952,Mana Island,MNF
+3953,Mungeranie,MNE
+3954,Medina,MND
+3955,Nacala,MNC
+3956,Karakelong Island,MNA
+3957,Maymana,MMZ
+3958,Miyako City,MMY
+3959,Malmö,MMX
+3960,Mal Island,MMV
+3961,Morristown,MMU
+3962,Eastover,MMT
+3963,Marks,MMS
+3964,Mbala,MMQ
+3965,Vila do Maio,MMO
+3966,Marshall,MML
+3967,Murmansk,MMK
+3968,Matsumoto,MMJ
+3969,Athens,MMI
+3970,Mammoth Lakes,MMH
+3971,Mamfe,MMF
+3972,Durham,MME
+3973,Minamidaito,MMD
+3974,Ciudad Mante,MMC
+3975,Ōzora,MMB
+3976,Melo,MLZ
+3977,Manley Hot Springs,MLY
+3978,Malatya,MLX
+3979,Monrovia,MLW
+3980,Merluna,MLV
+3981,Monroe,MLU
+3982,Miles City,MLS
+3983,Malalaua,MLQ
+3984,Malabang,MLP
+3985,Milos Island,MLO
+3986,Melilla,MLN
+3987,Morelia,MLM
+3988,Marshall,MLL
+3989,Malta,MLK
+3990,Moline,MLI
+3991,Malang-Java Island,MLG
+3992,Malé,MLE
+3993,Mc Alester,MLC
+3994,Melbourne,MLB
+3995,Valletta,MLA
+3996,Malacca,MKZ
+3997,Mackay,MKY
+3998,Manokwari-Papua Island,MKW
+3999,Makokou,MKU
+4000,Mekane Selam,MKS
+4001,Merauke-Papua Island,MKQ
+4002,Babase Island,MKN
+4003,Mukah,MKM
+4004,Jackson,MKL
+4005,Kaunakakai,MKK
+4006,Makoua,MKJ
+4007,Mboki,MKI
+4008,Mokhotlong,MKH
+4009,Muskegon,MKG
+4010,Milwaukee,MKE
+4011,Kansas City,MKC
+4012,Mekambo,MKB
+4013,Mariánské Lázně,MKA
+4014,Mirny,MJZ
+4015,Mangungaya-Sumatra Island,MJY
+4016,Toms River,MJX
+4017,Gonarezhou National Park,MJW
+4018,San Javier,MJV
+4019,Mamuju-Celebes Island,MJU
+4020,Mytilene,MJT
+4021,Maganja,MJS
+4022,Miramar,MJR
+4023,Mount Etjo Safari Lodge,MJO
+4024,Mbuji Mayi,MJM
+4025,Mouila,MJL
+4026,Denham,MJK
+4027,Moki,MJJ
+4028,Tripoli,MJI
+4029,Mayajigua,MJG
+4030,Majkin,MJE
+4031,Moenjodaro,MJD
+4032,Mejit Atoll,MJB
+4033,Manja,MJA
+4034,Mainoru,MIZ
+4035,Millville,MIV
+4036,Maiduguri,MIU
+4037,Shafter,MIT
+4038,Misima Island,MIS
+4039,Monastir,MIR
+4040,Beersheba,MIP
+4041,Merimbula,MIM
+4042,Mikkeli,MIK
+4043,Mili Island,MIJ
+4044,Marília,MII
+4045,Mitchell Plateau,MIH
+4046,Mianyang,MIG
+4047,Monahans,MIF
+4048,Muncie,MIE
+4049,Mérida,MID
+4050,Minot,MIB
+4051,Miami,MIA
+4052,Mildenhall,MHZ
+4053,Morehead,MHY
+4054,Manihiki Island,MHX
+4055,El Bañado,MHW
+4056,Mojave,MHV
+4057,Mount Hotham,MHU
+4058,Manchester,MHT
+4059,Dunsmuir,MHS
+4060,Sacramento,MHR
+4061,Minsk,MHP
+4062,Mullen,MHN
+4063,Marshall,MHL
+4064,Manhattan,MHK
+4065,Moucha Island,MHI
+4066,Marsh Harbour,MHH
+4067,Mannheim,MHG
+4068,Morichal,MHF
+4069,Mitchell,MHE
+4070,Mashhad,MHD
+4071,Dalcahue,MHC
+4072,Auckland City,MHB
+4073,Mahdia,MHA
+4074,Mkeik,MGZ
+4075,Dayton,MGY
+4076,Moabi,MGX
+4077,Morgantown,MGW
+4078,Manaung,MGU
+4079,Milingimbi Island,MGT
+4080,Mangaia Island,MGS
+4081,Moultrie,MGR
+4082,Mogadishu,MGQ
+4083,Manga Mission,MGP
+4084,Magangué,MGN
+4085,Montgomery,MGM
+4086,Mönchengladbach,MGL
+4087,Mong Tong,MGK
+4088,Montgomery,MGJ
+4089,Port O'Connor,MGI
+4090,Margate,MGH
+4091,Margarima,MGG
+4092,Maringá,MGF
+4093,Marietta,MGE
+4094,Magdalena,MGD
+4095,Michigan City,MGC
+4096,Managua,MGA
+4097,Demgulu,MFZ
+4098,Magaruque Island,MFW
+4099,Melfa,MFV
+4100,Mfuwe,MFU
+4101,Miraflores,MFS
+4102,Medford,MFR
+4103,Maradi,MFQ
+4104,Manguna,MFO
+4105,Freguesia de Nossa Senhora do Carmo (Taipa),MFM
+4106,Wando Vale,MFL
+4107,Matsu (Beigan),MFK
+4108,Moala,MFJ
+4109,Marshfield,MFI
+4110,Mesquite,MFH
+4111,Muzaffarabad,MFG
+4112,Moanda,MFF
+4113,Mc Allen,MFE
+4114,Mansfield,MFD
+4115,Mafeteng,MFC
+4116,Monfort,MFB
+4117,Mafia Island,MFA
+4118,Musina,MEZ
+4119,Meghauli,MEY
+4120,Mexico City,MEX
+4121,Mweka,MEW
+4122,Minden,MEV
+4123,Almeirim,MEU
+4124,Moreton,MET
+4125,Medan-Sumatra Island,MES
+4126,Merced,MER
+4127,Peureumeue-Sumatra Island,MEQ
+4128,Mersing,MEP
+4129,Manteo,MEO
+4130,Mende/Brénoux,MEN
+4131,Memphis,MEM
+4132,Melbourne,MEL
+4133,Meknes,MEK
+4134,Meadville,MEJ
+4135,Meridian,MEI
+4136,Mehamn,MEH
+4137,Malanje,MEG
+4138,Melfi,MEF
+4139,Maré,MEE
+4140,Medina,MED
+4141,Manta,MEC
+4142,Melbourne,MEB
+4143,Macaé,MEA
+4144,Mendoza,MDZ
+4145,Sand Island,MDY
+4146,Mercedes,MDX
+4147,Chicago,MDW
+4148,"Médouneu, Gabon",MDV
+4149,Mendi,MDU
+4150,Harrisburg,MDT
+4151,Middle Caicos,MDS
+4152,Medfra,MDR
+4153,Mar del Plata,MDQ
+4154,Mindiptana-Papua Island,MDP
+4155,Middleton Island,MDO
+4156,Madison,MDN
+4157,Munduku,MDM
+4158,Mandalay,MDL
+4159,Mbandaka,MDK
+4160,Madras,MDJ
+4161,Makurdi,MDI
+4162,Carbondale/Murphysboro,MDH
+4163,Mudanjiang,MDG
+4164,Medford,MDF
+4165,Medellín,MDE
+4166,Midland,MDD
+4167,Manado-Celebes Island,MDC
+4168,Melinda,MDB
+4169,San Antonio,MDA
+4170,Maceió,MCZ
+4171,Maroochydore,MCY
+4172,Makhachkala,MCX
+4173,Mason City,MCW
+4174,McArthur River Mine,MCV
+4175,Montluçon/Guéret,MCU
+4176,Muscat,MCT
+4177,Monte Caseros,MCS
+4178,Melchor de Mencos,MCR
+4179,Miskolc,MCQ
+4180,Macapá,MCP
+4181,Orlando,MCO
+4182,Macon,MCN
+4183,Fontvieille,MCM
+4184,McKinley Park,MCL
+4185,Mc Cook,MCK
+4186,La Mina-Maicao,MCJ
+4187,Kansas City,MCI
+4188,Machala,MCH
+4189,McGrath,MCG
+4190,Tampa,MCF
+4191,Merced,MCE
+4192,Mackinac Island,MCD
+4193,Sacramento,MCC
+4194,McComb,MCB
+4195,Macenta,MCA
+4196,Maués,MBZ
+4197,Moberly,MBY
+4198,Melbourne,MBW
+4199,Masa,MBV
+4200,Mbambanakira,MBU
+4201,Masbate,MBT
+4202,Saginaw,MBS
+4203,Mbarara,MBQ
+4204,Moyobamba,MBP
+4205,Mkambati,MBM
+4206,Manistee,MBL
+4207,Matupá,MBK
+4208,Montego Bay,MBJ
+4209,Mbeya,MBI
+4210,Maryborough,MBH
+4211,Mobridge,MBG
+4212,Monbetsu,MBE
+4213,Mafeking,MBD
+4214,M'Bigou,MBC
+4215,Mombasa,MBA
+4216,Mayaguez,MAZ
+4217,Mangrove Cay,MAY
+4218,Ouro Sogui,MAX
+4219,Malden,MAW
+4220,Maloelap Island,MAV
+4221,Matadi,MAT
+4222,Manus Island,MAS
+4223,Maracaibo,MAR
+4224,Mamai,MAP
+4225,Manaus,MAO
+4226,Manchester,MAN
+4227,Matamoros,MAM
+4228,Mangole Island,MAL
+4229,Malakal,MAK
+4230,Majuro Atoll,MAJ
+4231,Mangochi,MAI
+4232,Menorca Island,MAH
+4233,Madang,MAG
+4234,Midland,MAF
+4235,Madera,MAE
+4236,Madrid,MAD
+4237,Macon,MAC
+4238,Marabá,MAB
+4239,Chennai,MAA
+4240,Nyingchi,LZY
+4241,Lawrenceville,LZU
+4242,Yunlong,LZO
+4243,Luzhou,LZO
+4244,Matsu (Nangan),LZN
+4245,Luzamba,LZM
+4246,Luozi,LZI
+4247,Liuzhou (Liujiang),LZH
+4248,Lázaro Cárdenas,LZC
+4249,Luiza,LZA
+4250,"Lydd, Ashford",LYX
+4251,Ely,LYU
+4252,Lady Elliot Island,LYT
+4253,Lyon,LYS
+4254,Longyearbyen,LYR
+4255,Faisalabad,LYP
+4256,Lyons,LYO
+4257,Lyon/Bron,LYN
+4258,Ashford,LYM
+4259,Lunyuk-Simbawa Island,LYK
+4260,Linyi,LYI
+4261,Lynchburg,LYH
+4262,Lianyungang,LYG
+4263,Lyneham,LYE
+4264,Little Cayman,LYB
+4265,Luoyang,LYA
+4266,Leadville,LXV
+4267,Lukulu,LXU
+4268,Limnos Island,LXS
+4269,Luxor,LXR
+4270,Lexington,LXN
+4271,Luang Namtha,LXG
+4272,Lhasa,LXA
+4273,Lawas,LWY
+4274,Lawrenceville,LWV
+4275,Lewistown,LWT
+4276,Lewiston,LWS
+4277,Leeuwarden,LWR
+4278,Lviv,LWO
+4279,Gyumri,LWN
+4280,Lawrence,LWM
+4281,Wells,LWL
+4282,Lerwick,LWK
+4283,Lowai,LWI
+4284,Lewoleba-Lembata Island,LWE
+4285,Lawrence,LWC
+4286,Lewisburg,LWB
+4287,Lebak,LWA
+4288,Las Vegas,LVS
+4289,Lucas do Rio Verde,LVR
+4290,Livingston,LVM
+4291,Lawrenceville,LVL
+4292,Livermore,LVK
+4293,Livingstone,LVI
+4294,Lime Village,LVD
+4295,Santana do Livramento,LVB
+4296,Laval/Entrammes,LVA
+4297,Lublin,LUZ
+4298,Lushoto,LUY
+4299,Luxembourg,LUX
+4300,Luwok - Celebes Island,LUW
+4301,Langgur,LUV
+4302,Lusanga,LUS
+4303,Cape Lisburne,LUR
+4304,San Luis,LUQ
+4305,Kalaupapa,LUP
+4306,Luena,LUO
+4307,Lusaka,LUN
+4308,Luxi,LUM
+4309,Laurel,LUL
+4310,Cincinnati,LUK
+4311,Lusikisiki,LUJ
+4312,La Unión,LUI
+4313,Lugano,LUG
+4314,Glendale,LUF
+4315,Lučenec,LUE
+4316,Luderitz,LUD
+4317,Laucala Island,LUC
+4318,Lumid Pau,LUB
+4319,Lukla,LUA
+4320,Latacunga,LTX
+4321,California,LTW
+4322,Lotus Vale,LTV
+4323,Latur,LTU
+4324,La Môle,LTT
+4325,Altus,LTS
+4326,Letterkenny,LTR
+4327,Le Touquet-Paris-Plage,LTQ
+4328,Lyndhurst,LTP
+4329,Loreto,LTO
+4330,London,LTN
+4331,Lethem,LTM
+4332,Lastourville,LTL
+4333,Latakia,LTK
+4334,Altai,LTI
+4335,Amargosa Valley,LTH
+4336,Langtang,LTG
+4337,Leitre,LTF
+4338,Ghadames,LTD
+4339,Lai,LTC
+4340,Latrobe,LTB
+4341,Tzaneen,LTA
+4342,Lošinj,LSZ
+4343,Lismore,LSY
+4344,Lhok Sukon-Sumatra Island,LSX
+4345,Lhok Seumawe-Sumatra Island,LSW
+4346,Las Vegas,LSV
+4347,Long Sukang,LSU
+4348,Launceston,LST
+4349,Les Saintes,LSS
+4350,Los Angeles,LSQ
+4351,Paraguaná,LSP
+4352,Les Sables-d'Olonne,LSO
+4353,Los Banos,LSN
+4354,Long Semado,LSM
+4355,Los Chiles,LSL
+4356,Lusk,LSK
+4357,Long Island,LSJ
+4358,Lerwick,LSI
+4359,Lashio,LSH
+4360,Fort Benning(Columbus),LSF
+4361,La Crosse,LSE
+4362,La Serena-Coquimbo,LSC
+4363,Lordsburg,LSB
+4364,Losuia,LSA
+4365,Gran Roque Island,LRV
+4366,Las Cruces,LRU
+4367,Lorient/Lann/Bihoué,LRT
+4368,Leros Island,LRS
+4369,Lar,LRR
+4370,Laurie River,LRQ
+4371,Lathrop,LRO
+4372,La Romana,LRM
+4373,Niamtougou,LRL
+4374,Le Mars,LRJ
+4375,La Rochelle/Île de Ré,LRH
+4376,Loralai,LRG
+4377,Jacksonville,LRF
+4378,Longreach,LRE
+4379,Laredo,LRD
+4380,Leribe,LRB
+4381,Larisa,LRA
+4382,Qala-i-Naw,LQN
+4383,Puerto Leguízamo,LQM
+4384,Pickens,LQK
+4385,Le Puy/Loudes,LPY
+4386,Liepāja,LPX
+4387,Long Apung-Borneo Island,LPU
+4388,Lopez,LPS
+4389,Luang Phabang,LPQ
+4390,Lappeenranta,LPP
+4391,La Porte,LPO
+4392,Leron Plains,LPN
+4393,Lamap,LPM
+4394,Liverpool,LPL
+4395,Lipetsk,LPK
+4396,Guayabal,LPJ
+4397,Linköping,LPI
+4398,La Plata,LPG
+4399,Liupanshui,LPF
+4400,Costa Rica,LPE
+4401,La Primavera,LPE
+4402,La Pedrera,LPD
+4403,Lompoc,LPC
+4404,La Paz / El Alto,LPB
+4405,Gran Canaria Island,LPA
+4406,London,LOZ
+4407,Loyengalani,LOY
+4408,Louisa,LOW
+4409,Louisville,LOU
+4410,Chicago/Romeoville,LOT
+4411,Lagos,LOS
+4412,Fort Rucker Ozark,LOR
+4413,Lobatse,LOQ
+4414,Mataram,LOP
+4415,Laghouat,LOO
+4416,Lagos de Moreno,LOM
+4417,Lovelock,LOL
+4418,Lodwar,LOK
+4419,Lontras,LOI
+4420,La Toma (Catamayo),LOH
+4421,Loen Island,LOF
+4422,Longana,LOD
+4423,Lock,LOC
+4424,Los Andes,LOB
+4425,Linz,LNZ
+4426,Lanai City,LNY
+4427,Smolensk,LNX
+4428,Londolovit,LNV
+4429,Lancaster,LNS
+4430,Lone Rock,LNR
+4431,Loani,LNQ
+4432,Wise,LNP
+4433,Leonora,LNO
+4434,Willoughby,LNN
+4435,Longnan,LNL
+4436,Lincoln,LNK
+4437,Lincang,LNJ
+4438,Point Lonely,LNI
+4439,Alpurrurulam,LNH
+4440,Lese,LNG
+4441,Lonorore,LNE
+4442,Lander,LND
+4443,Lamen Bay,LNB
+4444,West Palm Beach,LNA
+4445,Palma,LMZ
+4446,Lake Murray,LMY
+4447,Bukit Padi,LMU
+4448,Klamath Falls,LMT
+4449,Louisville,LMS
+4450,Lime Acres,LMR
+4451,Lampedusa,LMP
+4452,Lossiemouth,LMO
+4453,Limbang,LMN
+4454,Los Mochis,LMM
+4455,Lae Island,LML
+4456,Lumi,LMI
+4457,Le Mans/Arnage,LME
+4458,Los Menucos,LMD
+4459,La Macarena,LMC
+4460,La Macarena,LMC
+4461,Salima,LMB
+4462,Minchumina,LMA
+4463,Mount Holly,LLY
+4464,Lyndonville,LLX
+4465,Lilongwe,LLW
+4466,Lüliang,LLV
+4467,Alluitsup Paa,LLU
+4468,Las Lomitas,LLS
+4469,Palopo,LLO
+4470,Kelila-Papua Island,LLN
+4471,Long Lama,LLM
+4472,Lissadell Station,LLL
+4473,Lankaran,LLK
+4474,Lalmonirhat,LLJ
+4475,Lubuk Linggau-Sumatra Island,LLJ
+4476,Lalibela,LLI
+4477,La Lima,LLH
+4478,Yongzhou,LLF
+4479,Malelane,LLE
+4480,Lal-lo,LLC
+4481,Libo County,LLB
+4482,Luleå,LLA
+4483,Lakenheath,LKZ
+4484,Lake Manyara National Park,LKY
+4485,Lakeview,LKV
+4486,Lake Rudolf,LKU
+4487,Lake Placid,LKP
+4488,Lucknow,LKO
+4489,Leknes,LKN
+4490,Lakselv,LKL
+4491,Kulik Lake,LKK
+4492,Long Akah,LKH
+4493,Lokichoggio,LKG
+4494,Seattle,LKE
+4495,Lakeland Downs,LKD
+4496,Lekana,LKC
+4497,Lakeba Island,LKB
+4498,Larantuka-Flores Island,LKA
+4499,Ljubljana,LJU
+4500,Angleton,LJN
+4501,Lake Jackson,LJN
+4502,Lijiang,LJG
+4503,Lodja,LJA
+4504,Limestone,LIZ
+4505,Fort Stewart(Hinesville),LIY
+4506,Likoma Island,LIX
+4507,Loikaw,LIW
+4508,Livengood,LIV
+4509,Little Rock,LIT
+4510,Lisbon,LIS
+4511,Liberia,LIR
+4512,Lins,LIP
+4513,Puerto Limon,LIO
+4514,Milan,LIN
+4515,Lima,LIM
+4516,Lille/Lesquin,LIL
+4517,Likiep Island,LIK
+4518,Mulia-Papua Island,LII
+4519,Lihue,LIH
+4520,Limoges/Bellegarde,LIG
+4521,Lifou,LIF
+4522,Libenge,LIE
+4523,Leiden,LID
+4524,Limon,LIC
+4525,Limbunya,LIB
+4526,Liangping,LIA
+4527,Lanzhou,LHW
+4528,Lock Haven,LHV
+4529,Lianshulu Lodge,LHU
+4530,Lake Havasu City,LHU
+4531,Las Heras,LHS
+4532,London,LHR
+4533,Lehu,LHP
+4534,Guanghua,LHK
+4535,Lereh-Papua Island,LHI
+4536,Lahore,LHE
+4537,Arlington,LHC
+4538,Lagunillas,LGY
+4539,Luuq,LGX
+4540,London,LGW
+4541,Logan,LGU
+4542,Malargue,LGS
+4543,Cochrane,LGR
+4544,Lago Agrio,LGQ
+4545,Legazpi / Daraga,LGP
+4546,Legazpi City,LGP
+4547,Langeoog,LGO
+4548,Linga Linga,LGN
+4549,Laiagam,LGM
+4550,Long Datih,LGL
+4551,Langkawi,LGK
+4552,Deadman's Cay,LGI
+4553,Liège,LGG
+4554,Yuma Proving Ground(Yuma),LGF
+4555,Lake Gregory,LGE
+4556,La Grande,LGD
+4557,Lagrange,LGC
+4558,Long Beach,LGB
+4559,New York,LGA
+4560,Lomé,LFW
+4561,Lafayette,LFT
+4562,Linfen,LFQ
+4563,Lakefield,LFP
+4564,Kelafo,LFO
+4565,Louisburg,LFN
+4566,Lamerd,LFM
+4567,Lufkin,LFK
+4568,Hampton,LFI
+4569,Lumbo,LFB
+4570,La Esperanza,LEZ
+4571,Lelystad,LEY
+4572,Lexington,LEX
+4573,Auburn/Lewiston,LEW
+4574,Bureta,LEV
+4575,La Seu d'Urgell Pyrenees and Andorra,LEU
+4576,Leticia,LET
+4577,Lesobeng,LES
+4578,Land's End,LEQ
+4579,Leopoldina,LEP
+4580,Lekoni,LEO
+4581,León,LEN
+4582,Lemmon,LEM
+4583,Labé,LEK
+4584,Leipzig,LEJ
+4585,Almería,LEI
+4586,Le Havre/Octeville,LEH
+4587,Lebakeng,LEF
+4588,Leesburg,LEE
+4589,St. Petersburg,LED
+4590,Lençóis,LEC
+4591,Lebanon,LEB
+4592,Exmouth,LEA
+4593,Londolozi,LDZ
+4594,Derry,LDY
+4595,Saint-Laurent-du-Maroni,LDX
+4596,Lansdowne Station,LDW
+4597,Landivisiau,LDV
+4598,Lahad Datu,LDU
+4599,Yichun,LDS
+4600,Aurora,LDO
+4601,Lamidanda,LDN
+4602,Ludington,LDM
+4603,Lidköping,LDK
+4604,Linden,LDJ
+4605,Lindi,LDI
+4606,Lord Howe Island,LDH
+4607,Leshukonskoye,LDG
+4608,Tarbes/Lourdes/Pyrénées,LDE
+4609,Lindeman Island,LDC
+4610,Londrina,LDB
+4611,Malda,LDA
+4612,London,LCY
+4613,Longyan,LCX
+4614,Lucca,LCV
+4615,La Chorrera,LCR
+4616,Lake City,LCQ
+4617,Loncopue,LCP
+4618,Lague,LCO
+4619,La Cumbre,LCM
+4620,Pinar del Rio,LCL
+4621,Columbus,LCK
+4622,Łódź,LCJ
+4623,Laconia / Gilford,LCI
+4624,Lake Charles,LCH
+4625,Culleredo,LCG
+4626,Rio Dulce,LCF
+4627,La Ceiba,LCE
+4628,Louis Trichardt,LCD
+4629,Pontes e Lacerda,LCB
+4630,Larnarca,LCA
+4631,Lucapa,LBZ
+4632,La Baule-Escoublac,LBY
+4633,Long Bawan-Borneo Island,LBW
+4634,Libreville,LBV
+4635,Labuan,LBU
+4636,Lumberton,LBT
+4637,Lábrea,LBR
+4638,Lambarene,LBQ
+4639,Long Banga,LBP
+4640,Lusambo,LBO
+4641,Lake Baringo,LBN
+4642,Luabo,LBM
+4643,Liberal,LBL
+4644,Liboi,LBK
+4645,Labuan Bajo - Flores Island,LBJ
+4646,Albi/Le Séquestre,LBI
+4647,Sydney,LBH
+4648,Paris,LBG
+4649,North Platte,LBF
+4650,Latrobe,LBE
+4651,Khudzhand,LBD
+4652,Lübeck,LBC
+4653,Lubbock,LBB
+4654,Leeds,LBA
+4655,Bom Jesus Da Lapa,LAZ
+4656,Ladysmith,LAY
+4657,Los Angeles,LAX
+4658,Lawton,LAW
+4659,Lalomalava,LAV
+4660,Lamu,LAU
+4661,Las Vegas,LAS
+4662,Laramie,LAR
+4663,Al Bayda',LAQ
+4664,La Paz,LAP
+4665,Laoag City,LAO
+4666,Lansing,LAN
+4667,Los Alamos,LAM
+4668,Lakeland,LAL
+4669,Aklavik,LAK
+4670,Lages,LAJ
+4671,Lannion,LAI
+4672,Labuha-Halmahera Island,LAH
+4673,La Guaira,LAG
+4674,Lafayette,LAF
+4675,Lae,LAE
+4676,Luanda,LAD
+4677,Spratley Islands,LAC
+4678,Lab Lab Mission,LAB
+4679,Labra,LAB
+4680,Lamar,LAA
+4681,Kastelorizo Island,KZS
+4682,Altıntaş,KZR
+4683,Kzyl-Orda,KZO
+4684,Kazan,KZN
+4685,Kozani,KZI
+4686,Kitzingen,KZG
+4687,Kaintiba,KZF
+4688,Krakor,KZD
+4689,Kampong Chhnang,KZC
+4690,Zachar Bay,KZB
+4691,Kyzyl,KYZ
+4692,Yalumet,KYX
+4693,Koyukuk,KYU
+4694,Kyauktu,KYT
+4695,Kyaukpyu,KYP
+4696,Tampa,KYO
+4697,Key Largo,KYL
+4698,Karluk,KYK
+4699,Yalata Mission,KYI
+4700,Tripoli,KYE
+4701,Orchid Island,KYD
+4702,Konya,KYA
+4703,Katiu,KXU
+4704,Buka Island,KXR
+4705,Komsomolsk-on-Amur,KXK
+4706,Koro Island,KXF
+4707,Klerksdorp,KXE
+4708,Kasaan,KXA
+4709,Kiwayu,KWY
+4710,Kiwai Island,KWX
+4711,Kurwina,KWV
+4712,Kwethluk,KWT
+4713,Kwailabesi,KWS
+4714,West Point,KWP
+4715,Kawito,KWO
+4716,Quinhagak,KWN
+4717,Kowanyama,KWM
+4718,Guilin (Lingui),KWL
+4719,Kwigillingok,KWK
+4720,Gwangju,KWJ
+4721,Kuwait City,KWI
+4722,Khwahan,KWH
+4723,Kryvyi Rih,KWG
+4724,Waterfall,KWF
+4725,Guiyang,KWE
+4726,Karimunjawa-Karimunjawa Island,KWB
+4727,Karimunjawa,KWB
+4728,Kwajalein,KWA
+4729,Kirov,KVX
+4730,Kavalerovo,KVR
+4731,Kraljevo,KVO
+4732,Markovo,KVM
+4733,Kivalina,KVL
+4734,Apatity,KVK
+4735,Kavieng,KVG
+4736,Kitava Island,KVE
+4737,Ganja,KVD
+4738,King Cove,KVC
+4739,Skövde,KVB
+4740,Kavala,KVA
+4741,Kuummiut,KUZ
+4742,Kamusi,KUY
+4743,Kunsan,KUV
+4744,Kutaisi,KUT
+4745,Kulusuk,KUS
+4746,Kuri,KUQ
+4747,Kupiano,KUP
+4748,Kuopio / Siilinjärvi,KUO
+4749,Kaunas,KUN
+4750,Yakushima,KUM
+4751,Kuala Lumpur,KUL
+4752,Kasigluk,KUK
+4753,Kushiro,KUH
+4754,Moa Island,KUG
+4755,Samara,KUF
+4756,Kolombangara Island,KUE
+4757,Kudat,KUD
+4758,Kuria,KUC
+4759,Kuantan,KUA
+4760,Kalutara,KTY
+4761,Koutiala,KTX
+4762,Katowice,KTW
+4763,Kamarata,KTV
+4764,Kota,KTU
+4765,Kittilä,KTT
+4766,Brevig Mission,KTS
+4767,Kitee,KTQ
+4768,Tinson Pen,KTP
+4769,Kato,KTO
+4770,Ketchikan,KTN
+4771,Kathmandu,KTM
+4772,Kitale,KTL
+4773,Kunua,KTK
+4774,Kichwa Tembo,KTJ
+4775,Kratie,KTI
+4776,Tikchik,KTH
+4777,Ketapang-Borneo Island,KTG
+4778,Kerteh,KTE
+4779,Kitadaitōjima,KTD
+4780,Katiola,KTC
+4781,Thorne Bay,KTB
+4782,Karratha,KTA
+4783,Kotlas,KSZ
+4784,Kars,KSY
+4785,Yasuru,KSX
+4786,Kiryat Shmona,KSW
+4787,Kvernberget,KSU
+4788,Kosti,KST
+4789,Sikasso,KSS
+4790,Benteng,KSR
+4791,Karshi,KSQ
+4792,Kosipe Mission,KSP
+4793,Kastoria,KSO
+4794,Kostanay,KSN
+4795,St Mary's,KSM
+4796,Kassala,KSL
+4797,Kasos Island,KSJ
+4798,Kissidougou,KSI
+4799,Kermanshah,KSH
+4800,Kisenden,KSG
+4801,Kassel,KSF
+4802,Kasese,KSE
+4803,Karlstad,KSD
+4804,Košice,KSC
+4805,Kasonombe,KSB
+4806,Okat,KSA
+4807,Kiri,KRZ
+4808,Karamay,KRY
+4809,Kar Kar Island,KRX
+4810,Krasnovodsk,KRW
+4811,Kimwarer,KRV
+4812,Gunim,KRU
+4813,Khartoum,KRT
+4814,Kjevik,KRS
+4815,Krasnodar,KRR
+4816,Kramatorsk,KRQ
+4817,Karup,KRP
+4818,Kurgan,KRO
+4819,Kiruna,KRN
+4820,Karanambo,KRM
+4821,Korla,KRL
+4822,Kraków,KRK
+4823,Amboin,KRJ
+4824,Kikori,KRI
+4825,Redhill,KRH
+4826,Karasabai,KRG
+4827,Kramfors / Sollefteå,KRF
+4828,Kirundo,KRE
+4829,Kurundi Station,KRD
+4830,Sungai Penuh,KRC
+4831,Kurgan-Tyube,KQT
+4832,Kol,KQL
+4833,Ajmer (Kishangarh),KQH
+4834,Akutan,KQA
+4835,Akutan,KQA
+4836,Port Bailey,KPY
+4837,Keperveem,KPW
+4838,Perryville,KPV
+4839,Jackpot,KPT
+4840,Port Williams,KPR
+4841,Kalpower,KPP
+4842,Pohang,KPO
+4843,Kipnuk,KPN
+4844,Kapal,KPL
+4845,Kapit,KPI
+4846,Kondobol,KPF
+4847,Port Clarence,KPC
+4848,Point Baker,KPB
+4849,Kopiago,KPA
+4850,Ouzinkie,KOZ
+4851,Olga Bay,KOY
+4852,Kokonau-Papua Island,KOX
+4853,Ganzhou,KOW
+4854,Kokshetau,KOV
+4855,Koulamoutou,KOU
+4856,Kotlik,KOT
+4857,Sihanoukville,KOS
+4858,Kakoro,KOR
+4859,Köthen,KOQ
+4860,Kongolo,KOO
+4861,Kontum,KON
+4862,Komo,KOM
+4863,Koumala,KOL
+4864,Kokkola / Kruunupyy,KOK
+4865,Kagoshima,KOJ
+4866,Orkney Islands,KOI
+4867,Komatipoort,KOF
+4868,Kupang-Timor Island,KOE
+4869,Kotabangun-Borneo Island,KOD
+4870,Koumac,KOC
+4871,Kailua-Kona,KOA
+4872,Kenieba,KNZ
+4873,Kununurra,KNX
+4874,New Stuyahok,KNW
+4875,Kanpur,KNU
+4876,Kennett,KNT
+4877,Kangan,KNR
+4878,Koné,KNQ
+4879,Capanda,KNP
+4880,Kankan,KNN
+4881,Kaniama,KNM
+4882,Kelanoa,KNL
+4883,Kokhanok,KNK
+4884,Kindamba,KNJ
+4885,Shang-I,KNH
+4886,Kaimana-Papua Island,KNG
+4887,Marham,KNF
+4888,Kanainj,KNE
+4889,Kindu,KND
+4890,Viña Del Mar,KNA
+4891,Kaoma,KMZ
+4892,Moser Bay,KMY
+4893,Khamis Mushait,KMX
+4894,Kostroma,KMW
+4895,Kalemyo,KMV
+4896,Kismayo,KMU
+4897,Kampot,KMT
+4898,Kumasi,KMS
+4899,Karimui,KMR
+4900,Kanazawa,KMQ
+4901,Keetmanshoop,KMP
+4902,Manokotak,KMO
+4903,Klein Bonaire,KMN
+4904,Kiman-Papua Island,KMM
+4905,Kimaam,KMM
+4906,Makabana,KMK
+4907,Kumamoto,KMJ
+4908,Miyazaki,KMI
+4909,Kuruman,KMH
+4910,Kunming,KMG
+4911,Hoieti,KMF
+4912,Kamembe,KME
+4913,King Khaled Military City,KMC
+4914,Konambe,KMB
+4915,Kerema,KMA
+4916,Kleinsee,KLZ
+4917,Kalima,KLY
+4918,Kalamata,KLX
+4919,Klawock,KLW
+4920,Karlovy Vary,KLV
+4921,Klagenfurt am Wörthersee,KLU
+4922,Kelso,KLS
+4923,Keluang-Sumatra Island,KLQ
+4924,Kalibo,KLO
+4925,Larsen Bay,KLN
+4926,Kalaleh,KLM
+4927,Levelock,KLL
+4928,Kalokol,KLK
+4929,Kalskag,KLG
+4930,Kaluga,KLF
+4931,Kaélé,KLE
+4932,Tver,KLD
+4933,Kaolack,KLC
+4934,Kalabo,KLB
+4935,Kampala,KLA
+4936,Krong Khemara Phoumin,KKZ
+4937,Kilkenny,KKY
+4938,Kikai,KKX
+4939,Ekuk,KKU
+4940,Kentland,KKT
+4941,Kashan,KKS
+4942,Krasnoselkup,KKQ
+4943,Koolburra,KKP
+4944,Kirkenes,KKN
+4945,Karluk Lake,KKL
+4946,Kalakaket Creek,KKK
+4947,Kitakyushu,KKJ
+4948,Akiachak,KKI
+4949,Kongiganak,KKH
+4950,Konawaruk,KKG
+4951,Kerikeri,KKE
+4952,Kokoda,KKD
+4953,Khon Kaen,KKC
+4954,Kitoi Bay,KKB
+4955,Koyuk,KKA
+4956,Kamiraba,KJU
+4957,Kertajati,KJT
+4958,Zamami,KJP
+4959,Wevelgem,KJK
+4960,Burqin,KJI
+4961,Huangping,KJH
+4962,Orvakal,KJB
+4963,Krasnoyarsk,KJA
+4964,Kikinonda,KIZ
+4965,Kilwa Masoko,KIY
+4966,Izumisano,KIX
+4967,Kitwe,KIW
+4968,Chişinău,KIV
+4969,Kiunga,KIU
+4970,Kithira Island,KIT
+4971,Kisumu,KIS
+4972,Killarney,KIR
+4973,Kira,KIQ
+4974,Wichita Falls,KIP
+4975,Kili Island,KIO
+4976,Kingston,KIN
+4977,Kimberley,KIM
+4978,Kilwa,KIL
+4979,Kirkuk,KIK
+4980,Niigata,KIJ
+4981,Kibuli,KII
+4982,Kish Island,KIH
+4983,Koingnaas,KIG
+4984,Kingfisher Lake,KIF
+4985,Kieta,KIE
+4986,Kristianstad,KID
+4987,King City,KIC
+4988,Ivanof Bay,KIB
+4989,Kaiapit,KIA
+4990,Kauehi,KHZ
+4991,Khoy,KHY
+4992,Kihihi,KHX
+4993,Khwai River Lodge,KHW
+4994,Khabarovsk,KHV
+4995,Kremenchuk,KHU
+4996,Khost,KHT
+4997,Khasab,KHS
+4998,Kullorsuaq,KHQ
+4999,Khoka Moya,KHO
+5000,Nanchang,KHN
+5001,Kanti,KHM
+5002,Khulna (Bagerhat),KHL
+5003,Karachi,KHI
+5004,Kaohsiung (Xiaogang),KHH
+5005,Kashgar,KHG
+5006,Kherson,KHE
+5007,Kerch,KHC
+5008,Khaneh,KHA
+5009,Glacier Creek,KGZ
+5010,Grayling,KGX
+5011,Kagi,KGW
+5012,Keningau,KGU
+5013,Kangding,KGT
+5014,Kos Island,KGS
+5015,Kulgera,KGR
+5016,Kangersuatsiaq,KGQ
+5017,Kogalym,KGP
+5018,Kirovograd,KGO
+5019,Kungim,KGM
+5020,Kigali,KGL
+5021,Koliganek,KGK
+5022,Karonga,KGJ
+5023,Kalgoorlie,KGI
+5024,Yongai,KGH
+5025,Kédougou,KGG
+5026,Karaganda,KGF
+5027,Kagau Island,KGE
+5028,Kaliningrad,KGD
+5029,Konge,KGB
+5030,Kananga,KGA
+5031,Kastamonu,KFS
+5032,False Pass,KFP
+5033,Cloudbreak Village,KFE
+5034,Kiffa,KFA
+5035,Colombo,KEZ
+5036,Kericho,KEY
+5037,Kanabea,KEX
+5038,Keewaywin,KEW
+5039,Jämsä,KEV
+5040,Keekorok,KEU
+5041,Kengtung,KET
+5042,Kelsey,KES
+5043,Kerman,KER
+5044,Kebar-Papua Island,KEQ
+5045,Nepalgunj,KEP
+5046,Odienne,KEO
+5047,Kenema,KEN
+5048,Kemi / Tornio,KEM
+5049,Kiel,KEL
+5050,Ekwok,KEK
+5051,Kemerovo,KEJ
+5052,Kepi-Papua Island,KEI
+5053,Kenmore,KEH
+5054,Denglagu Mission,KEG
+5055,Reykjavík,KEF
+5056,Kelle,KEE
+5057,Kaédi,KED
+5058,Kasenga,KEC
+5059,Nanwalek,KEB
+5060,Keisah-Papua Island,KEA
+5061,Kandy,KDZ
+5062,Khandyga,KDY
+5063,Kadugli,KDX
+5064,Kandy,KDW
+5065,Vunisea,KDV
+5066,Skardu,KDU
+5067,Nakhon Pathom,KDT
+5068,Kamaran Downs,KDS
+5069,Kandrian,KDR
+5070,Kamberatoro Mission,KDQ
+5071,Kandep,KDP
+5072,Kadhdhoo,KDO
+5073,Ndende,KDN
+5074,Huvadhu Atoll,KDM
+5075,Kärdla,KDL
+5076,Kodiak,KDK
+5077,N'Djolé,KDJ
+5078,Kendari-Celebes Island,KDI
+5079,Kandahar,KDH
+5080,Koroba,KDE
+5081,Khuzdar,KDD
+5082,Kandi,KDC
+5083,Kambalda,KDB
+5084,Kolda,KDA
+5085,Nankoku,KCZ
+5086,Masindi,KCU
+5087,Galle,KCT
+5088,Colorado Creek,KCR
+5089,Chignik Lake,KCQ
+5090,Kartepe,KCO
+5091,Chernofski Harbor,KCN
+5092,Kahramanmaraş,KCM
+5093,Chignik Flats,KCL
+5094,Kirensk,KCK
+5095,Komaio,KCJ
+5096,Kon,KCI
+5097,Kuching,KCH
+5098,Chignik,KCG
+5099,Kadanwari,KCF
+5100,Kamur-Papua Island,KCD
+5101,Coffman Cove,KCC
+5102,Kasikasima,KCB
+5103,Kuqa,KCA
+5104,Kambuaya-Papua Island,KBX
+5105,Chignik,KBW
+5106,Krabi,KBV
+5107,Stagen - Laut Island,KBU
+5108,Kaben,KBT
+5109,Bo,KBS
+5110,Kota Baharu,KBR
+5111,Kasungu,KBQ
+5112,Kiev,KBP
+5113,Kabalo,KBO
+5114,Kabinda,KBN
+5115,Kabul,KBL
+5116,Kings Canyon Resort,KBJ
+5117,Kribi,KBI
+5118,Kahama,KBH
+5119,Karubaga-Papua Island,KBF
+5120,Bell Island,KBE
+5121,Kimberley Downs,KBD
+5122,Birch Creek,KBC
+5123,Kirkimbie,KBB
+5124,Kabala,KBA
+5125,Kao-Celebes Island,KAZ
+5126,Wakaya Island,KAY
+5127,Kalbarri,KAX
+5128,Kawthoung,KAW
+5129,Kauhava,KAU
+5130,Kaitaia,KAT
+5131,Karasburg,KAS
+5132,Kamarang,KAR
+5133,Kamulai Mission,KAQ
+5134,Kapanga,KAP
+5135,Kuusamo,KAO
+5136,Kano,KAN
+5137,Kamaran,KAM
+5138,Kaltag,KAL
+5139,Kar,KAK
+5140,Kajaani,KAJ
+5141,Kaieteur Falls,KAI
+5142,Gangneung,KAG
+5143,Karato,KAF
+5144,Kake,KAE
+5145,Kaduna,KAD
+5146,Qamishly,KAC
+5147,Kariba,KAB
+5148,Kasama,KAA
+5149,Jiuzhaigou,JZH
+5150,Jyväskylän Maalaiskunta,JYV
+5151,Jiroft,JYR
+5152,Jackson,JXN
+5153,Jixi,JXA
+5154,Zanjan,JWN
+5155,Janesville,JVL
+5156,Manville,JVI
+5157,Ankavandra,JVA
+5158,Quzhou,JUZ
+5159,Upernavik,JUV
+5160,Jutigalpa,JUT
+5161,Jurado,JUO
+5162,Jumla,JUM
+5163,Juliaca,JUL
+5164,Ukkusissat,JUK
+5165,San Salvador de Jujuy,JUJ
+5166,Juist,JUI
+5167,Chizhou,JUH
+5168,Juba,JUB
+5169,Juara,JUA
+5170,Astypalaia Island,JTY
+5171,Santorini Island,JTR
+5172,Jataí,JTI
+5173,Bauru,JTC
+5174,Syros Island,JSY
+5175,Maniitsoq,JSU
+5176,Johnstown,JST
+5177,Jashore (Jessore),JSR
+5178,Chubut,JSM
+5179,Bandar-e-Jask,JSK
+5180,Jiansanjiang,JSJ
+5181,Skiathos,JSI
+5182,Crete Island,JSH
+5183,Jerusalem,JRS
+5184,Arusha,JRO
+5185,Juruena,JRN
+5186,Jorhat,JRH
+5187,Kapolei,JRF
+5188,New York,JRB
+5189,New York,JRA
+5190,Jaqué,JQE
+5191,Uummannaq,JQA
+5192,Ji-Paraná,JPR
+5193,Washington,JPN
+5194,New York,JPB
+5195,João Pessoa,JPA
+5196,Joliet,JOT
+5197,Jos,JOS
+5198,Josephstaal,JOP
+5199,Johnston Atoll,JON
+5200,Njombe,JOM
+5201,Yoshkar-Ola,JOK
+5202,Hope Bay,JOJ
+5203,Joinville,JOI
+5204,Port St Johns,JOH
+5205,Yogyakarta-Java Island,JOG
+5206,Joensuu / Liperi,JOE
+5207,"Linghai, Jinzhou",JNZ
+5208,Naxos Island,JNX
+5209,Juneau,JNU
+5210,Narsaq,JNS
+5211,Nanortalik,JNN
+5212,Duqm,JNJ
+5213,Junin,JNI
+5214,Jining,JNG
+5215,Johannesburg,JNB
+5216,Januária,JNA
+5217,Jiamusi,JMU
+5218,Jamestown,JMS
+5219,Jomsom,JMO
+5220,Mykonos Island,JMK
+5221,Lancang Lahu Autonomous County,JMJ
+5222,Jamba,JMB
+5223,Jales,JLS
+5224,Joplin,JLN
+5225,Cooper Landing,JLA
+5226,Jacksonville,JKV
+5227,Janakpur,JKR
+5228,Kalymnos Island,JKL
+5229,Chios Island,JKH
+5230,Jönköping,JKG
+5231,Qaqortoq,JJU
+5232,Quanzhou,JJN
+5233,Meru-Kinna,JJM
+5234,Juanjuí,JJI
+5235,Jaguaruna,JJG
+5236,Jijoca de Jericoacoara,JJD
+5237,Jiwani,JIW
+5238,Jiujiang,JIU
+5239,Jiri,JIR
+5240,Qianjiang,JIQ
+5241,Jipijapa,JIP
+5242,Tiakur,JIO
+5243,Jinja,JIN
+5244,Jimma,JIM
+5245,Jilin,JIL
+5246,Ikaria Island,JIK
+5247,Jijiga,JIJ
+5248,Jinchang,JIC
+5249,Djibouti City,JIB
+5250,Juína,JIA
+5251,Jamestown,JHW
+5252,Sisimiut,JHS
+5253,Lahaina,JHM
+5254,Albian Village,JHL
+5255,Jinghong,JHG
+5256,Johor Bahru,JHB
+5257,Ji'an,JGS
+5258,Groennedal,JGR
+5259,Qeqertarsuaq Airport,JGO
+5260,Jiayuguan,JGN
+5261,Jiagedaqi,JGD
+5262,Jagdalpur,JGB
+5263,Jamnagar,JGA
+5264,Paamiut,JFR
+5265,Ashtabula,JFN
+5266,New York,JFK
+5267,Saint Helier,JER
+5268,Jequié,JEQ
+5269,Lower Zambezi Natational Park,JEK
+5270,Ailinglapalap Atoll,JEJ
+5271,Aasiaat,JEG
+5272,Jefferson City,JEF
+5273,Jeremie,JEE
+5274,Jeddah,JED
+5275,Jingdezhen,JDZ
+5276,São João Del Rei,JDR
+5277,Issy-les-Moulineaux,JDP
+5278,Juazeiro Do Norte,JDO
+5279,Jordan,JDN
+5280,Jodhpur,JDH
+5281,Jeju Island,JDG
+5282,Juiz De Fora,JDF
+5283,John Day,JDA
+5284,Johnson City,JCY
+5285,Ceuta,JCU
+5286,Junction,JCT
+5287,Jacareacanga,JCR
+5288,Jacobina,JCM
+5289,"Chuja, Hach’uja-do (Chujado Islands)",JCJ
+5290,Olathe,JCI
+5291,Qasigiannguit,JCH
+5292,Joaçaba,JCB
+5293,Cannes,JCA
+5294,Bethel,JBT
+5295,São Borja,JBS
+5296,Jonesboro,JBR
+5297,La Isabela,JBQ
+5298,Oakland,JBK
+5299,Jember,JBB
+5300,Jacksonville,JAX
+5301,Ilulissat,JAV
+5302,Jauja,JAU
+5303,Ailinglapalap Atoll,JAT
+5304,Jasper,JAS
+5305,Jahrom,JAR
+5306,Jacquinot Bay,JAQ
+5307,Puntarenas,JAP
+5308,Jackson,JAN
+5309,Yambol,JAM
+5310,Xalapa,JAL
+5311,Jacmel,JAK
+5312,Jaipur,JAI
+5313,Jacobabad,JAG
+5314,Jaffna,JAF
+5315,Jaén,JAE
+5316,Perth,JAD
+5317,Jackson,JAC
+5318,Jalalabad,JAA
+5319,Ixtepec,IZT
+5320,Izumo,IZO
+5321,Juiz de Fora,IZA
+5322,Juiz de Fora,IZA
+5323,Inyokern,IYK
+5324,Port Blair,IXZ
+5325,Kandla,IXY
+5326,Bidar,IXX
+5327,Jamshedpur,IXW
+5328,Aurangabad,IXU
+5329,Pasighat,IXT
+5330,Silchar,IXS
+5331,Ranchi,IXR
+5332,Pathankot,IXP
+5333,Khowai,IXN
+5334,Madurai,IXM
+5335,Leh,IXL
+5336,Keshod,IXK
+5337,Jammu,IXJ
+5338,Lilabari,IXI
+5339,Belgaum,IXG
+5340,Mangalore,IXE
+5341,Allahabad,IXD
+5342,Chandigarh,IXC
+5343,Siliguri,IXB
+5344,Agartala,IXA
+5345,Houston,IWS
+5346,Ogasawara,IWO
+5347,Iwakuni,IWK
+5348,Masuda,IWJ
+5349,Ironwood,IWD
+5350,Ivanovo,IWA
+5351,Inverway,IVW
+5352,Inverell,IVR
+5353,Ivalo,IVL
+5354,Isla Viveros,IVI
+5355,Ivishak River,IVH
+5356,Berane,IVG
+5357,Invercargill,IVC
+5358,Inus,IUS
+5359,Ilu-Papua Island,IUL
+5360,Innarsuit,IUI
+5361,Alofi,IUE
+5362,Ontario County IDA,IUA
+5363,Kurilsk,ITU
+5364,Itumbiara,ITR
+5365,Itaqui,ITQ
+5366,Itaperuna,ITP
+5367,Hilo,ITO
+5368,Itabuna,ITN
+5369,Osaka,ITM
+5370,Itokama,ITK
+5371,Ithaca,ITH
+5372,Ituberá,ITE
+5373,Itaituba,ITB
+5374,Itacoatiara,ITA
+5375,Wisconsin Rapids,ISW
+5376,Sulaymaniyah,ISU
+5377,"Arnavutköy, Istanbul",IST
+5378,Wiscasset,ISS
+5379,Manistique,ISQ
+5380,Islip,ISP
+5381,Kinston,ISO
+5382,Williston,ISN
+5383,Orlando,ISM
+5384,"Bakırköy, Istanbul",ISL
+5385,Nasik,ISK
+5386,Ishigaki,ISG
+5387,Isparta,ISE
+5388,Iscuandé,ISD
+5389,St. Mary's,ISC
+5390,Islamabad,ISB
+5391,Mount Isa,ISA
+5392,Santa Isabel Do Rio Negro,IRZ
+5393,Iranamadu,IRU
+5394,Sturgis,IRS
+5395,Birao,IRO
+5396,Iriona,IRN
+5397,Kirksville,IRK
+5398,La Rioja,IRJ
+5399,Nduli,IRI
+5400,Lockhart River,IRG
+5401,Irecê,IRE
+5402,Ishurdi,IRD
+5403,Circle,IRC
+5404,Iraan,IRB
+5405,Kirakira,IRA
+5406,Iquitos,IQT
+5407,Iquique,IQQ
+5408,Qingyang,IQN
+5409,Qiemo,IQM
+5410,Hīt,IQA
+5411,Pérez Zeledón,IPZ
+5412,Ipiaú,IPU
+5413,Williamsport,IPT
+5414,Ipatinga,IPN
+5415,Imperial,IPL
+5416,Ipiales,IPI
+5417,Ipoh,IPH
+5418,Santo Antônio Do Içá,IPG
+5419,Ipil,IPE
+5420,Isla De Pascua,IPC
+5421,Ipota,IPA
+5422,Iowa City,IOW
+5423,Île Ouen,IOU
+5424,Ilhéus,IOS
+5425,Inis Mór,IOR
+5426,Isortoq,IOQ
+5427,Ioma,IOP
+5428,Impfondo,ION
+5429,Castletown,IOM
+5430,Iokea,IOK
+5431,Ioannina,IOA
+5432,In Salah,INZ
+5433,Inyati,INY
+5434,Inanwatan Airport-Papua Island,INX
+5435,Winslow,INW
+5436,Inverness,INV
+5437,Yaren District,INU
+5438,Winston Salem,INT
+5439,Indian Springs,INS
+5440,Inis Oírr,INQ
+5441,Inongo,INO
+5442,Innsbruck,INN
+5443,International Falls,INL
+5444,Wink,INK
+5445,Injune,INJ
+5446,Nis,INI
+5447,Inhambane,INH
+5448,El Calafate,ING
+5449,In Guezzam,INF
+5450,Chinde,INE
+5451,Indianapolis,IND
+5452,Yinchuan,INC
+5453,Independence,INB
+5454,Inta,INA
+5455,Iron Mountain / Kingsford,IMT
+5456,Showt,IMQ
+5457,Imperatriz,IMP
+5458,Zemio,IMO
+5459,Imane,IMN
+5460,Immokalee,IMM
+5461,Imperial,IML
+5462,Simikot,IMK
+5463,Arno Atoll,IMI
+5464,Inhaminga,IMG
+5465,Imphal,IMF
+5466,Imonda,IMD
+5467,Imbaimadai,IMB
+5468,"Iamalele, Fergusson Island",IMA
+5469,Žilina,ILZ
+5470,Port Ellen,ILY
+5471,Ileg,ILX
+5472,Kilaguni,ILU
+5473,Ilorin,ILR
+5474,Ilo,ILQ
+5475,Île des Pins,ILP
+5476,Iloilo (Cabatuan),ILO
+5477,Wilmington,ILN
+5478,Wilmington,ILM
+5479,Willmar,ILL
+5480,Ilaka,ILK
+5481,Iliamna,ILI
+5482,Storck Barracks,ILH
+5483,Wilmington,ILG
+5484,Ilford,ILF
+5485,Killeen,ILE
+5486,Lleida,ILD
+5487,Illaga-Papua Island,ILA
+5488,Tamchy,IKU
+5489,Irkutsk,IKT
+5490,Tiksi,IKS
+5491,Nikolski,IKO
+5492,Ikela,IKL
+5493,Kankakee,IKK
+5494,Iki,IKI
+5495,North Wilkesboro,IKB
+5496,Tehran,IKA
+5497,Ijuí,IJU
+5498,Izhevsk,IJK
+5499,Washington Slaabaii,IJA
+5500,Nissan Island,IIS
+5501,Ilam,IIL
+5502,Inis Meáin,IIA
+5503,Ihu,IHU
+5504,Iranshahr,IHR
+5505,Ihosy,IHO
+5506,Qishn,IHN
+5507,Inhaca,IHC
+5508,Foz Do Iguaçu,IGU
+5509,Magas,IGT
+5510,Manching,IGS
+5511,Puerto Iguazu,IGR
+5512,Chigorodó,IGO
+5513,Iligan,IGN
+5514,Kingman,IGM
+5515,Kaklıç Mahallesi,IGL
+5516,Igiugig,IGG
+5517,Iguela,IGE
+5518,Iğdır,IGD
+5519,Ingeniero Jacobacci,IGB
+5520,Matthew Town,IGA
+5521,Ifuru Island,IFU
+5522,Bullhead City,IFP
+5523,Ivano-Frankivsk,IFO
+5524,Isfahan,IFN
+5525,Ísafjörður,IFJ
+5526,Hesa,IFH
+5527,Iowa Falls,IFA
+5528,Kiev,IEV
+5529,Riesa,IES
+5530,Ie,IEJ
+5531,Babimost,IEG
+5532,Île d'Yeu,IDY
+5533,Indore,IDR
+5534,Independence,IDP
+5535,Cristalândia,IDO
+5536,Indagen,IDN
+5537,Indiana,IDI
+5538,Grangeville,IDH
+5539,Idiofa,IDF
+5540,Idre,IDB
+5541,Idaho Falls,IDA
+5542,Icy Bay,ICY
+5543,Wichita,ICT
+5544,Cascade,ICS
+5545,Nicaro,ICR
+5546,Carles,ICO
+5547,Seoul,ICN
+5548,Clarinda,ICL
+5549,Nieuw Nickerie,ICK
+5550,Cicia,ICI
+5551,Isla de Coche,ICC
+5552,Ibiza,IBZ
+5553,Omitama,IBR
+5554,Iberia,IBP
+5555,Ibo,IBO
+5556,Bazaruto Island,IBL
+5557,Iboki,IBI
+5558,Ibagué,IBE
+5559,Isabela,IBB
+5560,Ibadan,IBA
+5561,Iaşi,IAS
+5562,Del Carmen,IAO
+5563,Kiana,IAN
+5564,In Aménas,IAM
+5565,Ialibu,IAL
+5566,Houston,IAH
+5567,Niagara Falls,IAG
+5568,"Washington, DC",IAD
+5569,Wichita,IAB
+5570,Igarka,IAA
+5571,Hazyview,HZV
+5572,Fort Mackay,HZP
+5573,Hazleton,HZL
+5574,Húsavík,HZK
+5575,Liping,HZH
+5576,Hanzhong,HZG
+5577,Merville/Calonne,HZB
+5578,Hyvinkää,HYV
+5579,Hays,HYS
+5580,Hayward,HYR
+5581,Huangyan,HYN
+5582,Hollis,HYL
+5583,Hydaburg,HYG
+5584,Bainyik,HYF
+5585,Hyderabad,HYD
+5586,High Wycombe,HYC
+5587,Hyannis,HYA
+5588,Delingha,HXD
+5589,Hollywood,HWO
+5590,Hwange,HWN
+5591,Hawker,HWK
+5592,Hayward,HWD
+5593,Hawabango,HWA
+5594,Hartsville,HVS
+5595,Havre,HVR
+5596,New Haven,HVN
+5597,Hvammstangi,HVM
+5598,Hólmavík,HVK
+5599,Honningsvåg,HVG
+5600,Hanksville,HVE
+5601,Khovd,HVD
+5602,Hervey Bay,HVB
+5603,"Pingtan, Huizhou",HUZ
+5604,Grimsby,HUY
+5605,Huatulco,HUX
+5606,Humaitá,HUW
+5607,Hudiksvall,HUV
+5608,Huánuco,HUU
+5609,Hutchinson,HUT
+5610,Hughes,HUS
+5611,Holingol,HUO
+5612,Hualien City,HUN
+5613,Houma,HUM
+5614,Houlton,HUL
+5615,Hukuntsi,HUK
+5616,Hugo,HUJ
+5617,Huế,HUI
+5618,Fare,HUH
+5619,Huehuetenango,HUG
+5620,Terre Haute,HUF
+5621,Humera,HUE
+5622,Humboldt,HUD
+5623,Humacao,HUC
+5624,Redstone Arsnl Huntsville,HUA
+5625,Hato Corozal,HTZ
+5626,Antakya,HTY
+5627,Chesapeake/Huntington Wva,HTW
+5628,Huntsville,HTV
+5629,Mengnai,HTT
+5630,Huntington,HTS
+5631,Taketomi,HTR
+5632,East Hampton,HTO
+5633,Hotan,HTN
+5634,Hatgal,HTM
+5635,Houghton Lake,HTL
+5636,Hamilton Island,HTI
+5637,Hawthorne,HTH
+5638,Khatanga,HTG
+5639,Chita,HTA
+5640,Hsinchu City,HSZ
+5641,Huntsville,HSV
+5642,Homestead,HST
+5643,Hot Springs,HSP
+5644,Zhoushan,HSN
+5645,Huslia,HSL
+5646,Monflorite/Alcalá del Obispo,HSK
+5647,Zhengzhou,HSJ
+5648,Hastings,HSI
+5649,Las Vegas,HSH
+5650,Saga,HSG
+5651,"Shaoguan, Ruyuan Yao Autonomous County",HSC
+5652,Harrisburg,HSB
+5653,Horizontina,HRZ
+5654,Linton-On-Ouse,HRT
+5655,Harrismith,HRS
+5656,Campiña,HRR
+5657,Harrison,HRO
+5658,Hassi R'Mel,HRM
+5659,Harlingen,HRL
+5660,Kharkiv,HRK
+5661,Hurghada,HRG
+5662,Harare,HRE
+5663,Zhayrem,HRC
+5664,Harbin,HRB
+5665,Hoquiam,HQM
+5666,Baytown,HPY
+5667,Hanalei,HPV
+5668,Hampton,HPT
+5669,Pretoria,HPR
+5670,White Plains,HPN
+5671,Haiphong,HPH
+5672,Shennongjia,HPG
+5673,Hope Vale,HPE
+5674,Hooper Bay,HPB
+5675,Lifuka,HPA
+5676,Orkney Isle,HOY
+5677,Hommalinn,HOX
+5678,Ørsta,HOV
+5679,Houston,HOU
+5680,Hot Springs,HOT
+5681,Chos Malal,HOS
+5682,Horta,HOR
+5683,Hof,HOQ
+5684,Fort Campbell/Hopkinsville,HOP
+5685,Đăk R'Lấp,HOO
+5686,Huron,HON
+5687,Homer,HOM
+5688,Lajamanu,HOK
+5689,Hohenems / Dornbirn,HOH
+5690,Holguin,HOG
+5691,Hofuf,HOF
+5692,Huay Xai,HOE
+5693,Hodeida,HOD
+5694,Komako,HOC
+5695,Hobbs,HOB
+5696,Hola,HOA
+5697,Hengyang,HNY
+5698,Haines,HNS
+5699,Honinabi,HNN
+5700,Hana,HNM
+5701,Honolulu,HNL
+5702,Heiweni,HNI
+5703,Hoonah,HNH
+5704,"Ota, Tokyo",HND
+5705,Hatteras,HNC
+5706,Huntingburg,HNB
+5707,Hanamaki,HNA
+5708,Seosan,HMY
+5709,Hemavan,HMV
+5710,Hemet,HMT
+5711,Hamar,HMR
+5712,Hermosillo,HMO
+5713,Alamogordo,HMN
+5714,Khmelnytskyi,HMJ
+5715,Hami,HMI
+5716,Hassi Messaoud,HME
+5717,Sohag,HMB
+5718,Khanty-Mansiysk,HMA
+5719,Hamilton,HLZ
+5720,Hluhluwe,HLW
+5721,Helenvale,HLV
+5722,Houailou,HLU
+5723,Fort Hood(Killeen),HLR
+5724,Jakarta,HLP
+5725,Onundarfjörður,HLO
+5726,Helena,HLN
+5727,Holland,HLM
+5728,Hillside,HLL
+5729,Hollister,HLI
+5730,Ulanhot,HLH
+5731,Wheeling,HLG
+5732,Longwood,HLE
+5733,Hailar,HLD
+5734,Hill City,HLC
+5735,Batesville,HLB
+5736,Johannesburg,HLA
+5737,Hickory,HKY
+5738,Haskovo,HKV
+5739,Phuket,HKT
+5740,Jackson,HKS
+5741,Mara,HKR
+5742,Lahaina,HKP
+5743,Hoskins,HKN
+5744,"Islands, New Territories",HKG
+5745,"Kowloon City, Kowloon",HKG
+5746,Hakodate,HKD
+5747,Healy Lake,HKB
+5748,Blytheville,HKA
+5749,Khujirt,HJT
+5750,Khajuraho,HJR
+5751,Huaihua,HJJ
+5752,Hiroshima,HIW
+5753,Haivaro,HIT
+5754,Hayman Island,HIS
+5755,Honiara,HIR
+5756,Portland,HIO
+5757,Sacheon,HIN
+5758,Polonnaruwa Town,HIM
+5759,Shilavo,HIL
+5760,Honolulu,HIK
+5761,Hiroshima,HIJ
+5762,Lake Havasu City,HII
+5763,Ogden,HIF
+5764,Whitefield,HIE
+5765,Horn Island,HID
+5766,Hibbing,HIB
+5767,Huai'an,HIA
+5768,Hikueru Atoll,HHZ
+5769,Hawthorne,HHR
+5770,Hua Hin,HHQ
+5771,"Central and Western, Hong Kong Island",HHP
+5772,Frankfurt am Main,HHN
+5773,Wahiawa,HHI
+5774,Hilton Head Island,HHH
+5775,Hachinohe,HHE
+5776,Hogatza,HGZ
+5777,Mount Hagen,HGU
+5778,Jolon,HGT
+5779,Freetown,HGS
+5780,Hagerstown,HGR
+5781,Korhogo,HGO
+5782,Helgoland,HGL
+5783,Higleig,HGI
+5784,Hangzhou,HGH
+5785,Higuerote,HGE
+5786,Hargeisa,HGA
+5787,Hammerfest,HFT
+5788,Höfn,HFN
+5789,Camp Mackall,HFF
+5790,Hefei,HFE
+5791,Hartford,HFD
+5792,Haifa,HFA
+5793,Natchez,HEZ
+5794,Fort Rucker Ozark,HEY
+5795,Santo Domingo,HEX
+5796,Athens,HEW
+5797,Hohhot,HET
+5798,Hermiston,HES
+5799,Heraklion,HER
+5800,Haelogo,HEO
+5801,Helsinki,HEM
+5802,Helsinki,HEL
+5803,Heihe,HEK
+5804,Büsum,HEI
+5805,Heho,HEH
+5806,Heglig Oilfield,HEG
+5807,Helena/West Helena,HEE
+5808,Herendeen Bay,HED
+5809,Hinthada,HEB
+5810,Guzara,HEA
+5811,Hat Yai,HDY
+5812,Hoedspruit,HDS
+5813,Havadarya,HDR
+5814,Hayden,HDN
+5815,Hamadan,HDM
+5816,Kulhudhuffushi,HDK
+5817,Mokuleia,HDH
+5818,Handan,HDG
+5819,Heringsdorf,HDF
+5820,Holdrege,HDE
+5821,Hyderabad,HDD
+5822,Heidelberg,HDB
+5823,Cheraw,HCW
+5824,Holy Cross,HCR
+5825,Hengchung,HCN
+5826,Eyl,HCM
+5827,Hechi (Jinchengjiang),HCJ
+5828,Hudson,HCC
+5829,Big Spring,HCA
+5830,Big Spring,HCA
+5831,Hubli,HBX
+5832,Bulgan,HBU
+5833,Hambantota,HBT
+5834,Hobart,HBR
+5835,Qilian,HBQ
+5836,Holbrook,HBK
+5837,Entrance Island,HBH
+5838,Hattiesburg,HBG
+5839,Alexandria,HBE
+5840,Habi,HBD
+5841,Hobbs,HBB
+5842,Hobart,HBA
+5843,Hatzfeldhaven,HAZ
+5844,Haycock,HAY
+5845,Muskogee,HAX
+5846,Haverfordwest,HAW
+5847,Havana,HAV
+5848,Karmøy,HAU
+5849,Ha'il,HAS
+5850,Harrisburg,HAR
+5851,Haa Dhaalu Atoll,HAQ
+5852,Hamilton,HAO
+5853,"Soc Son, Hanoi",HAN
+5854,Hamburg,HAM
+5855,Halali,HAL
+5856,Haikou (Meilan),HAK
+5857,Hannover,HAJ
+5858,Three Rivers,HAI
+5859,Moroni,HAH
+5860,Half Moon Bay,HAF
+5861,Supai Village,HAE
+5862,Halmstad,HAD
+5863,Hachijojima,HAC
+5864,Hamilton,HAB
+5865,Hasvik,HAA
+5866,Qazvin,GZW
+5867,Gaziantep,GZT
+5868,Gazipaşa,GZP
+5869,Gizo,GZO
+5870,Gozo,GZM
+5871,Ghazni,GZI
+5872,Garze County,GZG
+5873,Rafah,GZA
+5874,Gary,GYY
+5875,Guyuan,GYU
+5876,Guangyuan,GYS
+5877,Goodyear,GYR
+5878,Goiânia,GYN
+5879,Guaymas,GYM
+5880,Gisenyi,GYI
+5881,Magan,GYG
+5882,Guayaquil,GYE
+5883,Baku,GYD
+5884,(Old) East Rincon,GYA
+5885,Guayaramerín,GYA
+5886,Greeley,GXY
+5887,Yagoua,GXX
+5888,Coyhaique,GXQ
+5889,Xiahe,GXH
+5890,Negage,GXG
+5891,Seiyun,GXF
+5892,Galway,GWY
+5893,Spandau,GWW
+5894,Glendale,GWV
+5895,Westerland,GWT
+5896,Glenwood Springs,GWS
+5897,Greenwood,GWO
+5898,Gnarowein,GWN
+5899,Gwalior,GWL
+5900,Gweru,GWE
+5901,Gwadar,GWD
+5902,Gwa,GWA
+5903,Gävle / Sandviken,GVX
+5904,Belton,GVW
+5905,Greenville,GVT
+5906,Governador Valadares,GVR
+5907,Sovetskaya Gavan,GVN
+5908,Gainesville,GVL
+5909,Green River,GVI
+5910,Gordonsville,GVE
+5911,Geneva,GVA
+5912,Guarapari,GUZ
+5913,Guymon,GUY
+5914,Atyrau,GUW
+5915,Mougulu,GUV
+5916,Grundarfjörður,GUU
+5917,Gütersloh,GUT
+5918,Peru,GUS
+5919,Gurney,GUR
+5920,Guanare,GUQ
+5921,Gallup,GUP
+5922,Jicalapa,GUO
+5923,"Hagåtña, Guam International Airport",GUM
+5924,Guaratinguetá,GUJ
+5925,Guari,GUG
+5926,Gulf Shores,GUF
+5927,Guriaso,GUE
+5928,Goundam,GUD
+5929,Gunnison,GUC
+5930,Ensenada,GUB
+5931,Guatemala City,GUA
+5932,Grumeti Game Reserve,GTZ
+5933,Gettysburg,GTY
+5934,Holešov,GTW
+5935,The Granites Gold Mine,GTS
+5936,Columbus/W Point/Starkville,GTR
+5937,Grants Pass,GTP
+5938,Gorontalo-Celebes Island,GTO
+5939,Glentanner Station,GTN
+5940,Sungai Tekai,GTK
+5941,Rügen,GTI
+5942,Grantsburg,GTG
+5943,Great Falls,GTF
+5944,Groote Eylandt,GTE
+5945,Genting,GTB
+5946,Gatokae,GTA
+5947,Grimsby,GSY
+5948,Fort Worth,GSW
+5949,Saratov,GSV
+5950,Al Qadarif,GSU
+5951,Gustavus,GST
+5952,Belfast,GSS
+5953,Gardo,GSR
+5954,Greer,GSP
+5955,Greensboro,GSO
+5956,Mount Gunson,GSN
+5957,Qeshm,GSM
+5958,Taltheilei Narrows,GSL
+5959,Puerto San José,GSJ
+5960,Grand-Santi,GSI
+5961,Goshen,GSH
+5962,Gothenburg,GSE
+5963,Gascoyne Junction,GSC
+5964,Goldsboro,GSB
+5965,Long Miau,GSA
+5966,Graz (Feldkirchen bei Graz),GRZ
+5967,Grímsey,GRY
+5968,Granada,GRX
+5969,Santa Cruz da Graciosa,GRW
+5970,Grozny,GRV
+5971,São Paulo,GRU
+5972,Gujrat,GRT
+5973,Grosetto,GRS
+5974,Grand Rapids,GRR
+5975,Groningen,GRQ
+5976,Gurupi,GRP
+5977,Girona,GRO
+5978,Gordon,GRN
+5979,Grand Marais,GRM
+5980,Au,GRL
+5981,Fort Hood/Killeen,GRK
+5982,George,GRJ
+5983,Grand Island,GRI
+5984,Garuahi,GRH
+5985,Gardez,GRG
+5986,Fort Lewis/Tacoma,GRF
+5987,Greenville,GRE
+5988,Greenwood,GRD
+5989,Grand Cess,GRC
+5990,Green Bay,GRB
+5991,Galion,GQQ
+5992,Grand Rapids,GPZ
+5993,Gulfport,GPT
+5994,Baltra,GPS
+5995,General Pico,GPO
+5996,Pococi,GPL
+5997,Guapi,GPI
+5998,Mount Gordon Mine,GPD
+5999,Guarapuava,GPB
+6000,Patras,GPA
+6001,Gorna Oryahovitsa,GOZ
+6002,Nhulunbuy,GOV
+6003,Garoua,GOU
+6004,Gothenburg,GOT
+6005,Gore,GOR
+6006,Golmud,GOQ
+6007,Gorakhpur,GOP
+6008,Groton (New London),GON
+6009,Goma,GOM
+6010,Gold Beach,GOL
+6011,Guthrie,GOK
+6012,Nizhny Novgorod,GOJ
+6013,Vasco da Gama,GOI
+6014,Nuuk,GOH
+6015,Gobabis,GOG
+6016,Gonaili,GOE
+6017,Gora,GOC
+6018,Goba,GOB
+6019,Genova,GOA
+6020,Ghanzi,GNZ
+6021,Şanlıurfa,GNY
+6022,Gainesville,GNV
+6023,Goodnews,GNU
+6024,Grants,GNT
+6025,Gunung Sitoli-Nias Island,GNS
+6026,General Roca,GNR
+6027,Ghinnir,GNN
+6028,Guanambi,GNM
+6029,Lyudao,GNI
+6030,Gooding,GNG
+6031,Quincy,GNF
+6032,Saint George's,GND
+6033,Saint-Étienne-de-Saint-Geoirs,GNB
+6034,Hrodna,GNA
+6035,"Alajero, La Gomera Island",GMZ
+6036,Goulding's Lodge,GMV
+6037,Greenville,GMU
+6038,Granite Mountain,GMT
+6039,Guimarães,GMS
+6040,Golog,GMQ
+6041,Seoul,GMP
+6042,Gombe,GMO
+6043,Gamboma,GMM
+6044,Kiev,GML
+6045,Gasmata Island,GMI
+6046,Gomel,GME
+6047,Ben Slimane,GMD
+6048,Gambela,GMB
+6049,Gemena,GMA
+6050,Breda,GLZ
+6051,Galela-Celebes Island,GLX
+6052,Glasgow,GLW
+6053,Golovin,GLV
+6054,Gelephu,GLU
+6055,Gladstone,GLT
+6056,Galveston,GLS
+6057,Gaylord,GLR
+6058,Gulgubip,GLP
+6059,Staverton,GLO
+6060,Guelmim,GLN
+6061,Klanten flyplass,GLL
+6062,Galcaio,GLK
+6063,Greenville,GLH
+6064,Golfito,GLF
+6065,Gainesville,GLE
+6066,Goodland,GLD
+6067,Geladi,GLC
+6068,Globe,GLB
+6069,Glasgow,GLA
+6070,Sevierville,GKT
+6071,Gulkana,GKN
+6072,Great Keppel Island,GKL
+6073,Huvadhu Atoll,GKK
+6074,Gorkha,GKH
+6075,Gökçeada,GKD
+6076,Goronka,GKA
+6077,Grand Junction,GJT
+6078,Gjögur,GJR
+6079,Guajará-Mirim,GJM
+6080,Jijel,GJL
+6081,Guanaja,GJA
+6082,Jizan,GIZ
+6083,Giyani,GIY
+6084,Sigiriya,GIU
+6085,Geita,GIT
+6086,Gisborne,GIS
+6087,Girardot,GIR
+6088,Gilgit,GIL
+6089,Siguiri,GII
+6090,Rio De Janeiro,GIG
+6091,Winter Haven,GIF
+6092,Gitega,GID
+6093,Gibraltar,GIB
+6094,Gualeguaychu,GHU
+6095,Ghat,GHT
+6096,Civil Aviation Flight University of China,GHN
+6097,Centerville,GHM
+6098,Giebelstadt,GHF
+6099,Garachiné,GHE
+6100,Bullocks Harbour,GHC
+6101,Governor's Harbour,GHB
+6102,Ghardaïa,GHA
+6103,Glasgow,GGW
+6104,George Town,GGT
+6105,Gobernador Gregores,GGS
+6106,Garowe,GGR
+6107,Guiglo,GGO
+6108,Gagnoa,GGN
+6109,Kakamega,GGM
+6110,Villa Claret,GGL
+6111,Longview,GGG
+6112,Almeirim,GGF
+6113,Georgetown,GGE
+6114,Lumbala,GGC
+6115,Lumbala N'guimbo,GGC
+6116,Grootfontein,GFY
+6117,Granville,GFR
+6118,Bartica,GFO
+6119,Glens Falls,GFL
+6120,Grand Forks,GFK
+6121,Griffith,GFF
+6122,Grenfell,GFE
+6123,Greenfield,GFD
+6124,Great Falls,GFA
+6125,Greybull,GEY
+6126,Gewoia,GEW
+6127,Gällivare,GEV
+6128,Geraldton,GET
+6129,General Santos,GES
+6130,Nueva Gerona,GER
+6131,Georgetown,GEO
+6132,Mengomeyén,GEM
+6133,Santo Ângelo,GEL
+6134,Spokane,GEG
+6135,Liangia,GEF
+6136,Georgetown,GED
+6137,Geçitkale,GEC
+6138,Gebe Island,GEB
+6139,Nouméa,GEA
+6140,Gelendzhik,GDZ
+6141,Magadan,GDX
+6142,Gladwin,GDW
+6143,Glendive,GDV
+6144,Cockburn Town,GDT
+6145,Gondar,GDQ
+6146,Guadalupe,GDP
+6147,Gdańsk,GDN
+6148,Gardner,GDM
+6149,Guadalajara,GDL
+6150,Gandajika,GDJ
+6151,Melle,GDI
+6152,Golden Horn Lodge,GDH
+6153,Magdagachi,GDG
+6154,Gode,GDE
+6155,Gordon Downs,GDD
+6156,Greenville,GDC
+6157,Gounda,GDA
+6158,Greeneville,GCY
+6159,Peach Springs,GCW
+6160,Gravatai,GCV
+6161,Whitmore,GCT
+6162,Grand Canyon,GCN
+6163,Georgetown,GCM
+6164,Garden City,GCK
+6165,Midrand,GCJ
+6166,Saint Peter Port,GCI
+6167,Gachsaran,GCH
+6168,Electric City,GCD
+6169,Gillette,GCC
+6170,Guacamayas,GCA
+6171,Claris,GBZ
+6172,Ginbata,GBW
+6173,Khashm El Girba,GBU
+6174,Gorgan,GBT
+6175,Great Barrington,GBR
+6176,Garbaharey,GBM
+6177,Gbangbatok,GBK
+6178,Grand Bourg,GBJ
+6179,Grand Bahama,GBI
+6180,Galbraith Lake,GBH
+6181,Galesburg,GBG
+6182,Negarbo,GBF
+6183,Gaborone,GBE
+6184,Great Bend,GBD
+6185,Gasuke,GBC
+6186,Gabala,GBB
+6187,Kemble,GBA
+6188,Woodlark (Muyua) Island,GAZ
+6189,Gamba,GAX
+6190,Gangaw,GAW
+6191,Gag Island,GAV
+6192,Guwahati,GAU
+6193,Garissa,GAS
+6194,Garaina,GAR
+6195,Gusap,GAP
+6196,Guantánamo,GAO
+6197,Gan,GAN
+6198,Gambell,GAM
+6199,Galena,GAL
+6200,Higashine,GAJ
+6201,Gaithersburg,GAI
+6202,Gage,GAG
+6203,Gafsa,GAF
+6204,Gabès,GAE
+6205,Gadsden,GAD
+6206,Gracias,GAC
+6207,Gabbs,GAB
+6208,Bristol,FZO
+6209,Fayetteville,FYV
+6210,Fort Yukon,FYU
+6211,Fuyun,FYN
+6212,Fayetteville,FYM
+6213,Fuyuan,FYJ
+6214,Forest City,FXY
+6215,Cuamba,FXO
+6216,Fort Lauderdale,FXE
+6217,Farewell,FWL
+6218,Fort Worth,FWH
+6219,Fort Wayne,FWA
+6220,Forrest River Mission,FVR
+6221,Fuvahmulah Island,FVM
+6222,Futuna Island,FUT
+6223,"Nanhai, Foshan",FUO
+6224,Funafuti,FUN
+6225,Fuma,FUM
+6226,Fullerton,FUL
+6227,Fukuoka,FUK
+6228,Goto,FUJ
+6229,"Yingzhou, Fuyang",FUG
+6230,Fuerteventura Island,FUE
+6231,Fulleborn,FUB
+6232,Atlanta,FTY
+6233,Owando,FTX
+6234,Fort Worth,FTW
+6235,Tôlanaro,FTU
+6236,Fort Knox,FTK
+6237,Fitiuta Village,FTI
+6238,El Calafate,FTE
+6239,Futuna Island,FTA
+6240,Makinohara / Shimada,FSZ
+6241,Fort Sumner,FSU
+6242,Fort Stockton,FST
+6243,Kinloss,FSS
+6244,Saint-Pierre,FSP
+6245,Fort Sheridan,FSN
+6246,Fort Smith,FSM
+6247,Fossil Downs Station,FSL
+6248,Fort Scott,FSK
+6249,Fort Sill,FSI
+6250,Sioux Falls,FSD
+6251,Figari Sud-Corse,FSC
+6252,Fritzlar,FRZ
+6253,Fryeburg,FRY
+6254,Francistown,FRW
+6255,Bishkek,FRU
+6256,Frutillar,FRT
+6257,San Benito,FRS
+6258,Front Royal,FRR
+6259,Feramin,FRQ
+6260,Florø,FRO
+6261,Fort Richardson(Anchorage),FRN
+6262,Fairmont,FRM
+6263,Forlì (FC),FRL
+6264,Frégate Island,FRK
+6265,Fréjus,FRJ
+6266,Fort Riley (Junction City),FRI
+6267,French Lick,FRH
+6268,Farmingdale,FRG
+6269,Fera Island,FRE
+6270,Friday Harbor,FRD
+6271,Franca,FRC
+6272,Forbes,FRB
+6273,Frankfurt am Main,FRA
+6274,Perry,FPY
+6275,Fort Pierce,FPR
+6276,Freeport,FPO
+6277,Foya,FOY
+6278,Fougamou,FOU
+6279,Fortaleza,FOR
+6280,Kornasoren-Numfoor Island,FOO
+6281,La Fortuna/San Carlos,FON
+6282,Foumban,FOM
+6283,Westhampton Beach,FOK
+6284,Foggia,FOG
+6285,Topeka,FOE
+6286,Fort Dodge,FOD
+6287,Fuzhou,FOC
+6288,Fort Bragg,FOB
+6289,Foula,FOA
+6290,Oristano,FNU
+6291,Flint,FNT
+6292,Funter Bay,FNR
+6293,Fort Collins/Loveland,FNL
+6294,Pyongyang,FNJ
+6295,Nîmes/Garons,FNI
+6296,Fincha,FNH
+6297,Fada N'gourma,FNG
+6298,Fane Mission,FNE
+6299,Funadhoo,FND
+6300,Funchal,FNC
+6301,Neubrandenburg,FNB
+6302,Freetown,FNA
+6303,Fort Myers,FMY
+6304,Florence,FMU
+6305,Fort Madison,FMS
+6306,Münster,FMO
+6307,Farmington,FMN
+6308,Memmingen,FMM
+6309,Falmouth,FMH
+6310,Brasilito,FMG
+6311,Fort Meade(Odenton),FME
+6312,Formosa,FMA
+6313,Sibolga-Sumatra Island,FLZ
+6314,Fallon,FLX
+6315,Santa Cruz das Flores,FLW
+6316,Fort Leavenworth,FLV
+6317,Queens,FLU
+6318,Flat,FLT
+6319,Flinders Island,FLS
+6320,Firenze,FLR
+6321,Flippin,FLP
+6322,Florence,FLO
+6323,Florianópolis,FLN
+6324,Filadelfia,FLM
+6325,Fort Lauderdale,FLL
+6326,Flateyri,FLI
+6327,Flotta Isle,FLH
+6328,Flagstaff,FLG
+6329,Flensburg,FLF
+6330,Fort Lee,FLE
+6331,Fond du Lac,FLD
+6332,Floriano,FLB
+6333,Florencia,FLA
+6334,Sukagawa,FKS
+6335,Fakfak-Papua Island,FKQ
+6336,Franklin,FKN
+6337,Franklin,FKL
+6338,Kisangani,FKI
+6339,Baden-Baden,FKB
+6340,Buki,FIN
+6341,Fillmore,FIL
+6342,Finke,FIK
+6343,Kinshasa,FIH
+6344,Fria,FIG
+6345,Fair Isle,FIE
+6346,Fishers Island,FID
+6347,Fakahina,FHZ
+6348,Fort Huachuca / Sierra Vista,FHU
+6349,Apia,FGI
+6350,Fderik,FGD
+6351,Futaleufu,FFU
+6352,Frankfort,FFT
+6353,Dayton,FFO
+6354,Fergus Falls,FFM
+6355,Fairfield,FFL
+6356,Fairford,FFD
+6357,Kill Devil Hills,FFA
+6358,Fes,FEZ
+6359,Fremont,FET
+6360,Freeport,FEP
+6361,Fernando De Noronha,FEN
+6362,Fürstenfeldbruck,FEL
+6363,Ferkessedougou,FEK
+6364,Feijó,FEJ
+6365,Fergana,FEG
+6366,Feira De Santana,FEC
+6367,Sanfebagar,FEB
+6368,Fetlar Island,FEA
+6369,Findlay,FDY
+6370,Frederick,FDR
+6371,San Fernando,FDO
+6372,Frederick,FDK
+6373,Friedrichshafen,FDH
+6374,Fort-de-France,FDF
+6375,Førde,FDE
+6376,Fundación,FDA
+6377,Forrest City,FCY
+6378,Fort Carson,FCS
+6379,Rome,FCO
+6380,Cuxhaven,FCN
+6381,Minneapolis,FCM
+6382,Fresno,FCH
+6383,Ficksburg,FCB
+6384,Kalispell,FCA
+6385,Fairbury,FBY
+6386,Oslo,FBU
+6387,Friday Harbor,FBS
+6388,Fort Bridger,FBR
+6389,Lubumbashi,FBM
+6390,Faribault,FBL
+6391,Fairbanks/Ft Wainwright,FBK
+6392,Fort Bragg,FBG
+6393,Francisco Beltrão,FBE
+6394,Fayzabad,FBD
+6395,Fonte Boa,FBA
+6396,Fasa,FAZ
+6397,Fayetteville,FAY
+6398,Fahud,FAU
+6399,Fresno,FAT
+6400,Fáskrúðsfjörður,FAS
+6401,Fargo,FAR
+6402,Frieda River,FAQ
+6403,Faro,FAO
+6404,Farsund,FAN
+6405,Farmington,FAM
+6406,Roma,FAL
+6407,False Island,FAK
+6408,Fajardo,FAJ
+6409,Fairbanks,FAI
+6410,Farah,FAH
+6411,Fagurhólsmýri,FAG
+6412,Fort Eustis,FAF
+6413,Vágar,FAE
+6414,Farnborough,FAB
+6415,Faranah,FAA
+6416,Elazığ,EZS
+6417,Buenos Aires,EZE
+6418,Key West,EYW
+6419,Eliye Springs,EYS
+6420,Yerington,EYR
+6421,El Yopal,EYP
+6422,Yélimané,EYL
+6423,Exeter,EXT
+6424,Excursion Inlet,EXI
+6425,Berkshire,EWY
+6426,Newark,EWR
+6427,Ewo,EWO
+6428,New Bern,EWN
+6429,Newton,EWK
+6430,Enarotali-Papua Island,EWI
+6431,Asmat,EWE
+6432,New Bedford,EWB
+6433,Évreux/Fauville,EVX
+6434,Evanston,EVW
+6435,Evansville,EVV
+6436,Yerevan,EVN
+6437,Eveleth,EVM
+6438,Evenes,EVE
+6439,Eva Downs,EVD
+6440,Evadale,EVA
+6441,Sint Eustatius,EUX
+6442,San Jose,EUQ
+6443,Paratebueno,EUO
+6444,El Aaiún,EUN
+6445,Neumünster,EUM
+6446,Eugene,EUG
+6447,Eufaula,EUF
+6448,Eureka,EUE
+6449,Eua Island,EUA
+6450,Metz / Nancy,ETZ
+6451,Enterprise,ETS
+6452,Santa Rosa,ETR
+6453,Eastland,ETN
+6454,Eilat,ETM
+6455,Svetlaya,ETL
+6456,Eilat,ETH
+6457,Metema,ETE
+6458,Etadunna,ETD
+6459,West Bend,ETB
+6460,Easton,ESW
+6461,Essaouira,ESU
+6462,Estherville,EST
+6463,El Salvador,ESR
+6464,East Stroudsburg,ESP
+6465,East Stroudsburg,ESP
+6466,Espanola,ESO
+6467,Easton,ESN
+6468,Tachina,ESM
+6469,Elista,ESL
+6470,(Old) Zuid-Kaap,ESK
+6471,Espinosa,ESI
+6472,Brighton,ESH
+6473,Mariscal Estigarribia,ESG
+6474,Alexandria,ESF
+6475,Ensenada,ESE
+6476,Eastsound,ESD
+6477,Escanaba,ESC
+6478,Ankara,ESB
+6479,Esa'ala,ESA
+6480,Erzurum,ERZ
+6481,Kerrville,ERV
+6482,Erume,ERU
+6483,Erdenet,ERT
+6484,Windhoek,ERS
+6485,Errol,ERR
+6486,Elrose Mine,ERQ
+6487,Eirunepé,ERN
+6488,Erechim,ERM
+6489,Erenhot,ERL
+6490,Erie,ERI
+6491,Errachidia,ERH
+6492,Erbogachen,ERG
+6493,Erfurt,ERF
+6494,Erave,ERE
+6495,Berdyansk,ERD
+6496,Erzincan,ERC
+6497,Erigavo,ERA
+6498,Esquel,EQS
+6499,Pärnu,EPU
+6500,Eliptamin,EPT
+6501,Samana,EPS
+6502,Esperance,EPR
+6503,Épinal/Mirecourt,EPL
+6504,Ephrata,EPH
+6505,Weeping Water,EPG
+6506,El Palomar,EPA
+6507,Bolivar,EOR
+6508,Keokuk,EOK
+6509,Eday,EOI
+6510,Medellín,EOH
+6511,Yan'an,ENY
+6512,Yan'an,ENY
+6513,Kenosha,ENW
+6514,Wendover,ENV
+6515,Enegu,ENU
+6516,Eniwetok Atoll,ENT
+6517,Enschede,ENS
+6518,Encarnación,ENO
+6519,Nenana,ENN
+6520,Centralia,ENL
+6521,Enniskillen,ENK
+6522,El Naranjo,ENJ
+6523,El Nido,ENI
+6524,Enshi,ENH
+6525,Enontekio,ENF
+6526,Ende-Flores Island,ENE
+6527,Enid,END
+6528,Nancy/Essey,ENC
+6529,Eneabba,ENB
+6530,Kenai,ENA
+6531,Minya,EMY
+6532,El Maiten,EMX
+6533,El Monte,EMT
+6534,Embessa,EMS
+6535,El Mirador,EMR
+6536,Emporia,EMP
+6537,Emo Mission,EMO
+6538,Néma,EMN
+6539,Kemmerer,EMM
+6540,Emmonak,EMK
+6541,Emirau Island,EMI
+6542,Empangeni,EMG
+6543,Emden,EME
+6544,Emerald,EMD
+6545,Nottingham,EMA
+6546,Wellsville,ELZ
+6547,Ely,ELY
+6548,Isla de Tigre,ELX
+6549,Ellamar,ELW
+6550,Elfin Cove,ELV
+6551,Guemar,ELU
+6552,El Tor,ELT
+6553,East London,ELS
+6554,Elelim-Papua Island,ELR
+6555,El Paso,ELP
+6556,El Dorado,ELO
+6557,Ellensburg,ELN
+6558,Elmira/Corning,ELM
+6559,Ellisras,ELL
+6560,Elk City,ELK
+6561,Ruperto Polania,ELJ
+6562,Elim,ELI
+6563,North Eleuthera,ELH
+6564,El Menia,ELG
+6565,El Fasher,ELF
+6566,El Real de Santa María,ELE
+6567,El Dorado,ELD
+6568,Elcho Island,ELC
+6569,El Banco,ELB
+6570,Eagle Lake,ELA
+6571,Elizabethtown,EKX
+6572,Eskilstuna,EKT
+6573,Shakhtyorsk,EKS
+6574,Elko,EKO
+6575,Elkins,EKN
+6576,Elkhart,EKI
+6577,Ekibastuz,EKB
+6578,Eureka,EKA
+6579,Enejit Island,EJT
+6580,Ejin Banner,EJN
+6581,Al Wajh,EJH
+6582,Barrancabermeja,EJA
+6583,Sapir,EIY
+6584,Road Town,EIS
+6585,Eindhoven,EIN
+6586,Fairbanks,EIL
+6587,Yeysk,EIK
+6588,Einasleigh,EIH
+6589,Yeniseysk,EIE
+6590,Eisenach,EIB
+6591,East Hartford,EHT
+6592,Cape Newenham,EHM
+6593,El Bolson,EHL
+6594,Egegik,EGX
+6595,Eagle River,EGV
+6596,Egilsstaðir,EGS
+6597,Eagle Pass,EGP
+6598,Belgorod,EGO
+6599,Geneina,EGN
+6600,Sege,EGM
+6601,Negele Borana,EGL
+6602,Crestview,EGI
+6603,El Gora,EGH
+6604,Eagle,EGE
+6605,Bergerac/Roumanière,EGC
+6606,Engati,EGA
+6607,Jefferson,EFW
+6608,Kefallinia Island,EFL
+6609,Newport,EFK
+6610,Efogi,EFG
+6611,Houston,EFD
+6612,Keene,EEN
+6613,Eek,EEK
+6614,Needles,EED
+6615,Edwards,EDW
+6616,Pormpuraaw,EDR
+6617,Erandique,EDQ
+6618,Edremit,EDO
+6619,Yedinka,EDN
+6620,La Roche-sur-Yon/Les Ajoncs,EDM
+6621,Eldoret,EDL
+6622,El Dorado,EDK
+6623,Edinburgh,EDI
+6624,Anchorage,EDF
+6625,Edenton,EDE
+6626,El Debba,EDB
+6627,Edna Bay,EDA
+6628,Madrid,ECV
+6629,Newcastle,ECS
+6630,El Charco,ECR
+6631,Panama City Beach,ECP
+6632,El Encanto,ECO
+6633,Nicosia,ECN
+6634,Tola,ECI
+6635,Elizabeth City,ECG
+6636,East Tawas,ECA
+6637,Ebolowa,EBW
+6638,Saint-Étienne/Bouthéon,EBU
+6639,Webster City,EBS
+6640,Ebon Atoll,EBO
+6641,Ebadon Island,EBN
+6642,El Borma,EBM
+6643,Arbil,EBL
+6644,Esbjerg,EBJ
+6645,El Bayadh,EBH
+6646,El Bagre,EBG
+6647,Al-Ubayyid,EBD
+6648,Kampala,EBB
+6649,Marina  Di Campo,EBA
+6650,Eau Claire,EAU
+6651,Wenatchee,EAT
+6652,Hondarribia,EAS
+6653,Kearney,EAR
+6654,Wheatland,EAN
+6655,Mejato Island,EAL
+6656,Emae Island,EAE
+6657,Abs,EAB
+6658,Eagle,EAA
+6659,Dazu,DZU
+6660,Durazno,DZO
+6661,Zhezkazgan,DZN
+6662,Hacienda Borrero,DZI
+6663,Codazzi,DZI
+6664,Dzaoudzi,DZA
+6665,Daly Waters,DYW
+6666,Dushanbe,DYU
+6667,Abilene,DYS
+6668,Anadyr,DYR
+6669,Diamantina Lakes,DYM
+6670,Doylestown,DYL
+6671,Dayong,DYG
+6672,Danbury,DXR
+6673,Madison,DXE
+6674,New Dixie,DXD
+6675,Dubai,DXB
+6676,Walt Disney World,DWS
+6677,Reg,DWR
+6678,Kotte,DWO
+6679,Oklahoma City,DWN
+6680,Houston,DWH
+6681,Dayton,DWF
+6682,Dawadmi,DWD
+6683,Jebel Ali,DWC
+6684,Soalala,DWB
+6685,Dwangwa,DWA
+6686,Phoenix,DVT
+6687,Davao,DVO
+6688,Davenport,DVN
+6689,Devils Lake,DVL
+6690,Diavik,DVK
+6691,Andavadoaka,DVD
+6692,Unalaska,DUT
+6693,Düsseldorf,DUS
+6694,Durban,DUR
+6695,Duncan,DUQ
+6696,Pituffik,DUN
+6697,Dumai-Sumatra Island,DUM
+6698,Mubatuba,DUK
+6699,Dubois,DUJ
+6700,Douglas Bisbee,DUG
+6701,Corolla,DUF
+6702,Chitato,DUE
+6703,Dunedin,DUD
+6704,Duncan,DUC
+6705,Dublin,DUB
+6706,Durant,DUA
+6707,Detroit,DTW
+6708,Wudalianchi,DTU
+6709,Decatur,DTR
+6710,Shreveport,DTN
+6711,Dortmund,DTM
+6712,Detroit Lakes,DTL
+6713,Diamantina,DTI
+6714,Death Valley National Park,DTH
+6715,Daet,DTE
+6716,Datadawai-Borneo Island,DTD
+6717,Siborong-Borong,DTB
+6718,Delta,DTA
+6719,Kaohsiung (Cijin - Pratas Island),DSX
+6720,Dansville,DSV
+6721,Dakar,DSS
+6722,Sŏndŏng-ni,DSO
+6723,Ordos,DSN
+6724,Des Moines,DSM
+6725,Dera Ismael Khan,DSK
+6726,Destin,DSI
+6727,Dilasag,DSG
+6728,Dessie,DSE
+6729,Grande Anse,DSD
+6730,Dschang,DSC
+6731,Doncaster,DSA
+6732,Darwin,DRW
+6733,Baa Atoll,DRV
+6734,Drummond,DRU
+6735,Del Rio,DRT
+6736,Dresden,DRS
+6737,Durango,DRO
+6738,Puntarenas,DRK
+6739,Drietabbetje,DRJ
+6740,De Ridder,DRI
+6741,Dabra-Papua Island,DRH
+6742,Deering,DRG
+6743,Kenai,DRF
+6744,Drummond Island,DRE
+6745,Dorunda Outstation,DRD
+6746,Dirico,DRC
+6747,Mercury,DRA
+6748,Duqm,DQM
+6749,Nuiqsut,DQH
+6750,Daqing Shi,DQA
+6751,Dumpu,DPU
+6752,Deputatskiy,DPT
+6753,Denpasar-Bali Island,DPS
+6754,Devonport,DPO
+6755,Dipolog City,DPL
+6756,Deer Park,DPK
+6757,Dugway Proving Ground,DPG
+6758,Dieppe,DPE
+6759,Bahia Inutil,DPB
+6760,Chicago/West Chicago,DPA
+6761,Dongying,DOY
+6762,Dover,DOV
+6763,Dourados,DOU
+6764,Dios,DOS
+6765,Dori,DOR
+6766,Dolpa,DOP
+6767,Dorobisoro,DOO
+6768,Dos Lagunas,DON
+6769,Marigot,DOM
+6770,Deauville,DOL
+6771,Donetsk,DOK
+6772,Castori Islets,DOI
+6773,Doha,DOH
+6774,Dongola,DOG
+6775,Djumu-Djomoe,DOE
+6776,Dodoma,DOD
+6777,Dornoch,DOC
+6778,Dobo-Warmar Island,DOB
+6779,Doany,DOA
+6780,Denizli,DNZ
+6781,Dinder,DNX
+6782,Danville,DNV
+6783,Dinangat,DNU
+6784,Denison,DNS
+6785,Dinard/Pleurtuit/Saint-Malo,DNR
+6786,Deniliquin,DNQ
+6787,Dang,DNP
+6788,Dianópolis,DNO
+6789,Dalton,DNN
+6790,Augusta,DNL
+6791,Dnipropetrovsk,DNK
+6792,Wad Medani,DNI
+6793,Dunhuang,DNH
+6794,Derna,DNF
+6795,Dundee,DND
+6796,Dimapur,DMU
+6797,Diamantino,DMT
+6798,Sedalia,DMO
+6799,Deming,DMN
+6800,Ad Dammam,DMM
+6801,Bangkok,DMK
+6802,Moscow,DME
+6803,Taraz,DMB
+6804,Tucson,DMA
+6805,Dalanzadgad,DLZ
+6806,Dillon's Bay,DLY
+6807,Xiaguan,DLU
+6808,Dallesport / The Dalles,DLS
+6809,Dalnerechensk,DLR
+6810,Dalnerechensk,DLR
+6811,Dillon,DLN
+6812,Dalaman,DLM
+6813,Dillon,DLL
+6814,Dulkaninna,DLK
+6815,Da Lat,DLI
+6816,Duluth,DLH
+6817,Dillingham,DLG
+6818,Del Rio,DLF
+6819,Dole/Tavaux,DLE
+6820,Dagali,DLD
+6821,"Ganjingzi, Dalian",DLC
+6822,"Ganjingzi, Dalian",DLC
+6823,Douala,DLA
+6824,Dikson,DKS
+6825,Dakar,DKR
+6826,Dunkirk,DKK
+6827,Dunk Island,DKI
+6828,Katsina,DKA
+6829,Djúpivogur,DJU
+6830,Delta Junction,DJN
+6831,Djambala,DJM
+6832,Jayapura-Papua Island,DJJ
+6833,Jebel Ali,DJH
+6834,Djanet,DJG
+6835,Djerba,DJE
+6836,Jambi-Sumatra Island,DJB
+6837,Djougou,DJA
+6838,Diyarbakir,DIY
+6839,Dickwella,DIW
+6840,Diu,DIU
+6841,Dolisie,DIS
+6842,Dire Dawa,DIR
+6843,Divinópolis,DIQ
+6844,Diapaga,DIP
+6845,Dien Bien Phu,DIN
+6846,Dimbokro,DIM
+6847,Dili,DIL
+6848,Dickinson,DIK
+6849,Dijon/Longvic,DIJ
+6850,Shangri-La,DIG
+6851,Dibrugarh,DIB
+6852,Doha,DIA
+6853,Dalhart,DHT
+6854,Den Helder,DHR
+6855,Dothan,DHN
+6856,Ad-Dali,DHL
+6857,Sêmêl,DHK
+6858,Dhangarhi,DHI
+6859,Dalnegorsk,DHG
+6860,Deer Harbor,DHB
+6861,Dhahran,DHA
+6862,Douglas,DGW
+6863,Dedougou,DGU
+6864,Dumaguete City,DGT
+6865,Daugavpils,DGP
+6866,Durango,DGO
+6867,Dahlgren,DGN
+6868,Colombo,DGM
+6869,Douglas,DGL
+6870,Daugo Island,DGG
+6871,Douglas Lake,DGF
+6872,Mudgee,DGE
+6873,Degah Bur,DGC
+6874,Dangriga,DGA
+6875,Dallas-Fort Worth,DFW
+6876,Drumduff,DFP
+6877,Defiance,DFI
+6878,Deir ez-Zor,DEZ
+6879,Dekai - Yahukimo,DEX
+6880,Detroit,DET
+6881,Desroches Island,DES
+6882,Derim,DER
+6883,Huzhou,DEQ
+6884,Daporijo,DEP
+6885,Denver,DEN
+6886,Dembidollo,DEM
+6887,New Delhi,DEL
+6888,Denis Island,DEI
+6889,Decorah,DEH
+6890,Dezful,DEF
+6891,Yuzhno-Kurilsk,DEE
+6892,Dehradun,DED
+6893,Decatur,DEC
+6894,Debrecen,DEB
+6895,Dera Ghazi Khan,DEA
+6896,Dadu,DDU
+6897,Dadu,DDU
+6898,Dorado,DDP
+6899,"Zhenxing, Dandong",DDG
+6900,Kudahuvadhoo,DDD
+6901,Dodge City,DDC
+6902,Daocheng County,DCY
+6903,Decatur,DCU
+6904,Decatur,DCR
+6905,Castres/Mazamet,DCM
+6906,Dahl Creek,DCK
+6907,Decimomannu,DCI
+6908,Dubai,DCG
+6909,Canefield,DCF
+6910,Washington,DCA
+6911,Dubrovnik,DBV
+6912,Dambulla,DBU
+6913,Debre Tabor,DBT
+6914,Dubois,DBS
+6915,Dubuque,DBQ
+6916,Debepare,DBP
+6917,Dubbo,DBO
+6918,Dublin,DBN
+6919,Debra Marcos,DBM
+6920,Kalpitiya Island,DBK
+6921,Baicheng,DBC
+6922,El Alamein,DBB
+6923,Dalbandin,DBA
+6924,Darwaz,DAZ
+6925,Dayton,DAY
+6926,Dazhou,DAX
+6927,David,DAV
+6928,Daru,DAU
+6929,Datong,DAT
+6930,Great Bear Lake,DAS
+6931,Dar es Salaam,DAR
+6932,Darchula,DAP
+6933,Danville,DAN
+6934,Damascus,DAM
+6935,Dallas,DAL
+6936,Dathina,DAH
+6937,Daggett,DAG
+6938,Da Nang,DAD
+6939,Dhaka,DAC
+6940,Daytona Beach,DAB
+6941,Fort Belvoir,DAA
+6942,Changzhou,CZX
+6943,Częstochowa,CZW
+6944,Corozal,CZU
+6945,Carrizo Springs,CZT
+6946,Cruzeiro Do Sul,CZS
+6947,Cape Pole,CZP
+6948,Chistochina,CZO
+6949,Chisana,CZN
+6950,Cozumel,CZM
+6951,Constantine,CZL
+6952,Cascade Locks,CZK
+6953,Corazón de Jesús and Narganá Islands,CZJ
+6954,Corozal,CZH
+6955,Cape Romanzof,CZF
+6956,Coro,CZE
+6957,Copper Center,CZC
+6958,Cruz Alta,CZB
+6959,Chichen Itza,CZA
+6960,Cauayan City,CYZ
+6961,Cherskiy,CYX
+6962,Celaya,CYW
+6963,Cuyo,CYU
+6964,Yakataga,CYT
+6965,Cheyenne,CYS
+6966,Colonia del Sacramento,CYR
+6967,Calbayog City,CYP
+6968,Cayo Largo del Sur,CYO
+6969,Chatham,CYM
+6970,Coyoles,CYL
+6971,Chiayi City,CYI
+6972,Chefornak,CYF
+6973,Maya Flats,CYD
+6974,Caye Chapel,CYC
+6975,Cayman Brac,CYB
+6976,Les Cayes,CYA
+6977,North Cat Cay,CXY
+6978,Cam Ranh,CXR
+6979,Christmas Creek,CXQ
+6980,Cilacap-Java Island,CXP
+6981,Houston,CXO
+6982,Candala,CXN
+6983,Camaxilo,CXM
+6984,Calexico,CXL
+6985,Caxias Do Sul,CXJ
+6986,Banana,CXI
+6987,Vancouver,CXH
+6988,Coldfoot,CXF
+6989,Chitina,CXC
+6990,Cox's Bazar,CXB
+6991,Willcox,CWX
+6992,Center Island,CWS
+6993,Campbellpore,CWP
+6994,Cardiff,CWL
+6995,Cangyuan Va Autonomous County,CWJ
+6996,Clinton,CWI
+6997,Lake Charles,CWF
+6998,Chernivtsi,CWC
+6999,Curitiba,CWB
+7000,Mosinee,CWA
+7001,Corvo,CVU
+7002,Coventry,CVT
+7003,Clovis,CVS
+7004,Culver City,CVR
+7005,Carnarvon,CVQ
+7006,Corvallis,CVO
+7007,Clovis,CVN
+7008,Ciudad Victoria,CVM
+7009,Temixco,CVJ
+7010,Caleta Olivia,CVI
+7011,Lafontaine,CVH
+7012,Cincinnati / Covington,CVG
+7013,Courchevel,CVF
+7014,Coveñas,CVE
+7015,Chungribu,CVB
+7016,Cusco,CUZ
+7017,Casigua El Cubo,CUV
+7018,Chihuahua,CUU
+7019,Cutral-Co,CUT
+7020,Willemstad,CUR
+7021,Coen,CUQ
+7022,Carúpano,CUP
+7023,Carurú,CUO
+7024,Cancún,CUN
+7025,Culiacán,CUL
+7026,Caye Caulker,CUK
+7027,Culion Island,CUJ
+7028,Currillo,CUI
+7029,Cushing,CUH
+7030,Cuneo,CUF
+7031,Cuenca,CUE
+7032,Cúcuta,CUC
+7033,Columbia,CUB
+7034,Comondú,CUA
+7035,Clinton,CTZ
+7036,Cross City,CTY
+7037,Cortland,CTX
+7038,Chengdu,CTU
+7039,Le Castellet,CTT
+7040,Chitose / Tomakomai,CTS
+7041,Santa Vitória Do Palmar,CTQ
+7042,Carutapera,CTP
+7043,Calverton,CTO
+7044,Chetumal,CTM
+7045,Charleville,CTL
+7046,Canton,CTK
+7047,Cuito Cuanavale,CTI
+7048,Coatesville,CTH
+7049,Cartagena,CTG
+7050,Coatepeque,CTF
+7051,Carti,CTE
+7052,Chitré,CTD
+7053,Catamarca,CTC
+7054,Cut Bank,CTB
+7055,Catania,CTA
+7056,Coronel Suarez,CSZ
+7057,Cheboksary,CSY
+7058,Changsha,CSX
+7059,Crossville,CSV
+7060,Santa Cruz Do Sul,CSU
+7061,Castaway Island,CST
+7062,Cassilândia,CSS
+7063,Casuarito,CSR
+7064,Creston,CSQ
+7065,Magdeburg,CSO
+7066,Carson City,CSN
+7067,Clinton,CSM
+7068,Cap Skirring,CSK
+7069,Solovetsky Islands,CSH
+7070,Columbus,CSG
+7071,Creil,CSF
+7072,Crested Butte,CSE
+7073,Cresswell Downs,CSD
+7074,Cañas,CSC
+7075,Caransebeş,CSB
+7076,Colonsay,CSA
+7077,Türkmenabat,CRZ
+7078,Carlton Hill,CRY
+7079,Corinth,CRX
+7080,Charleston,CRW
+7081,Crotone,CRV
+7082,Carriacou Island,CRU
+7083,Crossett,CRT
+7084,Corsicana,CRS
+7085,Ceres,CRR
+7086,Caravelas,CRQ
+7087,Corpus Christi,CRP
+7088,Corcoran,CRO
+7089,Catarman,CRM
+7090,Brussels,CRL
+7091,Mabalacat,CRK
+7092,Coorabie,CRJ
+7093,Colonel Hill,CRI
+7094,Cherrabah Homestead Resort,CRH
+7095,Jacksonville,CRG
+7096,Carnot,CRF
+7097,North Myrtle Beach,CRE
+7098,Comodoro Rivadavia,CRD
+7099,Cartago,CRC
+7100,Craiova,CRA
+7101,Caquetania,CQT
+7102,Costa Marques,CQS
+7103,Ciudad Real,CQM
+7104,Calais/Dunkerque,CQF
+7105,Shahrekord,CQD
+7106,Canarana,CQA
+7107,Culebra Island,CPX
+7108,Campina Grande,CPV
+7109,Cururupu,CPU
+7110,Cape Town,CPT
+7111,Cahokia/St Louis,CPS
+7112,Casper,CPR
+7113,Campinas,CPQ
+7114,Pica,CPP
+7115,Copiapo,CPO
+7116,Cape Rodney,CPN
+7117,Compton,CPM
+7118,Chaparral,CPL
+7119,Copenhagen,CPH
+7120,Carmen de Patagones,CPG
+7121,Tjepu-Java Island,CPF
+7122,Campeche,CPE
+7123,Chapelco/San Martin de los Andes,CPC
+7124,Capurganá,CPB
+7125,Harper,CPA
+7126,Costanza,COZ
+7127,Coolawanyah Station,COY
+7128,Coquimbo,COW
+7129,Columbia,COU
+7130,Cotulla,COT
+7131,Colorado Springs,COS
+7132,Cordoba,COR
+7133,Cooperstown,COP
+7134,Cotonou,COO
+7135,Concord,CON
+7136,Coleman,COM
+7137,Coll Island,COL
+7138,Kochi,COK
+7139,Merritt Island,COI
+7140,Condoto,COG
+7141,Cocoa Beach,COF
+7142,Coeur d'Alene,COE
+7143,Cody,COD
+7144,Concordia,COC
+7145,Coolibah,COB
+7146,Columbia,COA
+7147,Cangamba,CNZ
+7148,Moab,CNY
+7149,Chiang Mai,CNX
+7150,Waco,CNW
+7151,Canavieiras,CNV
+7152,Chanute,CNU
+7153,Charata,CNT
+7154,Cairns,CNS
+7155,Chañaral,CNR
+7156,Corrientes,CNQ
+7157,Neerlerit Inaat,CNP
+7158,Chino,CNO
+7159,Kannur,CNN
+7160,Carlsbad,CNM
+7161,Sindal,CNL
+7162,Concordia,CNK
+7163,Cloncurry,CNJ
+7164,"Changhai, Dalian",CNI
+7165,Claremont,CNH
+7166,Cognac/Châteaubernard,CNG
+7167,Belo Horizonte,CNF
+7168,Cañon City,CNE
+7169,Constanţa,CND
+7170,Cananea,CNA
+7171,Caia,CMZ
+7172,Sparta,CMY
+7173,Hancock,CMX
+7174,Camaguey,CMW
+7175,Kundiawa,CMU
+7176,Cametá,CMT
+7177,Iskushuban,CMS
+7178,Colmar/Houssen,CMR
+7179,Santana Do Araguaia,CMP
+7180,Hobyo,CMO
+7181,Casablanca,CMN
+7182,Carmelita,CMM
+7183,Club Makokola,CMK
+7184,Qimei,CMJ
+7185,Champaign/Urbana,CMI
+7186,Columbus,CMH
+7187,Corumbá,CMG
+7188,Chambéry/Aix-les-Bains,CMF
+7189,Ciudad del Carmen,CME
+7190,Camocim,CMC
+7191,Colombo,CMB
+7192,Guarico,CLZ
+7193,Calvi/Sainte-Catherine,CLY
+7194,Clorinda,CLX
+7195,Clearwater,CLW
+7196,Caldas Novas,CLV
+7197,Columbus,CLU
+7198,Charlotte,CLT
+7199,Chehalis,CLS
+7200,Calipatria,CLR
+7201,Colima,CLQ
+7202,Clarks Point,CLP
+7203,Cali,CLO
+7204,Carolina,CLN
+7205,Port Angeles,CLM
+7206,College Station,CLL
+7207,Clinton,CLK
+7208,Cluj-Napoca,CLJ
+7209,Clintonville,CLI
+7210,Coalinga,CLG
+7211,Norwich,CLF
+7212,Cleveland,CLE
+7213,Carlsbad,CLD
+7214,Clear Lake,CLC
+7215,Castlebar,CLB
+7216,Comilla,CLA
+7217,Çanakkale,CKZ
+7218,Conakry,CKY
+7219,Chicken,CKX
+7220,Christmas Creek Mine,CKW
+7221,Clarksville,CKV
+7222,Cordova,CKU
+7223,Sarakhs,CKT
+7224,Parauapebas,CKS
+7225,Crane Island,CKR
+7226,Cornélio Procópio,CKO
+7227,Crookston,CKN
+7228,Clarksdale,CKM
+7229,Moscow,CKL
+7230,Ash Flat,CKK
+7231,Chokurdah,CKH
+7232,Chongqing,CKG
+7233,Lakeport,CKE
+7234,Crooked Creek,CKD
+7235,Cherkasy,CKC
+7236,Clarksburg,CKB
+7237,Cherokee,CKA
+7238,Jeju City,CJU
+7239,Comitán,CJT
+7240,Ciudad Juárez,CJS
+7241,Cijulang,CJN
+7242,Chitral,CJL
+7243,Cheongju,CJJ
+7244,Chilko Lake,CJH
+7245,Coondewanna,CJF
+7246,Calama,CJC
+7247,Coimbatore,CJB
+7248,Cajamarca,CJA
+7249,Coari,CIZ
+7250,Comiso,CIY
+7251,Chiclayo,CIX
+7252,Canouan,CIW
+7253,Chomley,CIV
+7254,Sault Ste Marie,CIU
+7255,Shymkent,CIT
+7256,Abariringa,CIS
+7257,Cairo,CIR
+7258,Chiquimula,CIQ
+7259,Chipata,CIP
+7260,Concepción,CIO
+7261,Carroll,CIN
+7262,Cimitarra,CIM
+7263,Council,CIL
+7264,Chalkyitsik,CIK
+7265,Cobija,CIJ
+7266,Aydın,CII
+7267,Changzhi,CIH
+7268,Craig,CIG
+7269,Chifeng,CIF
+7270,Collie,CIE
+7271,Cedar Rapids,CID
+7272,Chico,CIC
+7273,Rome,CIA
+7274,Chiloquin,CHZ
+7275,Changuinola,CHX
+7276,Chaves,CHV
+7277,Chuathbaluk,CHU
+7278,Waitangi,CHT
+7279,Charleston,CHS
+7280,Châteauroux/Déols,CHR
+7281,Souda,CHQ
+7282,Circle Hot Springs,CHP
+7283,Charlottesville,CHO
+7284,Jeon Ju,CHN
+7285,Chimbote,CHM
+7286,Challis,CHL
+7287,Chickasha,CHK
+7288,Chipinge,CHJ
+7289,Chachapoyas,CHH
+7290,"Shuangta, Chaoyang",CHG
+7291,Jinhae,CHF
+7292,Christchurch,CHC
+7293,Chilas,CHB
+7294,Chattanooga,CHA
+7295,Casa Grande,CGZ
+7296,Cagayan de Oro,CGY
+7297,Chicago,CGX
+7298,Chinguetti,CGT
+7299,College Park,CGS
+7300,Campo Grande,CGR
+7301,Changchun,CGQ
+7302,Chattogram (Chittagong),CGP
+7303,Zhengzhou,CGO
+7304,Cologne,CGN
+7305,Mambajao,CGM
+7306,Jakarta,CGK
+7307,Chingola,CGJ
+7308,Cape Girardeau,CGI
+7309,São Paulo,CGH
+7310,Casiguran,CGG
+7311,Cleveland,CGF
+7312,Cambridge,CGE
+7313,Changde,CGD
+7314,Cape Gloucester,CGC
+7315,Cuiabá,CGB
+7316,Craig,CGA
+7317,Coffeyville,CFV
+7318,Kerkyra Island,CFU
+7319,Clifton/Morenci,CFT
+7320,Coffs Harbour,CFS
+7321,Caen/Carpiquet,CFR
+7322,Creston,CFQ
+7323,Carpentaria Downs,CFP
+7324,Confresa,CFO
+7325,Donegal,CFN
+7326,Conklin,CFM
+7327,Chlef,CFK
+7328,Clifton Hills,CFH
+7329,Cienfuegos,CFG
+7330,Cafunfo,CFF
+7331,Clermont-Ferrand/Auvergne,CFE
+7332,Bryan,CFD
+7333,Caçador,CFC
+7334,Cabo Frio,CFB
+7335,Cortez,CEZ
+7336,Murray,CEY
+7337,Chena Hot Springs,CEX
+7338,Crestview,CEW
+7339,Connersville,CEV
+7340,Clemson,CEU
+7341,Cholet/Le Pontreau,CET
+7342,Cherbourg/Maupertus,CER
+7343,Cannes/Mandelieu,CEQ
+7344,Concepción,CEP
+7345,Waco Kungo,CEO
+7346,Ciudad Obregón,CEN
+7347,Central,CEM
+7348,Cape Eleuthera,CEL
+7349,Chelyabinsk,CEK
+7350,Chernihiv,CEJ
+7351,Chiang Rai,CEI
+7352,Hawarden,CEG
+7353,Springfield/Chicopee,CEF
+7354,Cherepovets,CEE
+7355,Crescent City,CEC
+7356,Lapu-Lapu City,CEB
+7357,Wichita,CEA
+7358,Mapun,CDY
+7359,Caldwell,CDW
+7360,Cordova,CDV
+7361,Castellón de la Plana,CDT
+7362,Childress,CDS
+7363,Chadron,CDR
+7364,Kadapa,CDP
+7365,Cradock,CDO
+7366,Camden,CDN
+7367,Candle,CDL
+7368,Conceição do Araguaia,CDJ
+7369,Cachoeiro Do Itapemirim,CDI
+7370,Camden,CDH
+7371,Paris,CDG
+7372,Cortina D'Ampezzo,CDF
+7373,Chengde,CDE
+7374,Cauquira,CDD
+7375,Cedar City,CDC
+7376,Cold Bay,CDB
+7377,Charles City,CCY
+7378,Cáceres,CCX
+7379,Craig Cove,CCV
+7380,Kolkata,CCU
+7381,Colonia Catriel,CCT
+7382,Caracas,CCS
+7383,Concord,CCR
+7384,Concepcion,CCP
+7385,Puerto López,CCO
+7386,Chaghcharan,CCN
+7387,Criciúma,CCM
+7388,West Island,CCK
+7389,Calicut,CCJ
+7390,Concórdia,CCI
+7391,Chile Chico,CCH
+7392,Crane,CCG
+7393,Carcassonne/Salvaza,CCF
+7394,New Administrative Capital,CCE
+7395,Los Angeles,CCD
+7396,Cayo Coco,CCC
+7397,Upland,CCB
+7398,Chimore,CCA
+7399,Canobie,CBY
+7400,Campo Mourão,CBW
+7401,Coban,CBV
+7402,Cottbus,CBU
+7403,Catumbela,CBT
+7404,Cabimas,CBS
+7405,Canberra,CBR
+7406,Calabar,CBQ
+7407,Cotabato City,CBO
+7408,Cirebon-Java Island,CBN
+7409,Columbus,CBM
+7410,Colby,CBK
+7411,Cabo Rojo,CBJ
+7412,Béchar,CBH
+7413,Cambridge,CBG
+7414,Council Bluffs,CBF
+7415,Cumberland,CBE
+7416,Cochabamba,CBB
+7417,Matoury,CAY
+7418,Carlisle,CAX
+7419,Campos Dos Goytacazes,CAW
+7420,Cazombo,CAV
+7421,Caruaru,CAU
+7422,Cascais,CAT
+7423,Casablanca,CAS
+7424,Caribou,CAR
+7425,Caucasia,CAQ
+7426,Cap Haitien,CAP
+7427,Clayton,CAO
+7428,"Huadu, Guangzhou",CAN
+7429,Camiri,CAM
+7430,Campbeltown,CAL
+7431,Akron,CAK
+7432,Canaima,CAJ
+7433,Cairo,CAI
+7434,Ca Mau City,CAH
+7435,Cagliari,CAG
+7436,Carauari,CAF
+7437,Columbia,CAE
+7438,Cadillac,CAD
+7439,Cascavel,CAC
+7440,Cabinda,CAB
+7441,Catacamas,CAA
+7442,Brize Norton,BZZ
+7443,Bălți,BZY
+7444,Bazhong,BZX
+7445,Brazzaville,BZV
+7446,Brazoria,BZT
+7447,Washington,BZS
+7448,Béziers/Vias,BZR
+7449,Lakefield National Park,BZP
+7450,Bolzano,BZO
+7451,Bozeman,BZN
+7452,Bemolanga,BZM
+7453,Barisal,BZL
+7454,Bryansk,BZK
+7455,Bumi,BZH
+7456,Bydgoszcz,BZG
+7457,Redding,BZF
+7458,Belize City,BZE
+7459,Cabo Frio,BZC
+7460,Bazaruto Island,BZB
+7461,Bonanza,BZA
+7462,Baniyala,BYX
+7463,Blakely Island,BYW
+7464,Colombo,BYV
+7465,Bayreuth,BYU
+7466,Bantry,BYT
+7467,Fort Irwin/Barstow,BYS
+7468,Læsø,BYR
+7469,Bunju Island,BYQ
+7470,Bonito,BYO
+7471,Bayankhongor,BYN
+7472,Bayamo,BYM
+7473,Beliyela,BYL
+7474,Beja,BYJ
+7475,Burley,BYI
+7476,Blytheville,BYH
+7477,Buffalo,BYG
+7478,Albert/Bray,BYF
+7479,Al-Bayda,BYD
+7480,Yacuíba,BYC
+7481,Dibba Al-Baya,BYB
+7482,Boundary,BYA
+7483,Bunsil - Umboi Island,BXZ
+7484,Baikonur,BXY
+7485,Borama,BXX
+7486,Bawean,BXW
+7487,Breiðdalsvík,BXV
+7488,Butuan,BXU
+7489,Bontang-Borneo Island,BXT
+7490,Borrego Springs,BXS
+7491,Biała Podlaska,BXP
+7492,Buochs,BXO
+7493,Imsık,BXN
+7494,Batom-Papua Island,BXM
+7495,Nanuya Lailai Island,BXL
+7496,Buckeye,BXK
+7497,Aima Ata,BXJ
+7498,Boundiali,BXI
+7499,Balkhash,BXH
+7500,Pumululu National Park,BXF
+7501,Bakel,BXE
+7502,Bade,BXD
+7503,Babo-Papua Island,BXB
+7504,Bogalusa,BXA
+7505,Woodbridge,BWY
+7506,Banyuwangi,BWX
+7507,Cayo Santa Maria,BWW
+7508,Sydney,BWU
+7509,Burnie,BWT
+7510,Bewani,BWP
+7511,Balakovo,BWO
+7512,Bandar Seri Begawan,BWN
+7513,Bowman,BWM
+7514,Blackwell,BWL
+7515,Brač Island,BWK
+7516,Baltimore,BWI
+7517,Butterworth,BWH
+7518,Bowling Green,BWG
+7519,Barrow-in-Furness,BWF
+7520,Braunschweig,BWE
+7521,Brownwood,BWD
+7522,Brawley,BWC
+7523,Siddharthanagar (Bhairahawa),BWA
+7524,Beverly / Danvers,BVY
+7525,Batesville,BVX
+7526,Kurilsk,BVV
+7527,Beluga,BVU
+7528,Breves,BVS
+7529,Brava Island,BVR
+7530,Bolovip,BVP
+7531,Bartlesville,BVO
+7532,Belmonte,BVM
+7533,Baures,BVL
+7534,Itenes,BVK
+7535,Vilhena,BVH
+7536,Berlevåg,BVG
+7537,Bua,BVF
+7538,Brive la Gaillarde,BVE
+7539,Rabil,BVC
+7540,Boa Vista,BVB
+7541,Beauvais/Tillé,BVA
+7542,Bushehr,BUZ
+7543,Bau Bau-Butung Island,BUW
+7544,Bella Union,BUV
+7545,Muara Bungo,BUU
+7546,Jakar,BUT
+7547,Batumi,BUS
+7548,Burbank,BUR
+7549,Bulawayo,BUQ
+7550,Burao,BUO
+7551,Buenaventura,BUN
+7552,Butler,BUM
+7553,Bulolo,BUL
+7554,Al-Bough,BUK
+7555,Ouled Sidi Brahim,BUJ
+7556,Bokondini,BUI
+7557,Benguela,BUG
+7558,Buffalo,BUF
+7559,Budapest,BUD
+7560,Burwell,BUB
+7561,Buka Island,BUA
+7562,Bursa,BTZ
+7563,Beatty,BTY
+7564,Batu Licin-Borneo Island,BTW
+7565,Burlington,BTV
+7566,Bintulu,BTU
+7567,Bettles,BTT
+7568,Bratislava,BTS
+7569,Baton Rouge,BTR
+7570,Butare,BTQ
+7571,Butler,BTP
+7572,Botopasi,BTO
+7573,Bennettsville,BTN
+7574,Butte,BTM
+7575,Battle Creek,BTL
+7576,Bratsk,BTK
+7577,Banda Aceh,BTJ
+7578,Barter Island,BTI
+7579,Batam Island,BTH
+7580,Batangafo,BTG
+7581,Bountiful,BTF
+7582,Bonthe,BTE
+7583,Batticaloa,BTC
+7584,Betou,BTB
+7585,Bertoua,BTA
+7586,Egegik,BSZ
+7587,Bardera,BSY
+7588,Pathein,BSX
+7589,Boswell Bay,BSW
+7590,Besakoa,BSV
+7591,Basankusu,BSU
+7592,Lashkar Gah,BST
+7593,Balsas,BSS
+7594,Basra,BSR
+7595,Bisbee,BSQ
+7596,Bensbach,BSP
+7597,Basco,BSO
+7598,Bossangoa,BSN
+7599,Amol,BSM
+7600,Bâle/Mulhouse,BSL
+7601,Biskra,BSK
+7602,Balesin,BSI
+7603,Waimea (Kamuela),BSF
+7604,Sematan,BSE
+7605,Bahía Solano,BSC
+7606,Brasília,BSB
+7607,Bosaso,BSA
+7608,Bardstown,BRY
+7609,Barahona,BRX
+7610,Utqiaġvik,BRW
+7611,Bremerhaven,BRV
+7612,Brussels,BRU
+7613,Bristol,BRS
+7614,Eoligarry,BRR
+7615,Brno,BRQ
+7616,Biaru,BRP
+7617,Brownsville,BRO
+7618,Bern,BRN
+7619,Barquisimeto,BRM
+7620,Burlington,BRL
+7621,Bari,BRI
+7622,Whitesburg,BRG
+7623,Bremen,BRE
+7624,Brainerd,BRD
+7625,San Carlos de Bariloche,BRC
+7626,Barreiras,BRA
+7627,Tucuma,BR-
+7628,Balgo,BQW
+7629,Gustavus,BQV
+7630,Bequia,BQU
+7631,Brest,BQT
+7632,Blagoveschensk,BQS
+7633,Barra,BQQ
+7634,Bouna,BQO
+7635,Aguadilla,BQN
+7636,Brunswick,BQK
+7637,Batagay,BQJ
+7638,Bagani,BQI
+7639,London,BQH
+7640,Bogorodskoye,BQG
+7641,Bubaque,BQE
+7642,Búðardalur,BQD
+7643,Baler,BQA
+7644,Bangda,BPX
+7645,Beaumont/Port Arthur,BPT
+7646,Porto Seguro,BPS
+7647,Kotamadya Balikpapan,BPN
+7648,Hyderabad,BPM
+7649,Bole,BPL
+7650,Biangabip,BPK
+7651,Big Piney,BPI
+7652,Barra Do Garças,BPG
+7653,Batuna Mission Station,BPF
+7654,Qinhuangdao,BPE
+7655,Bapi,BPD
+7656,Bamenda,BPC
+7657,Bethpage,BPA
+7658,Bozoum,BOZ
+7659,Bobo Dioulasso,BOY
+7660,Bartow,BOW
+7661,Boang Island,BOV
+7662,Bourges,BOU
+7663,Bosset,BOT
+7664,Boston,BOS
+7665,Belfort,BOR
+7666,Boku,BOQ
+7667,Bouar,BOP
+7668,Bodø,BOO
+7669,"Kralendijk, Bonaire",BON
+7670,Mumbai,BOM
+7671,Brookings,BOK
+7672,Burgas,BOJ
+7673,Boise,BOI
+7674,Bournemouth,BOH
+7675,Bogota,BOG
+7676,Washington,BOF
+7677,Boundji,BOE
+7678,Bordeaux/Mérignac,BOD
+7679,Isla Colón,BOC
+7680,Motu Mute,BOB
+7681,Boma,BOA
+7682,Banz,BNZ
+7683,Anua,BNY
+7684,Banja Luka,BNX
+7685,Boone,BNW
+7686,Boana,BNV
+7687,Blumenau,BNU
+7688,Bundi,BNT
+7689,Barinas,BNS
+7690,Banfora,BNR
+7691,Baganga,BNQ
+7692,Bannu,BNP
+7693,Burns,BNO
+7694,Brønnøy,BNN
+7695,Bodinumu,BNM
+7696,Barnwell,BNL
+7697,Ballina,BNK
+7698,Bonn,BNJ
+7699,Benin,BNI
+7700,Boston,BNH
+7701,Banning,BNG
+7702,Baranof,BNF
+7703,Brisbane,BNE
+7704,Bandar Abbas,BND
+7705,Beni,BNC
+7706,Boende,BNB
+7707,Nashville,BNA
+7708,Bamu,BMZ
+7709,Waala,BMY
+7710,Big Mountain,BMX
+7711,Bordj Badji Mokhtar,BMW
+7712,Buon Ma Thuot,BMV
+7713,Bima-Sumbawa Island,BMU
+7714,Beaumont,BMT
+7715,Brumado,BMS
+7716,Baltrum,BMR
+7717,Banmaw,BMO
+7718,Bamarni,BMN
+7719,Bitam,BMM
+7720,Berlin,BML
+7721,Borkum,BMK
+7722,Baramita,BMJ
+7723,Bloomington/Normal,BMI
+7724,Bomai,BMH
+7725,Bloomington,BMG
+7726,Bakouma,BMF
+7727,Broome,BME
+7728,Belo sur Tsiribihina,BMD
+7729,Brigham City,BMC
+7730,Bumbar,BMB
+7731,Stockholm,BMA
+7732,Blantyre,BLZ
+7733,Belmullet,BLY
+7734,Belluno (BL),BLX
+7735,Beledweyne,BLW
+7736,Belleville,BLV
+7737,Emigrant Gap,BLU
+7738,Bangalore,BLR
+7739,Bologna,BLQ
+7740,Bellavista,BLP
+7741,Blönduós,BLO
+7742,Belmar/Farmingdale,BLM
+7743,Billund,BLL
+7744,Blackpool,BLK
+7745,Batna,BLJ
+7746,Bellingham,BLI
+7747,Blythe,BLH
+7748,Belaga,BLG
+7749,Bluefield,BLF
+7750,Boulder City,BLD
+7751,Bali,BLC
+7752,Panamá City,BLB
+7753,Barcelona,BLA
+7754,Bukoba,BKZ
+7755,Brookings,BKX
+7756,Beckley,BKW
+7757,Betioky,BKU
+7758,Blackstone,BKT
+7759,Bengkulu-Sumatra Island,BKS
+7760,Bokoro,BKR
+7761,Blackall,BKQ
+7762,Bamako,BKO
+7763,Balkanabat,BKN
+7764,Bakalalan,BKM
+7765,Cleveland,BKL
+7766,Bangkok,BKK
+7767,Boké,BKJ
+7768,Kota Kinabalu,BKI
+7769,Kekaha,BKH
+7770,Branson,BKG
+7771,Katmai National Park,BKF
+7772,Baker City,BKE
+7773,Breckenridge,BKD
+7774,Buckland,BKC
+7775,Bikaner,BKB
+7776,Moscow,BKA
+7777,Badajoz,BJZ
+7778,Batajnica,BJY
+7779,Silao,BJX
+7780,Bajawa,BJW
+7781,Bodrum,BJV
+7782,Bajura,BJU
+7783,Bentota,BJT
+7784,Bahir Dar,BJR
+7785,Bahja,BJQ
+7786,Bragança Paulista,BJP
+7787,Bermejo,BJO
+7788,Bujumbura,BJM
+7789,Banjul,BJL
+7790,Maikoor Island,BJK
+7791,Wooster,BJJ
+7792,Bemidji,BJI
+7793,Bajhang,BJH
+7794,Boalang-Celebes Island,BJG
+7795,Båtsfjord,BJF
+7796,Baleela Base Camp,BJE
+7797,Bakkafjörður,BJD
+7798,Denver,BJC
+7799,Bojnord,BJB
+7800,Béjaïa,BJA
+7801,Bisho,BIY
+7802,Biloxi,BIX
+7803,Bria,BIV
+7804,Bildudalur,BIU
+7805,Baitadi,BIT
+7806,Bismarck,BIS
+7807,Biratnagar,BIR
+7808,Biarritz/Anglet/Bayonne,BIQ
+7809,Bilbao,BIO
+7810,Bamyan,BIN
+7811,South Bimini,BIM
+7812,Billings,BIL
+7813,Biak-Supiori Island,BIK
+7814,Biliau,BIJ
+7815,Bikini Atoll,BII
+7816,Bishop,BIH
+7817,Delta Junction Ft Greely,BIG
+7818,Fort Bliss/El Paso,BIF
+7819,Beatrice,BIE
+7820,Block Island,BID
+7821,Baidoa,BIB
+7822,Bastia/Poretta,BIA
+7823,Beihai (Yinhai),BHY
+7824,Birmingham,BHX
+7825,Bhagatanwala,BHW
+7826,Bahawalpur,BHV
+7827,Bhavnagar,BHU
+7828,Bathurst,BHS
+7829,Bharatpur,BHR
+7830,Broken Hill,BHQ
+7831,Bhojpur,BHP
+7832,Bhopal,BHO
+7833,Birmingham,BHM
+7834,Ensenada,BHL
+7835,Bukhara,BHK
+7836,Bhuj,BHJ
+7837,Bahia Blanca,BHI
+7838,Brus Laguna,BHG
+7839,Bahía Cupica,BHF
+7840,Blenheim,BHE
+7841,Belfast,BHD
+7842,Bhurban,BHC
+7843,Bar Harbor,BHB
+7844,Bahía de Caraquez,BHA
+7845,Braga,BGZ
+7846,Bergamo,BGY
+7847,Bagé,BGX
+7848,Baghdad,BGW
+7849,Bento Gonçalves,BGV
+7850,Bangassou,BGU
+7851,Bagdad,BGT
+7852,Bangor,BGR
+7853,Big Lake,BGQ
+7854,Bongo,BGP
+7855,Bergen,BGO
+7856,Belaya Gora,BGN
+7857,Binghamton,BGM
+7858,Baglung,BGL
+7859,Big Creek,BGK
+7860,Borgarfjörður eystri,BGJ
+7861,Bridgetown,BGI
+7862,Boghe,BGH
+7863,Bingöl,BGG
+7864,Bangui,BGF
+7865,Bainbridge,BGE
+7866,Borger,BGD
+7867,Bragança,BGC
+7868,Booue,BGB
+7869,Bucaramanga,BGA
+7870,Bafoussam,BFX
+7871,Sidi Bel Abbès,BFW
+7872,Bengbu,BFU
+7873,Beaufort,BFT
+7874,Belfast,BFS
+7875,Bedford,BFR
+7876,Bahia Piña,BFQ
+7877,Beaver Falls,BFP
+7878,Chiredzi,BFO
+7879,Bloemfontain,BFN
+7880,Mobile,BFM
+7881,Bakersfield,BFL
+7882,Aurora,BFK
+7883,Bijie,BFJ
+7884,Seattle,BFI
+7885,Curitiba,BFH
+7886,Bullfrog,BFG
+7887,Scottsbluff,BFF
+7888,Bielefeld,BFE
+7889,Bradford,BFD
+7890,Bahía Negra,BFA
+7891,Beru,BEZ
+7892,Beirut,BEY
+7893,Benson,BEX
+7894,Beira,BEW
+7895,Beersheba,BEV
+7896,Bethel,BET
+7897,Brest/Guipavas,BES
+7898,Berlin,BER
+7899,Thetford,BEQ
+7900,Bellary,BEP
+7901,Benghazi,BEN
+7902,Beni Mellal,BEM
+7903,Belém,BEL
+7904,Bareilly,BEK
+7905,Tanjung Redeb - Borneo Island,BEJ
+7906,Beica,BEI
+7907,Benton Harbor,BEH
+7908,Belgrade,BEG
+7909,Bluefileds,BEF
+7910,Beagle Bay,BEE
+7911,Bedford,BED
+7912,Wichita,BEC
+7913,Balivanich,BEB
+7914,Bereina Mission,BEA
+7915,Bandon,BDY
+7916,Broadus,BDX
+7917,Moba,BDV
+7918,Målselv,BDU
+7919,Brindisi,BDS
+7920,Bridgeport,BDR
+7921,Vadodara,BDQ
+7922,Bhadrapur,BDP
+7923,Bandung-Java Island,BDO
+7924,Badin,BDN
+7925,Bandırma,BDM
+7926,Hartford,BDL
+7927,Bondoukou,BDK
+7928,Banjarmasin-Borneo Island,BDJ
+7929,Bird Island,BDI
+7930,Bandar Lengeh,BDH
+7931,Blanding,BDG
+7932,Bradford,BDF
+7933,Baudette,BDE
+7934,Barra Do Corda,BDC
+7935,Bundaberg,BDB
+7936,Hamilton,BDA
+7937,Bickerton Island,BCZ
+7938,Beloretsk,BCX
+7939,Benguera Island,BCW
+7940,Belmopan,BCV
+7941,Bauchi,BCU
+7942,Boca Raton,BCT
+7943,Belle Chasse,BCS
+7944,Boca do Acre,BCR
+7945,Brak,BCQ
+7946,Bambu,BCP
+7947,Baco,BCO
+7948,Barcelona,BCN
+7949,Bacău,BCM
+7950,Pococi,BCL
+7951,Crestone,BCJ
+7952,Barcaldine,BCI
+7953,Baucau,BCH
+7954,Kumaka,BCG
+7955,Bouca,BCF
+7956,Bryce Canyon,BCE
+7957,Bacolod City,BCD
+7958,Bear Creek,BCC
+7959,Blacksburg,BCB
+7960,Baracoa,BCA
+7961,Zambezi,BBZ
+7962,Bambari,BBY
+7963,Philadelphia,BBX
+7964,Broken Bow,BBW
+7965,Grand-Béréby,BBV
+7966,Bucharest,BBU
+7967,Berbérati,BBT
+7968,Yateley,BBS
+7969,Basse Terre,BBR
+7970,Codrington,BBQ
+7971,Bembridge,BBP
+7972,Berbera,BBO
+7973,Bario,BBN
+7974,Battambang,BBM
+7975,Kasane,BBK
+7976,Bitburg,BBJ
+7977,Bhubaneswar,BBI
+7978,Butaritari,BBG
+7979,Big Bell,BBE
+7980,Brady,BBD
+7981,Bay City,BBC
+7982,Benson,BBB
+7983,Balmaceda,BBA
+7984,Barcelos,BAZ
+7985,Baia Mare,BAY
+7986,Barnaul,BAX
+7987,Baotou,BAV
+7988,Bauru,BAU
+7989,Barretos,BAT
+7990,Ballalae,BAS
+7991,Qionghai,BAR
+7992,Barranquilla,BAQ
+7993,Nabai,BAP
+7994,Ban Mak Khaen,BAO
+7995,Basongo,BAN
+7996,Battle Mountain,BAM
+7997,Batman,BAL
+7998,Unea Island,BAJ
+7999,Punta Arenas,BAI
+8000,Manama,BAH
+8001,Baguio City,BAG
+8002,Westfield/Springfield,BAF
+8003,Le Castellet,BAE
+8004,Bossier City,BAD
+8005,Barranca De Upia,BAC
+8006,Marysville,BAB
+8007,"Bialla, Matalilu, Ewase",BAA
+8008,Ambriz,AZZ
+8009,Zapatoca,AZT
+8010,Samana,AZS
+8011,Adrar,AZR
+8012,Kalamazoo,AZO
+8013,Andizhan,AZN
+8014,Sapezal,AZL
+8015,Abu Dhabi,AZI
+8016,Apatzingán,AZG
+8017,Yazd,AZD
+8018,Phoenix,AZA
+8019,Amityville,AYZ
+8020,Pottuvil,AYY
+8021,Atalaya,AYX
+8022,Ayawasi-Papua Island,AYW
+8023,Aiyura Valley,AYU
+8024,Antalya,AYT
+8025,Waycross,AYS
+8026,Ayers Rock,AYQ
+8027,Ayacucho,AYP
+8028,Ayolas,AYO
+8029,Anyang,AYN
+8030,Abu Dhabi,AYM
+8031,Arkalyk,AYK
+8032,Yari,AYI
+8033,Huntingdon,AYH
+8034,San Vicente Del Caguán,AYG
+8035,Alroy Downs,AYD
+8036,Ayacucho,AYC
+8037,Ayapel,AYA
+8038,Angel Fire,AXX
+8039,Wapakoneta,AXV
+8040,Akita,AXT
+8041,Altus,AXS
+8042,Spring Point,AXP
+8043,Alexandria,AXN
+8044,Armenia,AXM
+8045,Amakusa,AXJ
+8046,Algona,AXG
+8047,Bayanhot,AXF
+8048,Xanxerê,AXE
+8049,Alexandroupolis,AXD
+8050,Alexandria Bay,AXB
+8051,The Valley,AXA
+8052,Ahvaz,AWZ
+8053,Awar,AWR
+8054,West Memphis,AWM
+8055,Wake Island,AWK
+8056,Wonga Wongué Presidential Reserve,AWE
+8057,Aniwa,AWD
+8058,Awaba,AWB
+8059,Awasa,AWA
+8060,Avalon,AVX
+8061,Tucson,AVW
+8062,Melbourne,AVV
+8063,Vila Franca de Xira,AVR
+8064,Wilkes-Barre/Scranton,AVP
+8065,Avon Park,AVO
+8066,Avignon/Caumont,AVN
+8067,Asheville,AVL
+8068,Arvaikheer,AVK
+8069,Ciego de Avila,AVI
+8070,Aviano (PN),AVB
+8071,"Xixiu, Anshun",AVA
+8072,Chicago/Aurora,AUZ
+8073,Anatom Island,AUY
+8074,Araguaína,AUX
+8075,Wausau,AUW
+8076,Aumo,AUV
+8077,Aurukun,AUU
+8078,Atauro,AUT
+8079,Austin,AUS
+8080,Aurillac,AUR
+8081,Hiva Oa Island,AUQ
+8082,Auburn,AUO
+8083,Auburn,AUN
+8084,Austin,AUM
+8085,Aur Atoll,AUL
+8086,Alakanuk,AUK
+8087,Ambunti,AUJ
+8088,Aua Island,AUI
+8089,Abu Dhabi,AUH
+8090,Augusta,AUG
+8091,Auxerre/Branches,AUF
+8092,Abu Rudeis,AUE
+8093,Arauca,AUC
+8094,Oranjestad,AUA
+8095,Asyut,ATZ
+8096,Watertown,ATY
+8097,Atbasar,ATX
+8098,Appleton,ATW
+8099,Ati,ATV
+8100,Attu,ATU
+8101,Atmautluak,ATT
+8102,Artesia,ATS
+8103,Atar,ATR
+8104,Amritsar,ATQ
+8105,Aitape,ATP
+8106,Athens/Albany,ATO
+8107,Namatanai,ATN
+8108,Altamira,ATM
+8109,Atlanta,ATL
+8110,Atqasuk,ATK
+8111,Antsirabe,ATJ
+8112,Artigas,ATI
+8113,Athens,ATH
+8114,Kamra,ATG
+8115,Ambato,ATF
+8116,Antlers,ATE
+8117,Atoifi,ATD
+8118,Arthur's Town,ATC
+8119,Atbara,ATB
+8120,Anta,ATA
+8121,Ashley,ASY
+8122,Ashland,ASX
+8123,Aswan,ASW
+8124,Amboseli National Park,ASV
+8125,Asunción,ASU
+8126,Astoria,AST
+8127,Arathusa,ASS
+8128,Kayseri,ASR
+8129,Austin,ASQ
+8130,Alice Springs,ASP
+8131,Asosa,ASO
+8132,Talladega,ASN
+8133,Asmara,ASM
+8134,Marshall,ASL
+8135,Yamoussoukro,ASK
+8136,Amami,ASJ
+8137,Cat Hill,ASI
+8138,Nashua,ASH
+8139,Astrakhan,ASF
+8140,Aspen,ASE
+8141,Ascensión de Guarayos,ASC
+8142,Ashgabat,ASB
+8143,Asab,ASA
+8144,N'zeto,ARZ
+8145,Ararat,ARY
+8146,Asbury Park,ARX
+8147,Aracati,ARX
+8148,Arad,ARW
+8149,Minocqua-Woodruff,ARV
+8150,Araçatuba,ARU
+8151,Watertown,ART
+8152,Aragarças,ARS
+8153,Alto Rio Senguerr,ARR
+8154,Arauquita,ARQ
+8155,Arboletes,ARO
+8156,Stockholm,ARN
+8157,Armidale,ARM
+8158,Arly,ARL
+8159,Arusha,ARK
+8160,Arso-Papua Island,ARJ
+8161,Arica,ARI
+8162,Archangelsk,ARH
+8163,Walnut Ridge,ARG
+8164,Acaricuara,ARF
+8165,Arecibo,ARE
+8166,Alor Island,ARD
+8167,Arctic Village,ARC
+8168,Ann Arbor,ARB
+8169,New Iberia,ARA
+8170,Girdwood,AQY
+8171,"Saqani, Cakaudrove",AQS
+8172,Arequipa,AQP
+8173,Ariquemes,AQM
+8174,Aqaba,AQJ
+8175,Qaisumah,AQI
+8176,Anqing,AQG
+8177,Santa Cruz del Quiché,AQB
+8178,Araraquara,AQA
+8179,Zapala,APZ
+8180,Alto Parnaíba,APY
+8181,Arapongas,APX
+8182,Apia,APW
+8183,Apple Valley,APV
+8184,Apucarana,APU
+8185,Jasper,APT
+8186,Anápolis,APS
+8187,April River,APR
+8188,Arapiraca,APQ
+8189,Carepa,APO
+8190,Alpena,APN
+8191,Nampula,APL
+8192,Apataki,APK
+8193,Apiay,API
+8194,Fort A. P. Hill,APH
+8195,Aberdeen Proving Grounds(Aberdeen),APG
+8196,Naples,APF
+8197,San Juan Aposento,APE
+8198,Napa,APC
+8199,Apolo,APB
+8200,Denver,APA
+8201,Attopeu,AOU
+8202,Aosta,AOT
+8203,Amook Bay,AOS
+8204,Alor Satar,AOR
+8205,Qaasuitsup,AOQ
+8206,Andoas,AOP
+8207,Altoona,AOO
+8208,Adam,AOM
+8209,Paso de los Libres,AOL
+8210,Karpathos Island,AOK
+8211,Aomori,AOJ
+8212,Ancona,AOI
+8213,Lima,AOH
+8214,"Qianshan, Anshan",AOG
+8215,Eskişehir,AOE
+8216,Abou-Deïa,AOD
+8217,Altenburg,AOC
+8218,Agevairu,AOA
+8219,Angus Downs Station,ANZ
+8220,Anthony,ANY
+8221,Andenes,ANX
+8222,Ainsworth,ANW
+8223,Anvik,ANV
+8224,St. John's,ANU
+8225,Andahuaylas,ANS
+8226,Antwerp,ANR
+8227,Angola,ANQ
+8228,Annapolis,ANP
+8229,Angoche,ANO
+8230,Metlakatla,ANN
+8231,Andulo,ANL
+8232,Ankara,ANK
+8233,Zanaga,ANJ
+8234,Aniak,ANI
+8235,Anhua Island,ANH
+8236,Angoulême/Brie/Champniers,ANG
+8237,Antofagasta,ANF
+8238,Angers/Marcé,ANE
+8239,Anderson,AND
+8240,Anchorage,ANC
+8241,Anniston,ANB
+8242,Maasai Mara,ANA
+8243,Manurewa,AMZ
+8244,Ames,AMW
+8245,Amderma,AMV
+8246,Amanab,AMU
+8247,Amsterdam,AMS
+8248,Ambon,AMQ
+8249,Ampanihy,AMP
+8250,Mao,AMO
+8251,Alma,AMN
+8252,Amman,AMM
+8253,Puerto Armuelles,AML
+8254,Durango,AMK
+8255,Almenara,AMJ
+8256,Mataram-Lombok Island,AMI
+8257,Alto Molocue,AME
+8258,Ahmedabad,AMD
+8259,Am Timan,AMC
+8260,Amarillo,AMA
+8261,Lazy Bay,ALZ
+8262,Alexandria,ALY
+8263,Alexander City,ALX
+8264,Walla Walla,ALW
+8265,Escaldes-Engordany,ALV
+8266,Alula,ALU
+8267,Alenquer,ALT
+8268,Alamosa,ALS
+8269,Alexandra,ALR
+8270,Alegrete,ALQ
+8271,Aleppo,ALP
+8272,Waterloo,ALO
+8273,Alton/St Louis,ALN
+8274,Alamogordo,ALM
+8275,Albenga (SV),ALL
+8276,Alexander Bay,ALJ
+8277,Alice,ALI
+8278,Albany,ALH
+8279,Algiers,ALG
+8280,Alta,ALF
+8281,Alpine,ALE
+8282,Fortaleza,ALD
+8283,Alicante,ALC
+8284,Albany,ALB
+8285,Almaty,ALA
+8286,Sittwe,AKY
+8287,Aktobe,AKX
+8288,Aghajari,AKW
+8289,Akulivik,AKV
+8290,Aksu (Onsu),AKU
+8291,Akrotiri,AKT
+8292,Auki,AKS
+8293,Akure,AKR
+8294,Astraksetra-Sumatra Island,AKQ
+8295,Anaktuvuk Pass,AKP
+8296,Akron,AKO
+8297,King Salmon,AKN
+8298,ZaKouma,AKM
+8299,Auckland,AKL
+8300,Akhiok,AKK
+8301,Asahikawa,AKJ
+8302,Akiak,AKI
+8303,Anguganak,AKG
+8304,Kufra,AKF
+8305,Akieni,AKE
+8306,Akola,AKD
+8307,Akron,AKC
+8308,Atka,AKB
+8309,Ankang,AKA
+8310,Agadez,AJY
+8311,Aracaju,AJU
+8312,Mulegé,AJS
+8313,Arvidsjaur,AJR
+8314,Ouani,AJN
+8315,Aizawl (Lengpui),AJL
+8316,Araak,AJK
+8317,Akjoujt,AJJ
+8318,Ağrı,AJI
+8319,Al-Jawf,AJF
+8320,Ajaccio/Napoléon Bonaparte,AJA
+8321,Kaiser Lake Ozark,AIZ
+8322,Atlantic City,AIY
+8323,Ai-Ais,AIW
+8324,Aliceville,AIV
+8325,Atiu Island,AIU
+8326,Aitutaki,AIT
+8327,Arorae Island,AIS
+8328,Aripuanã,AIR
+8329,Adampur,AIP
+8330,Atlantic,AIO
+8331,Wainwright,AIN
+8332,Ailuk Island,AIM
+8333,Alligandi,AIL
+8334,Aiken,AIK
+8335,Ali-Sabieh,AII
+8336,Aiambak,AIH
+8337,Yalinga,AIG
+8338,Assis,AIF
+8339,Aiome,AIE
+8340,Anderson,AID
+8341,Bigatyelang Island,AIC
+8342,Alliance,AIA
+8343,L'Alpe d'Huez,AHZ
+8344,Ambatolahy,AHY
+8345,Al Hoceima,AHU
+8346,Amchitka Island,AHT
+8347,Ahuas,AHS
+8348,Alghero,AHO
+8349,Athens,AHN
+8350,Ashland,AHM
+8351,Aishalton,AHL
+8352,Aba,AHJ
+8353,Amahai-Seram Island,AHI
+8354,Amery,AHH
+8355,Arapahoe,AHF
+8356,Ahe Atoll,AHE
+8357,Ardmore,AHD
+8358,Herlong,AHC
+8359,Abha,AHB
+8360,Aggeneys,AGZ
+8361,Argyle Downs,AGY
+8362,Agatti,AGX
+8363,Agnew,AGW
+8364,Acarigua,AGV
+8365,Aguascalientes,AGU
+8366,Ciudad del Este,AGT
+8367,Augusta,AGS
+8368,Agra,AGR
+8369,Agrinion,AGQ
+8370,Málaga,AGP
+8371,Magnolia,AGO
+8372,Angoon,AGN
+8373,Tasiilaq,AGM
+8374,Kagua,AGK
+8375,Aguni,AGJ
+8376,Wageningen,AGI
+8377,Ängelholm,AGH
+8378,Angoram,AGG
+8379,Agen/La Garenne,AGF
+8380,Wangerooge,AGE
+8381,Anggi-Papua Island,AGD
+8382,Pittsburgh,AGC
+8383,Augsburg,AGB
+8384,Agadir (Temsia),AGA
+8385,Sabzevar,AFZ
+8386,Afyonkarahisar,AFY
+8387,Fort Worth,AFW
+8388,Bila,AFT
+8389,Zarafshan,AFS
+8390,Afton,AFO
+8391,Jaffrey,AFN
+8392,Alta Floresta,AFL
+8393,Ampara,AFK
+8394,Amalfi,AFI
+8395,Colorado Springs,AFF
+8396,Port Alfred,AFD
+8397,San Rafael,AFA
+8398,Akureyri,AEY
+8399,Alexandria,AEX
+8400,Abu Musa,AEU
+8401,Allakaket,AET
+8402,Ålesund,AES
+8403,Sochi,AER
+8404,Chifeng,AEQ
+8405,Buenos Aires,AEP
+8406,Aioun El Atrouss,AEO
+8407,Amgu,AEM
+8408,Albert Lea,AEL
+8409,Aseki,AEK
+8410,Algeciras,AEI
+8411,Padang Sidempuan-Sumatra Island,AEG
+8412,Baise (Tianyang),AEB
+8413,Abemama,AEA
+8414,San Andrés,ADZ
+8415,Alldays,ADY
+8416,St. Andrews,ADX
+8417,Camp Springs,ADW
+8418,El Daein,ADV
+8419,Ardabil,ADU
+8420,Ada,ADT
+8421,Dallas,ADS
+8422,Andrews,ADR
+8423,Kodiak,ADQ
+8424,Ampara,ADP
+8425,Andes,ADN
+8426,Ardmore,ADM
+8427,Adelaide,ADL
+8428,Adak Island,ADK
+8429,Amman,ADJ
+8430,Arandis,ADI
+8431,Aldan,ADH
+8432,Adrian,ADG
+8433,Adıyaman,ADF
+8434,Aden,ADE
+8435,Addis Ababa,ADD
+8436,Andekombe,ADC
+8437,İzmir,ADB
+8438,Seyhan,ADA
+8439,Zabol,ACZ
+8440,Atlantic City,ACY
+8441,Xingyi,ACX
+8442,Arcata/Eureka,ACV
+8443,Achutupo,ACU
+8444,Waco,ACT
+8445,Achinsk,ACS
+8446,Araracuara,ACR
+8447,Maragheh,ACP
+8448,Ascona,ACO
+8449,Ciudad Acuña,ACN
+8450,Arica,ACM
+8451,Aguaclara,ACL
+8452,Nantucket,ACK
+8453,Anuradhapura,ACJ
+8454,Saint Anne,ACI
+8455,Altenrhein,ACH
+8456,Brisbane,ACF
+8457,Lanzarote Island,ACE
+8458,Acandí,ACD
+8459,Accra,ACC
+8460,Bellaire,ACB
+8461,Acapulco,ACA
+8462,Aberdeen,ABZ
+8463,Albany,ABY
+8464,Albury,ABX
+8465,Abau,ABW
+8466,Abuja,ABV
+8467,Atambua-Timor Island,ABU
+8468,Abu Simbel,ABS
+8469,Aberdeen,ABR
+8470,Albuquerque,ABQ
+8471,Atkamba Mission,ABP
+8472,Aboisso,ABO
+8473,Albina,ABN
+8474,Bamaga,ABM
+8475,Ambler,ABL
+8476,Kabri Dehar,ABK
+8477,Assouindé,ABJ
+8478,Abidjan,ABJ
+8479,Abilene,ABI
+8480,Alpha,ABH
+8481,Abaiang,ABF
+8482,Allentown,ABE
+8483,Abadan,ABD
+8484,Albacete,ABC
+8485,Asaba,ABB
+8486,Abakan,ABA
+8487,Quezaltenango,AAZ
+8488,Araxá,AAX
+8489,Surallah,AAV
+8490,Asau,AAU
+8491,Altay,AAT
+8492,Apalapsili,AAS
+8493,Aarhus,AAR
+8494,Anapa,AAQ
+8495,Samarinda,AAP
+8496,Anaco,AAO
+8497,Al Ain,AAN
+8498,Malamala,AAM

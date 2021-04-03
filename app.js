@@ -9,6 +9,7 @@ const HelpMsg = 'La ricerca degli hotel va in base al codice IATA';
 const View = 'Visualizza le città';
 const Send = 'Invia una città';
 const Search = 'Cerca una città';
+const session = Telegraf.session;
 
 bot.start((ctx) => {
     console.log(ctx.from);
@@ -41,7 +42,7 @@ bot.hears(View, (ctx) => {
 });
 
 bot.hears(Search, (ctx) => {
-    ctx.reply("Inviare il nome di una città (in inglese)");
+    ctx.reply("Inviare il nome di una città per verificare se contenuta nel database(in inglese)");
     bot.on('text', (ctx) => {
         const row = db.prepare('SELECT * FROM City WHERE City.City LIKE ?').all(ctx.message.text);
         let msg = "";
@@ -50,8 +51,11 @@ bot.hears(Search, (ctx) => {
             ctx.reply(msg);
         } else
             ctx.reply('Nessuna città trovata');
+        return;
     });
-    return;
-})
 
+})
+bot.hears(Send, (ctx => {
+
+}));
 bot.launch();
