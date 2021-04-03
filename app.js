@@ -14,12 +14,18 @@ bot.start((ctx) => {
     console.log(ctx.from);
     console.log(ctx.chat);
     console.log(ctx.message);
-    if (ctx.from.first_name && ctx.from.last_name)
-        ctx.reply(WelcomeMsg + ctx.from.first_name + ' ' + ctx.from.last_name);
-    else if (ctx.from.first_name)
-        ctx.reply(WelcomeMsg + ctx.from.first_name);
-    else if (ctx.from.last_name)
-        ctx.reply(WelcomeMsg + ctx.from.last_name);
+    if (ctx.from.first_name)
+        ctx.reply(WelcomeMsg + ctx.from.first_name, {
+            "reply_markup": {
+                "keyboard": [
+                    [View],
+                    [Send],
+                    [Search]
+                ]
+            }
+        });
+
+
 });
 bot.help((ctx) => ctx.reply(HelpMsg));
 
@@ -28,14 +34,14 @@ bot.command('winform', (ctx) => {
 });
 
 bot.hears(View, (ctx) => {
-    const row = db.prepare('SELECT DISTINCT * FROM City ORDER BY City ASC LIMIT 100').all();
-    let msg = "";
-    row.forEach(x => msg += (x.City + ' - ' + x.Code + '\n'));
-    ctx.reply(msg);
+    ctx.telegram.sendDocument(ctx.from.id, {
+        source: "./City.txt",
+        filename: "./City.txt"
+    }).catch(function(err) { console.log(err) });
 });
 
 bot.hears(Search, (ctx) => {
-    ctx.reply("Inviare il nome di una città");
+    ctx.reply("Inviare il nome di una città (in inglese)");
     bot.on('text', (ctx) => {
         const row = db.prepare('SELECT * FROM City WHERE City.City LIKE ?').all(ctx.message.text);
         let msg = "";
