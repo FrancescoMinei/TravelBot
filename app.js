@@ -10,6 +10,12 @@ const View = 'Visualizza le città';
 const Send = 'Invia una città';
 const Search = 'Cerca una città';
 const session = Telegraf.session;
+var Amadeus = require('amadeus');
+
+var amadeus = new Amadeus({
+    clientId: 'mhxawUm5tmcun1zoSB9kq9mk1YIIzCsV',
+    clientSecret: 'dnFHZ9Lh7UYvrROT'
+});
 
 bot.start((ctx) => {
     console.log(ctx.from);
@@ -56,6 +62,8 @@ bot.hears(Search, (ctx) => {
 
 })
 bot.hears(Send, (ctx => {
-
+    ctx.reply(amadeus.shopping.hotelOffers.get({
+        cityCode: 'RME'
+    }))
 }));
 bot.launch();
