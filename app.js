@@ -11,6 +11,7 @@ const Send = 'Invia una città';
 const Search = 'Cerca una città';
 const session = Telegraf.session;
 var Amadeus = require('amadeus');
+var json = [];
 
 var amadeus = new Amadeus({
     clientId: 'mhxawUm5tmcun1zoSB9kq9mk1YIIzCsV',
@@ -62,8 +63,19 @@ bot.hears(Search, (ctx) => {
 
 })
 bot.hears(Send, (ctx => {
-    ctx.reply(amadeus.shopping.hotelOffers.get({
-        cityCode: 'RME'
-    }))
+    console.log(amadeus.shopping.hotelOffers.get({
+        cityCode: 'PAR'
+    }).then(function(response) {
+        console.log(response.data); // first page
+        return amadeus.next(response);
+    }).then(function(nextResponse) {
+        console.log(nextResponse.data);
+        // second page
+    }).catch(function(error) {
+        console.log(error.response); //=> The response object with (un)parsed data
+        console.log(error.response.request); //=> The details of the request made
+        console.log(error.code); //=> A unique error code to identify the type of error
+    }));
 }));
+
 bot.launch();
