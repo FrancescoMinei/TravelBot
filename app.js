@@ -11,7 +11,7 @@ const Send = 'Invia una città';
 const Search = 'Cerca una città';
 const session = Telegraf.session;
 var Amadeus = require('amadeus');
-var json = [];
+
 
 var amadeus = new Amadeus({
     clientId: 'mhxawUm5tmcun1zoSB9kq9mk1YIIzCsV',
@@ -48,7 +48,7 @@ bot.hears(View, (ctx) => {
     }).catch(function(err) { console.log(err) });
 });
 
-bot.hears(Search, (ctx) => {
+/*bot.hears(Search, (ctx) => {
     ctx.reply("Inviare il nome di una città per verificare se contenuta nel database(in inglese)");
     bot.on('text', (ctx) => {
         const row = db.prepare('SELECT * FROM City WHERE City.City LIKE ?').all(ctx.message.text);
@@ -61,21 +61,39 @@ bot.hears(Search, (ctx) => {
         return;
     });
 
-})
+});*/
 bot.hears(Send, (ctx => {
-    console.log(amadeus.shopping.hotelOffers.get({
-        cityCode: 'PAR'
-    }).then(function(response) {
-        console.log(response.data); // first page
-        return amadeus.next(response);
-    }).then(function(nextResponse) {
-        console.log(nextResponse.data);
-        // second page
-    }).catch(function(error) {
-        console.log(error.response); //=> The response object with (un)parsed data
-        console.log(error.response.request); //=> The details of the request made
-        console.log(error.code); //=> A unique error code to identify the type of error
-    }));
+    let json = [];
+    bot.on('text', (ctx) => {
+        let city = ctx.message.text;
+        console.log(amadeus.shopping.hotelOffers.get({
+            cityCode: city
+        }).then(function(response) {
+            json.push(response.data);
+            return amadeus.next(response);
+        }).then(function(nextResponse) {
+            json.push(nextResponse.data);
+            //console.log(JSON.stringify(json, null, 4));
+            //console.log(GetName(json));
+            //console.log(JSON.stringify(json, null, 4));
+            //if (json.length != 0)
+            ctx.reply(GetName(json));
+        }).catch(function(error) {
+            console.log(error.response);
+            console.log(error.response.request);
+            console.log(error.code);
+        }));
+    });
 }));
+
+function GetName(json) {
+    let data = [];
+    json.forEach(x => {
+        x.forEach(y => {
+            data.push({ name: y.hotel.name });
+        })
+    });
+    return data;
+}
 
 bot.launch();
