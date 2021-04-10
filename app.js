@@ -87,6 +87,20 @@ bot.onText(/\/test/, msg => {
     GetCoordinate(msg.chat.id);
 });
 
+function CheckCoordinate(coord) {
+    if (/^[-+]?\d*\.?\d*$/.test(coord))
+        return true;
+    else
+        return false;
+}
+
+function CheckIataCode(code) {
+    if (code.length == 3 && /^[a-zA-Z]+$/.test(code))
+        return true;
+    else
+        return false;
+}
+
 function GetName(json) {
     console.log(json)
     let data = new String;
@@ -143,18 +157,10 @@ async function GetHotelJsonCoordinates(lon, lat, id) {
     });
 }
 
-function CheckCoordinate(coord) {
-    if (/^[-+]?\d*\.?\d*$/.test(coord))
-        return true;
-    else
-        return false;
-}
-
-function CheckIataCode(code) {
-    if (code.length == 3 && /^[a-zA-Z]+$/.test(code))
-        return true;
-    else
-        return false;
+async function GetRestaurantJsonData(city, id) {
+    return Promise.resolve('a').then(async function() {
+        //await amadeus.shopping.
+    });
 }
 
 function GetIataCode(msg) {
