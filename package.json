@@ -14,6 +14,15 @@
         "express": "^4.17.1",
         "node-emoji": "^1.10.0",
         "node-telegram-bot-api": "^0.52.0",
-        "nodemon": "^2.0.7"
-    }
+        "nodemon": "^2.0.7",
+        "request": "^2.88.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FrancescoMinei/TravelBot.git"
+    },
+    "bugs": {
+        "url": "https://github.com/FrancescoMinei/TravelBot/issues"
+    },
+    "homepage": "https://github.com/FrancescoMinei/TravelBot#readme"
 }

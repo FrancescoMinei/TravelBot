@@ -4,7 +4,9 @@ const token = '1731816120:AAE5UVzQb_KLw1oe_COPdkHnHG2hBJ7e2Xc';
 const bot = new TelegramBot(token, { polling: true });
 const db = require('better-sqlite3')('./TravelBot.db', { verbose: console.log });
 const emoji = require('node-emoji');
-const express = require('express')
+const request = require('request');
+const express = require('express');
+
 
 const WelcomeMsg = 'Benvenuto in TravelBot, ';
 const HelpMsg = 'La ricerca degli hotel va in base al codice IATA, il codice aereoportuale.';
@@ -13,8 +15,10 @@ const Send = 'Invia il codice di una città';
 const SendC = 'Invia le coordinate di una città ';
 const Search = 'Invia il nome di una città per verificare se contenuta del database';
 const Errore = 'Purtroppo non è stato trovato nessun hotel... ci dispiace';
+const SearchC = 'Invia il nome di una città';
 
 var Amadeus = require('amadeus');
+const { default: booking } = require('amadeus/lib/amadeus/namespaces/booking');
 var amadeus = new Amadeus({
     clientId: 'mhxawUm5tmcun1zoSB9kq9mk1YIIzCsV',
     clientSecret: 'dnFHZ9Lh7UYvrROT'
@@ -81,6 +85,18 @@ bot.onText(/\/coordinates/, msg => {
         }
         bot.on('message', handler);
     });
+});
+
+bot.onText(/\/GetCoordinate/, msg => {
+    bot.sendMessage(msg.chat.id, SearchC).then(() => {
+        let handler = (msg) => {
+            let city = msg.text.toString();
+            GetCityCoordinate(city, msg.chat.id)
+            bot.removeListener("message", handler);
+        }
+        bot.on('message', handler);
+    });
+    //console.log(GetCityCoordinate("Paris"));
 });
 
 bot.onText(/\/test/, msg => {
@@ -172,6 +188,7 @@ function GetIataCode(msg) {
 }
 
 function GetCoordinate(id) {
+
     let data = new Array;
     bot.sendMessage(id, "Inserire la latitudine");
     let handler = (msg) => {
@@ -213,4 +230,18 @@ function GetCoordinate(id) {
         }
     }
     bot.on('message', handler);
+}
+
+async function GetCityCoordinate(city, id) {
+    return Promise.resolve('a').then(async function() {
+        let url = "http://localhost:9090/city?CityName=" + city;
+        let arr = new Array;
+        await request(url, function(err, res, body) {
+            arr = JSON.parse(body);
+            if (arr.length != 0)
+                bot.sendMessage(id, JSON.parse(arr));
+            else
+                bot.sendMessage(id, Errore);
+        });
+    });
 }
