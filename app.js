@@ -4,7 +4,7 @@ const token = '1731816120:AAE5UVzQb_KLw1oe_COPdkHnHG2hBJ7e2Xc';
 const bot = new TelegramBot(token, { polling: true });
 const db = require('better-sqlite3')('./TravelBot.db', { verbose: console.log });
 const emoji = require('node-emoji');
-const request = require('request');
+const rp = require('request-promise');
 const express = require('express');
 
 
@@ -23,6 +23,10 @@ var amadeus = new Amadeus({
     clientId: 'mhxawUm5tmcun1zoSB9kq9mk1YIIzCsV',
     clientSecret: 'dnFHZ9Lh7UYvrROT'
 });
+
+var options = {
+    uri =
+};
 
 bot.onText(/\/start/, msg => {
     bot.sendMessage(msg.chat.id, WelcomeMsg + msg.from.first_name);
@@ -232,13 +236,14 @@ function GetCoordinate(id) {
     bot.on('message', handler);
 }
 
-async function GetCityCoordinate(city, id) {
+function GetCityCoordinate(city, id) {
     return Promise.resolve('a').then(async function() {
         let url = "http://localhost:9090/city?CityName=" + city;
         let arr = new Array;
-        await request(url, function(err, res, body) {
+        await rp(url, function(err, res, body) {
             arr = JSON.parse(body);
-            if (arr.length != 0)
+        }).then(function() {
+            if (body.length != 0)
                 bot.sendMessage(id, JSON.parse(arr));
             else
                 bot.sendMessage(id, Errore);
