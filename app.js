@@ -230,26 +230,24 @@ function GetCoordinate(id) {
 
 function GetCityCoordinate(city, id) {
     return Promise.resolve('a').then(async function() {
-                let url = "http://localhost:9090/city?CityName=" + city;
-                let arr = new Array; <<
-                << << < HEAD
-                await rp(url, function(err, res, body) {
-                    arr = JSON.parse(body);
-                }).then(function() {
-                    if (body.length != 0)
-                        bot.sendMessage(id, JSON.parse(arr)); ===
-                    === =
-                    request(url, function(err, res, body) {
-                        let city = new String;
-                        arr = JSON.parse(body);
-                        arr.forEach(x => {
-                            city += x.city + ' ' + x.country + ' ' + x.lat + ' ' + x.lng + '\n';
-                        });
-                        if (arr.length != 0)
-                            bot.sendMessage(id, city.toString()); >>>
-                        >>> > f1c477ec89cdd1334cf76340972c2e3b7634200d
-                        else
-                            bot.sendMessage(id, Errore);
-                    });
+        let url = "http://localhost:9090/city?CityName=" + city;
+        let arr = new Array;
+        await rp(url, function(err, res, body) {
+            arr = JSON.parse(body);
+        }).then(function() {
+            if (body.length != 0)
+                bot.sendMessage(id, JSON.parse(arr));
+            request(url, function(err, res, body) {
+                let city = new String;
+                arr = JSON.parse(body);
+                arr.forEach(x => {
+                    city += x.city + ' ' + x.country + ' ' + x.lat + ' ' + x.lng + '\n';
                 });
-            }
+                if (arr.length != 0)
+                    bot.sendMessage(id, city.toString());
+                else
+                    bot.sendMessage(id, Errore);
+            });
+        });
+    });
+}
