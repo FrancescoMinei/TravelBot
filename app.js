@@ -3,8 +3,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const token = '1731816120:AAE5UVzQb_KLw1oe_COPdkHnHG2hBJ7e2Xc';
 const bot = new TelegramBot(token, { polling: true });
 const db = require('better-sqlite3')('./TravelBot.db', { verbose: console.log });
-const emoji = require('node-emoji');
-const rp = require('request-promise');
+const request = require('request');
 const express = require('express');
 
 
@@ -15,6 +14,8 @@ const Send = 'Invia il codice di una città';
 const SendC = 'Invia le coordinate di una città ';
 const Search = 'Invia il nome di una città per verificare se contenuta del database';
 const Errore = 'Purtroppo non è stato trovato nessun hotel... ci dispiace';
+const ErroreC = 'Purtroppo non è stata trovata nessuna città... ci dispiace';
+const ErroreCord = 'Errore di inserimento nelle coordinate, riprovare';
 const SearchC = 'Invia il nome di una città';
 
 var Amadeus = require('amadeus');
@@ -72,17 +73,42 @@ bot.onText(/\/code/, msg => {
 
 bot.onText(/\/coordinates/, msg => {
     bot.sendMessage(msg.chat.id, SendC).then(() => {
+        bot.sendMessage(msg.chat.id, "Inserire la latitudine");
         let handler = (msg) => {
-            let coord = msg.text.toString().split(' ');
-            let lat = coord[0];
-            let lon = coord[1];
-            if (CheckCoordinate(lat) && CheckCoordinate(lon)) {
-                bot.sendMessage(msg.chat.id, "Sto cercando i migliori hotel...");
-                GetHotelJsonCoordinates(lon, lat, msg.chat.id);
+            let lat = parseFloat(msg.text);
+            if (CheckCoordinate(lat)) {
+                bot.removeListener("message", handler);
+                bot.sendMessage(msg.chat.id, "Inserire la longitudine");
+                let handler2 = (msg2) => {
+                    let lon = parseFloat(msg2.text);
+                    if (CheckCoordinate(lon)) {
+                        bot.sendMessage(msg.chat.id, "Sto cercando i migliori hotel...");
+                        let json = new Array;
+                        amadeus.shopping.hotelOffers.get({
+                            latitude: lat,
+                            longitude: lon
+                        }).then(function(response) {
+                            json.push(response.data);
+                            return amadeus.next(response);
+                        }).then(function(nextResponse) {
+                            json.push(nextResponse.data);
+                            let result = GetName(json);
+                            console.log(result.toString());
+                            if (result.length != 0)
+                                bot.sendMessage(msg.chat.id, result.toString());
+                        }).catch(function(error) {
+                            console.log(error.code);
+                            bot.sendMessage(msg.chat.id, Errore);
+                        });
+                        bot.removeListener("message", handler2);
+                    } else {
+                        bot.sendMessage(msg.chat.id, ErroreCord);
+                    }
+                }
+                bot.on('message', handler2);
             } else {
-                bot.sendMessage(msg.chat.id, "Errore nell'inserimento delle coordinate");
+                bot.sendMessage(msg.chat.id, ErroreCord);
             }
-            bot.removeListener("message", handler);
         }
         bot.on('message', handler);
     });
@@ -97,11 +123,10 @@ bot.onText(/\/GetCoordinate/, msg => {
         }
         bot.on('message', handler);
     });
-    //console.log(GetCityCoordinate("Paris"));
 });
 
 bot.onText(/\/test/, msg => {
-    GetCoordinate(msg.chat.id);
+    //per testare metodi
 });
 
 function CheckCoordinate(coord) {
@@ -123,8 +148,12 @@ function GetName(json) {
     let data = new String;
     json.forEach(x => {
         x.forEach(y => {
-            data += y.hotel.name.toString() + '\n';
-        })
+            data += y.hotel.name.toString() + " 🏨\n" +
+                y.hotel.address.lines + " 🚄\n" +
+                y.hotel.contact.phone + " 📱\n" +
+                "Valutazione: " + y.hotel.rating + " ⭐\n" +
+                "---------------------" + "\n";
+        });
     });
     return data;
 }
@@ -151,28 +180,6 @@ async function GetHotelJsonIata(city, id) {
     });
 }
 
-async function GetHotelJsonCoordinates(lon, lat, id) {
-    return Promise.resolve('a').then(async function() {
-        let json = new Array;
-        await amadeus.shopping.hotelOffers.get({
-            latitude: lat,
-            longitude: lon
-        }).then(function(response) {
-            json.push(response.data);
-            return amadeus.next(response);
-        }).then(function(nextResponse) {
-            json.push(nextResponse.data);
-        }).catch(function(error) {
-            console.log(error.code);
-        });
-        let result = GetName(json);
-        console.log(result.toString());
-        if (result.length != 0)
-            bot.sendMessage(id, result.toString());
-        else
-            bot.sendMessage(id, Errore);
-    });
-}
 
 async function GetRestaurantJsonData(city, id) {
     return Promise.resolve('a').then(async function() {
@@ -180,74 +187,20 @@ async function GetRestaurantJsonData(city, id) {
     });
 }
 
-function GetIataCode(msg) {
-    do {
-        //TODO
-        let city = msg.text.toString();
-    } while (CheckIataCode(city))
-    return city;
-}
-
-function GetCoordinate(id) {
-    let data = new Array;
-    bot.sendMessage(id, "Inserire la latitudine");
-    let handler = (msg) => {
-        let lat = parseFloat(msg.text);
-        if (lat != NaN) {
-            data.push(lat);
-            bot.removeListener("message", handler);
-            bot.sendMessage(id, "Inserire la longitudine");
-            let handler2 = (msg2) => {
-                let lon = parseFloat(msg2.text);
-                if (lon != NaN) {
-                    data.push(lon);
-                    bot.sendMessage(id, "Sto cercando i migliori hotel...");
-                    let json = new Array;
-                    amadeus.shopping.hotelOffers.get({
-                        latitude: lat,
-                        longitude: lon
-                    }).then(function(response) {
-                        json.push(response.data);
-                        return amadeus.next(response);
-                    }).then(function(nextResponse) {
-                        json.push(nextResponse.data);
-                        let result = GetName(json);
-                        console.log(result.toString());
-                        if (result.length != 0)
-                            bot.sendMessage(id, result.toString());
-                    }).catch(function(error) {
-                        console.log(error.code);
-                        bot.sendMessage(id, Errore);
-                    });
-                    bot.removeListener("message", handler2);
-                }
-            }
-            bot.on('message', handler2);
-        }
-    }
-    bot.on('message', handler);
-}
-
 function GetCityCoordinate(city, id) {
     return Promise.resolve('a').then(async function() {
         let url = "http://localhost:9090/city?CityName=" + city;
         let arr = new Array;
-        await rp(url, function(err, res, body) {
+        request(url, function(err, res, body) {
+            let city = new String;
             arr = JSON.parse(body);
-        }).then(function() {
-            if (body.length != 0)
-                bot.sendMessage(id, JSON.parse(arr));
-            request(url, function(err, res, body) {
-                let city = new String;
-                arr = JSON.parse(body);
-                arr.forEach(x => {
-                    city += x.city + ' ' + x.country + ' ' + x.lat + ' ' + x.lng + '\n';
-                });
-                if (arr.length != 0)
-                    bot.sendMessage(id, city.toString());
-                else
-                    bot.sendMessage(id, Errore);
+            arr.forEach(x => {
+                city += x.city + ', ' + x.country + ', ' + x.lat + ', ' + x.lng + '\n';
             });
+            if (arr.length != 0)
+                bot.sendMessage(id, city.toString());
+            else
+                bot.sendMessage(id, ErroreC);
         });
     });
 }
