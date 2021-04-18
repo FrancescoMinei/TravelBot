@@ -1,0 +1,2151 @@
+[
+    [
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "RTPARKRE",
+                "chainCode": "RT",
+                "dupeId": "700034082",
+                "name": "Novotel Paris Porte d'Italie",
+                "rating": "4",
+                "cityCode": "PAR",
+                "latitude": 48.81606,
+                "longitude": 2.36437,
+                "hotelDistance": {
+                    "distance": 2.5,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "22 RUE VOLTAIRE"
+                    ],
+                    "postalCode": "94270",
+                    "cityName": "LE KREMLIN BICETRE",
+                    "countryCode": "FR"
+                },
+                "contact": {
+                    "phone": "33/1/45211909",
+                    "fax": "33/1/45211260",
+                    "email": "H5586@accor.com"
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "The 4-star Hotel Novotel Paris Porte d'Italie is located on the outskirts of Paris close to the 13th arrondissement. It offers direct access to the center of Paris: the Place d'Italie, the Eiffel Tower, the Louvre, the Opera House, Disneyland and Orly exhibition center (metro 7, tram T3, RER B). The hotel has 3 meeting rooms, a restaurant and a bar, and is ideal for both business trips and stays in Paris as a couple or family. Free WIFI and private car park."
+                },
+                "amenities": [
+                    "ELEVATOR",
+                    "ROOM_SERVICE",
+                    "INTERNET_SERVICES",
+                    "220_AC",
+                    "PARKING",
+                    "PETS_ALLOWED",
+                    "ACCESSIBLE_BATHS",
+                    "WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+                    "DISABLED_FACILITIES",
+                    "WIRELESS_CONNECTIVITY",
+                    "KIDS_WELCOME",
+                    "LOUNGE",
+                    "CHILDRENS_PLAY_AREA",
+                    "DOCTOR_ON_CALL",
+                    "24_HOUR_FRONT_DESK",
+                    "CONNECTING_ROOMS",
+                    "GARAGE_PARKING",
+                    "SMOKE_DETECTOR",
+                    "FIRE_SAFETY",
+                    "EMERGENCY_BACKUP_GENERATOR",
+                    "FIRE_DETECTORS",
+                    "EMERGENCY_LIGHTING",
+                    "RESTAURANT",
+                    "PHOTOCOPIER",
+                    "OVERHEAD_PROJECTOR",
+                    "MEETING_FACILITIES",
+                    "COMPUTER_RENTAL",
+                    "MEETING_ROOMS",
+                    "BUSINESS_CENTER",
+                    "AUDIO-VISUAL_EQUIPMENT",
+                    "FAX_MACHINE",
+                    "BATH",
+                    "SHOWER",
+                    "ALARM_CLOCK",
+                    "WI-FI_IN_ROOM",
+                    "DIRECT_DIAL_PHONE",
+                    "WAKEUP_SERVICE",
+                    "HAIR_DRYER",
+                    "CABLE_TELEVISION",
+                    "TELEVISION",
+                    "SATELLITE_TV",
+                    "CRIBS_AVAILABLE",
+                    "AIR_CONDITIONING",
+                    "FREE_NEWSPAPER",
+                    "SAFE",
+                    "NON_SMOKING_ROOMS"
+                ],
+                "media": [
+                    {
+                        "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/7E31E039D77B4F11B298CB6A5120B9D2",
+                        "category": "EXTERIOR"
+                    }
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "GANCJF5KNJ",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "RA3",
+                    "rateFamilyEstimated": {
+                        "code": "PRO",
+                        "type": "P"
+                    },
+                    "commission": {
+                        "amount": "0",
+                        "percentage": "0"
+                    },
+                    "room": {
+                        "type": "C1D",
+                        "typeEstimated": {
+                            "category": "SUPERIOR_ROOM",
+                            "beds": 1,
+                            "bedType": "DOUBLE"
+                        },
+                        "description": {
+                            "text": "ADVANCE SAVER-Room only\nSuperior Room with one double bed"
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "base": "120.00",
+                        "total": "121.50",
+                        "variations": {
+                            "average": {
+                                "base": "120.00"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "base": "120.00"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "deposit": {
+                            "acceptedPayments": {
+                                "creditCards": [
+                                    "AX",
+                                    "VI"
+                                ],
+                                "methods": [
+                                    "CREDIT_CARD"
+                                ]
+                            }
+                        },
+                        "paymentType": "deposit",
+                        "cancellation": {
+                            "deadline": "2021-04-17T00:00:00+02:00"
+                        }
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTPARKRE"
+        },
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "RTPARTOL",
+                "chainCode": "RT",
+                "dupeId": "700045084",
+                "name": "ibis Paris Italie Tolbiac 13ème",
+                "rating": "3",
+                "cityCode": "PAR",
+                "latitude": 48.82582,
+                "longitude": 2.35259,
+                "hotelDistance": {
+                    "distance": 3,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "177 RUE DE TOLBIAC"
+                    ],
+                    "postalCode": "75013",
+                    "cityName": "PARIS",
+                    "countryCode": "FR"
+                },
+                "contact": {
+                    "phone": "33/1/45801660",
+                    "fax": "33/1/45809580",
+                    "email": "H0923@accor.com"
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "The ibis Paris Tolbiac 13ème hotel is located in Paris, 500 m from the Chinese District, 1 km from La Grande Bibliothèque de France and 2 km from the Ministry of Finance. Orly airport is 15 km away. The hotel has 60 air-conditioned rooms with Wifi Internet access (3 are adapted for disabled persons). A bar, snacks 24/24 and outdoor covered pay parking are at your disposal. There is a restaurant close by. Pets accepted."
+                },
+                "amenities": [
+                    "ELEVATOR",
+                    "24_HOUR_FRONT_DESK",
+                    "SAFE_DEPOSIT_BOX",
+                    "PARKING",
+                    "220_AC",
+                    "PETS_ALLOWED",
+                    "ACCESSIBLE_BATHS",
+                    "WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+                    "DISABLED_FACILITIES",
+                    "WIRELESS_CONNECTIVITY",
+                    "EXPRESS_CHECK_IN",
+                    "FIRE_SAFETY",
+                    "FIRE_DETECTORS",
+                    "EMERGENCY_LIGHTING",
+                    "EXPRESS_CHECK_OUT",
+                    "BUSINESS_CENTER",
+                    "FAX_MACHINE",
+                    "HIGH_SPEED_INTERNET_IN_ROOM",
+                    "BATH",
+                    "SHOWER",
+                    "WAKEUP_SERVICE",
+                    "DIRECT_DIAL_PHONE",
+                    "WI-FI_IN_ROOM",
+                    "CABLE_TELEVISION",
+                    "TELEVISION",
+                    "SATELLITE_TV",
+                    "AIR_CONDITIONING",
+                    "FREE_NEWSPAPER",
+                    "SAFE",
+                    "NON_SMOKING_ROOMS"
+                ],
+                "media": [
+                    {
+                        "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/0C71F78419D744DEB73F119FDF20FD7C",
+                        "category": "EXTERIOR"
+                    }
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "KR9DOYVR85",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "D20",
+                    "commission": {
+                        "amount": "0",
+                        "percentage": "0"
+                    },
+                    "room": {
+                        "type": "ROH",
+                        "typeEstimated": {
+                            "category": "STANDARD_ROOM"
+                        },
+                        "description": {
+                            "text": "Happy 20 Rate1234564569877896541-Room only\nRoom for 1 or 2 persons"
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "base": "69.00",
+                        "total": "80.24",
+                        "variations": {
+                            "average": {
+                                "base": "69.00"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "base": "69.00"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "deposit": {
+                            "acceptedPayments": {
+                                "creditCards": [
+                                    "AX",
+                                    "BF",
+                                    "CA",
+                                    "DC",
+                                    "EC",
+                                    "IK",
+                                    "VI"
+                                ],
+                                "methods": [
+                                    "CREDIT_CARD"
+                                ]
+                            }
+                        },
+                        "paymentType": "deposit"
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTPARTOL"
+        },
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "RTPARALE",
+                "chainCode": "RT",
+                "dupeId": "700024485",
+                "name": "ibis Paris Alésia Montparnasse 14ème",
+                "rating": "3",
+                "cityCode": "PAR",
+                "latitude": 48.8275,
+                "longitude": 2.321,
+                "hotelDistance": {
+                    "distance": 3.4,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "49 RUE DES PLANTES"
+                    ],
+                    "postalCode": "75014",
+                    "cityName": "PARIS",
+                    "countryCode": "FR"
+                },
+                "contact": {
+                    "phone": "33/1/53904000",
+                    "fax": "33/1/53904015",
+                    "email": "H0959@accor.com"
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "The ibis Paris Alésia Montparnasse hotel is located in the centre of Paris, 3 km from the Exhibition Centre at Porte de Versailles, 4 km from the Latin Quarter and 5 km from the Eiffel Tower. The airport is 15 km away. The hotel has 264 air-conditioned rooms with Wifi Internet access, including 5 adapted for disabled persons, as well as 8 meeting rooms. LE RESTAURANT, a bar, snacks 24/24, and private covered parking (not free) are at your disposal. Pets accepted."
+                },
+                "amenities": [
+                    "ELEVATOR",
+                    "SAFE_DEPOSIT_BOX",
+                    "PARKING",
+                    "220_AC",
+                    "PETS_ALLOWED",
+                    "ACCESSIBLE_BATHS",
+                    "CONNECTING_ROOMS",
+                    "WIRELESS_CONNECTIVITY",
+                    "SMOKE_DETECTOR",
+                    "FIRE_SAFETY",
+                    "FIRE_DETECTORS",
+                    "EMERGENCY_LIGHTING",
+                    "GARAGE_PARKING",
+                    "RESTAURANT",
+                    "BUS_PARKING",
+                    "MEETING_FACILITIES",
+                    "MEETING_ROOMS",
+                    "BUSINESS_CENTER",
+                    "BATH",
+                    "SHOWER",
+                    "WAKEUP_SERVICE",
+                    "DIRECT_DIAL_PHONE",
+                    "WI-FI_IN_ROOM",
+                    "CABLE_TELEVISION",
+                    "TELEVISION",
+                    "SATELLITE_TV",
+                    "CRIBS_AVAILABLE",
+                    "AIR_CONDITIONING",
+                    "FREE_NEWSPAPER",
+                    "SAFE",
+                    "NON_SMOKING_ROOMS"
+                ],
+                "media": [
+                    {
+                        "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/41A694D5F6C8464ABE4F027720CD67E6",
+                        "category": "EXTERIOR"
+                    }
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "PIQUG5U1FV",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "RDP",
+                    "rateFamilyEstimated": {
+                        "code": "RAC",
+                        "type": "P"
+                    },
+                    "commission": {
+                        "amount": "0",
+                        "percentage": "0"
+                    },
+                    "room": {
+                        "type": "ROH",
+                        "typeEstimated": {
+                            "category": "STANDARD_ROOM"
+                        },
+                        "description": {
+                            "text": "Rack Rate-Room only\nRoom for 1 or 2 people."
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "base": "91.00",
+                        "total": "95.67",
+                        "variations": {
+                            "average": {
+                                "base": "91.00"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "base": "91.00"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "holdTime": {
+                            "deadline": "2021-04-18T19:00:00"
+                        },
+                        "guarantee": {
+                            "acceptedPayments": {
+                                "creditCards": [
+                                    "AX",
+                                    "CA",
+                                    "DC",
+                                    "EC",
+                                    "IK",
+                                    "VI"
+                                ],
+                                "methods": [
+                                    "CREDIT_CARD"
+                                ]
+                            }
+                        },
+                        "paymentType": "guarantee"
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTPARALE"
+        },
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "RTPARBLA",
+                "chainCode": "RT",
+                "dupeId": "700032370",
+                "name": "Hôtel Mercure Paris Place d'Italie",
+                "cityCode": "PAR",
+                "latitude": 48.8303,
+                "longitude": 2.35283,
+                "hotelDistance": {
+                    "distance": 3.5,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "25 BOULEVARD BLANQUI"
+                    ]
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "Located in the heart of Paris, near the Butte aux Cailles district and the Latin Quarter, the Mercure Paris Place d'Italie hotel offers customized services for your meetings. This hotel provides direct access by metro to Gare Montparnasse and Gare d'Austerlitz. It has comfortable rooms with views over the Panthéon and the Eiffel Tower. With family, friends or after a meeting, come and relax in our cozy bar, open 24 hours."
+                },
+                "media": [
+                    {
+                        "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/EB9CD74C35594127B8BE1AEB99B39E6E",
+                        "category": "EXTERIOR"
+                    }
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "G4AQM48W9E",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "EAM",
+                    "commission": {
+                        "amount": "0",
+                        "percentage": "0"
+                    },
+                    "room": {
+                        "type": "D1D",
+                        "typeEstimated": {
+                            "category": "STANDARD_ROOM",
+                            "beds": 1,
+                            "bedType": "DOUBLE"
+                        },
+                        "description": {
+                            "text": "Mercure Breaks-Early / RO-Room only\nStandard Room with 1 double bed and 1 single be\nd"
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "total": "73.50",
+                        "variations": {
+                            "average": {
+                                "base": "73.50"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "total": "73.50"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "holdTime": {
+                            "deadline": "2021-04-18T18:00:00"
+                        },
+                        "guarantee": {
+                            "acceptedPayments": {
+                                "creditCards": [
+                                    "AX",
+                                    "BF",
+                                    "CA",
+                                    "DC",
+                                    "EC",
+                                    "IK",
+                                    "JC",
+                                    "VI"
+                                ],
+                                "methods": [
+                                    "TRAVEL_AGENT_ID",
+                                    "CREDIT_CARD"
+                                ]
+                            }
+                        },
+                        "paymentType": "guarantee",
+                        "cancellation": {
+                            "deadline": "2021-04-18T23:58:00+02:00"
+                        }
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTPARBLA"
+        },
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "BWPAR456",
+                "chainCode": "BW",
+                "dupeId": "700043235",
+                "name": "BEST WESTERN HOTEL DE WEHA",
+                "rating": "3",
+                "cityCode": "PAR",
+                "latitude": 48.83009,
+                "longitude": 2.35679,
+                "hotelDistance": {
+                    "distance": 3.6,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "205 AVENUE DE CHOISY"
+                    ],
+                    "postalCode": "75013",
+                    "cityName": "PARIS",
+                    "countryCode": "FR"
+                },
+                "contact": {
+                    "fax": "33-1-42168088",
+                    "phone": "33-1-45860606"
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "The best western hotel de weha is a typical parisian three-star \"hotel de charme\". Located on the left bank (rive gauche), and on the edge of the latin quarter, we are very convenient to cafes, restaurants, cinemas and shops. From the place d italie, there is a good view of the pantheon. Just behind the best western hotel de weha you will find the second largest shopping centre of paris with the famous parisian department store \"le printemps\". Thanks to its privileged location, the hotel is at a major crossroads for parisian public transport and close to the place d italie station making direct access by either bus or metro to the main parisian sights very easy. The best western hotel de weha is fully renovated and has excellent standards of cleanliness and decor."
+                },
+                "amenities": [
+                    "AUDIO-VISUAL_EQUIPMENT",
+                    "MEETING_ROOMS",
+                    "BAR",
+                    "ICE_MACHINES",
+                    "DISABLED_FACILITIES",
+                    "BABY-SITTING",
+                    "ELEVATOR",
+                    "GIFT_SHOP",
+                    "WIFI",
+                    "LOUNGE",
+                    "AIR_CONDITIONING",
+                    "HAIR_DRYER",
+                    "MINIBAR",
+                    "NON_SMOKING_ROOMS",
+                    "DIRECT_DIAL_PHONE",
+                    "TELEVISION",
+                    "WI-FI_IN_ROOM",
+                    "FIRST_AID_STAF",
+                    "INTERIOR_ROOM_ENTRY",
+                    "EMERGENCY_LIGHTING",
+                    "EXTINGUISHERS",
+                    "FIRE_SAFETY",
+                    "SAFE_DEPOSIT_BOX",
+                    "SMOKE_DETECTOR",
+                    "VIDEO_SURVEILANCE"
+                ],
+                "media": [
+                    {
+                        "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/CCEADD5395894A62984ABAEE88A66D45",
+                        "category": "EXTERIOR"
+                    }
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "3TW2G126VJ",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "RAC",
+                    "rateFamilyEstimated": {
+                        "code": "BAR",
+                        "type": "P"
+                    },
+                    "commission": {
+                        "percentage": "10"
+                    },
+                    "room": {
+                        "type": "A1D",
+                        "typeEstimated": {
+                            "category": "STANDARD_ROOM",
+                            "beds": 1,
+                            "bedType": "DOUBLE"
+                        },
+                        "description": {
+                            "text": "FLEXIBLE RATE*BEST LEAST RESTRICTIVE RATE\n1 DOUBLE BED,STND,BATHRM"
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "base": "80.00",
+                        "total": "81.65",
+                        "variations": {
+                            "average": {
+                                "base": "80.00"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "base": "80.00"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "paymentType": "guarantee",
+                        "cancellation": {
+                            "deadline": "2021-04-18T16:00:00+02:00"
+                        }
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=BWPAR456"
+        },
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "RTPARMMP",
+                "chainCode": "RT",
+                "dupeId": "700092109",
+                "name": "ibis Paris Maine Montparnasse 14ème",
+                "rating": "3",
+                "cityCode": "PAR",
+                "latitude": 48.83371,
+                "longitude": 2.32289,
+                "hotelDistance": {
+                    "distance": 4,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "160 RUE DU CHATEAU"
+                    ],
+                    "postalCode": "75014",
+                    "cityName": "PARIS",
+                    "countryCode": "FR"
+                },
+                "contact": {
+                    "phone": "33/1/43220009",
+                    "fax": "33/1/43202178",
+                    "email": "H0803@accor.com"
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "The ibis Paris Maine Montparnasse hotel is located in the center of Paris, just 1.2 miles from the Parc des Expositions, 3.1 miles from the Latin Quarter, 4.3 miles from the Champs-Elysées, and 12.4 miles from the airport. The hotel has 102 rooms with WIFI, 2 of which are suitable for people with reduced mobility. Facilities include a bar, 24-hour snack service, and a paying, covered, private car park (narrow entrance). A restaurant is located nearby. Pets are welcome. Our hotel is nonsmoking throughout,"
+                },
+                "amenities": [
+                    "ELEVATOR",
+                    "SAFE_DEPOSIT_BOX",
+                    "PARKING",
+                    "220_AC",
+                    "PETS_ALLOWED",
+                    "ACCESSIBLE_BATHS",
+                    "CONNECTING_ROOMS",
+                    "WIRELESS_CONNECTIVITY",
+                    "GARAGE_PARKING",
+                    "BUSINESS_CENTER",
+                    "BATH",
+                    "SHOWER",
+                    "WAKEUP_SERVICE",
+                    "DIRECT_DIAL_PHONE",
+                    "WI-FI_IN_ROOM",
+                    "CABLE_TELEVISION",
+                    "TELEVISION",
+                    "SATELLITE_TV",
+                    "FREE_NEWSPAPER",
+                    "SAFE",
+                    "NON_SMOKING_ROOMS"
+                ],
+                "media": [
+                    {
+                        "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/9CB1035B97B04B58AFB5B2526860DEB6",
+                        "category": "EXTERIOR"
+                    }
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "Q4VOBPD0KC",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "D20",
+                    "commission": {
+                        "amount": "0",
+                        "percentage": "0"
+                    },
+                    "room": {
+                        "type": "ROH",
+                        "typeEstimated": {
+                            "category": "STANDARD_ROOM"
+                        },
+                        "description": {
+                            "text": "Happy 20 Rate1234564569877896541-Room only\nRoom for 1 or 2 persons"
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "total": "69.00",
+                        "variations": {
+                            "average": {
+                                "base": "69.00"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "total": "69.00"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "holdTime": {
+                            "deadline": "2021-04-18T19:00:00"
+                        },
+                        "guarantee": {
+                            "acceptedPayments": {
+                                "creditCards": [
+                                    "AX",
+                                    "CA",
+                                    "DC",
+                                    "EC",
+                                    "IK",
+                                    "VI"
+                                ],
+                                "methods": [
+                                    "CREDIT_CARD"
+                                ]
+                            }
+                        },
+                        "paymentType": "guarantee"
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTPARMMP"
+        },
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "RTPARGMP",
+                "chainCode": "RT",
+                "dupeId": "700043330",
+                "name": "Novotel Paris Gare Montparnasse",
+                "rating": "4",
+                "cityCode": "PAR",
+                "latitude": 48.83845,
+                "longitude": 2.3152,
+                "hotelDistance": {
+                    "distance": 4.6,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "17 RUE DU COTENTIN"
+                    ],
+                    "postalCode": "75015",
+                    "cityName": "PARIS",
+                    "countryCode": "FR"
+                },
+                "contact": {
+                    "phone": "33/1/53912375",
+                    "fax": "33/1/53912376",
+                    "email": "H5060@accor.com"
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "The 4-star Novotel Paris Gare Montparnasse is located in the center of Paris in the Montparnasse district, close to Montparnasse station. It is easily accessed by metro (lines 4, 6, 12 & 13) and close to numerous tourist attractions, including the EiffelTower, Saint-Germain-des-Prés, the Galeries Lafayette and the Quai Branly Museum. The hotel is fully air-conditioned and offers family rooms, restaurant, bar, 4 meeting rooms, private paying car park, fitness center with terrace and free high-speed WIFI."
+                },
+                "amenities": [
+                    "ELEVATOR",
+                    "SAFE_DEPOSIT_BOX",
+                    "ROOM_SERVICE",
+                    "PARKING",
+                    "220_AC",
+                    "PETS_ALLOWED",
+                    "120_AC",
+                    "ACCESSIBLE_BATHS",
+                    "WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+                    "DISABLED_FACILITIES",
+                    "TOUR_DESK",
+                    "WIRELESS_CONNECTIVITY",
+                    "KIDS_WELCOME",
+                    "LOUNGE",
+                    "EXPRESS_CHECK_OUT",
+                    "DOCTOR_ON_CALL",
+                    "BUS_PARKING",
+                    "24_HOUR_FRONT_DESK",
+                    "CONNECTING_ROOMS",
+                    "PORTER/BELLBOY",
+                    "SMOKE_DETECTOR",
+                    "FIRE_SAFETY",
+                    "EMERGENCY_BACKUP_GENERATOR",
+                    "FIRE_DETECTORS",
+                    "EMERGENCY_LIGHTING",
+                    "GARAGE_PARKING",
+                    "RESTAURANT",
+                    "PHOTOCOPIER",
+                    "MEETING_FACILITIES",
+                    "MEETING_ROOMS",
+                    "BUSINESS_CENTER",
+                    "HIGH_SPEED_INTERNET_IN_ROOM",
+                    "BATH",
+                    "CRIBS_AVAILABLE",
+                    "ALARM_CLOCK",
+                    "WAKEUP_SERVICE",
+                    "VOICEMAIL_IN_ROOM",
+                    "WI-FI_IN_ROOM",
+                    "HAIR_DRYER",
+                    "CABLE_TELEVISION",
+                    "TELEVISION",
+                    "SATELLITE_TV",
+                    "DIRECT_DIAL_PHONE",
+                    "AIR_CONDITIONING",
+                    "SAFE",
+                    "NON_SMOKING_ROOMS"
+                ],
+                "media": [
+                    {
+                        "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/2DCDE524F7C7407DA97FE86F1201231D",
+                        "category": "EXTERIOR"
+                    }
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "GZBD7PGD4B",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "RA1",
+                    "rateFamilyEstimated": {
+                        "code": "BAR",
+                        "type": "P"
+                    },
+                    "commission": {
+                        "amount": "6.00"
+                    },
+                    "room": {
+                        "type": "S1D",
+                        "typeEstimated": {
+                            "category": "SUITE",
+                            "beds": 1,
+                            "bedType": "DOUBLE"
+                        },
+                        "description": {
+                            "text": "FLEXIBLE RATE-Room only\nSuperior Suite with one double bed"
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "total": "100.00",
+                        "variations": {
+                            "average": {
+                                "base": "100.00"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "total": "100.00"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "holdTime": {
+                            "deadline": "2021-04-18T18:00:00"
+                        },
+                        "guarantee": {
+                            "acceptedPayments": {
+                                "creditCards": [
+                                    "AX",
+                                    "CA",
+                                    "DC",
+                                    "EC",
+                                    "IK",
+                                    "VI"
+                                ],
+                                "methods": [
+                                    "TRAVEL_AGENT_ID",
+                                    "CREDIT_CARD"
+                                ]
+                            }
+                        },
+                        "paymentType": "guarantee",
+                        "cancellation": {
+                            "deadline": "2021-04-17T00:00:00+02:00"
+                        }
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTPARGMP"
+        },
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "RTPARIVR",
+                "chainCode": "RT",
+                "dupeId": "700080433",
+                "name": "Hôtel Mercure Paris Ivry Quai de Seine",
+                "rating": "4",
+                "cityCode": "PAR",
+                "latitude": 48.8183,
+                "longitude": 2.40024,
+                "hotelDistance": {
+                    "distance": 4.9,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "5 ALLEE DE LA SEINE"
+                    ],
+                    "postalCode": "94200",
+                    "cityName": "IVRY SUR SEINE",
+                    "countryCode": "FR"
+                },
+                "contact": {
+                    "phone": "33/1/46701717",
+                    "fax": "33/1/46701919",
+                    "email": "H6357@accor.com"
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "Near the Grande Bibliothèque and the Bercy district, your Mercure hotel is also accessible from various highway networks. Enjoy an intimate and cozy atmosphere in one of the contemporary rooms in this 100% non-smoking hotel. Combine relaxation and pleasure and enjoy a French specialty or a drink in our restaurant. Also take advantage of our free covered car park."
+                },
+                "amenities": [
+                    "ELEVATOR",
+                    "SAFE_DEPOSIT_BOX",
+                    "ROOM_SERVICE",
+                    "INTERNET_SERVICES",
+                    "220_AC",
+                    "PARKING",
+                    "PETS_ALLOWED",
+                    "ACCESSIBLE_BATHS",
+                    "ADAPTED_PHONES",
+                    "WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+                    "DISABLED_FACILITIES",
+                    "WIRELESS_CONNECTIVITY",
+                    "LOUNGE",
+                    "DOCTOR_ON_CALL",
+                    "BUS_PARKING",
+                    "24_HOUR_FRONT_DESK",
+                    "GARAGE_PARKING",
+                    "SMOKE_DETECTOR",
+                    "FIRE_SAFETY",
+                    "EMERGENCY_BACKUP_GENERATOR",
+                    "FIRE_DETECTORS",
+                    "EMERGENCY_LIGHTING",
+                    "RESTAURANT",
+                    "PHOTOCOPIER",
+                    "OVERHEAD_PROJECTOR",
+                    "MEETING_FACILITIES",
+                    "MEETING_ROOMS",
+                    "BATH",
+                    "ALARM_CLOCK",
+                    "WAKEUP_SERVICE",
+                    "WI-FI_IN_ROOM",
+                    "HAIR_DRYER",
+                    "CABLE_TELEVISION",
+                    "TELEVISION",
+                    "SATELLITE_TV",
+                    "AIR_CONDITIONING",
+                    "FREE_NEWSPAPER",
+                    "SAFE",
+                    "NON_SMOKING_ROOMS"
+                ],
+                "media": [
+                    {
+                        "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/5C94B9A87FB84922855C810178579A48",
+                        "category": "EXTERIOR"
+                    }
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "CEOCEF4MCU",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "EAM",
+                    "commission": {
+                        "amount": "0",
+                        "percentage": "0"
+                    },
+                    "room": {
+                        "type": "C2T",
+                        "typeEstimated": {
+                            "category": "STANDARD_ROOM",
+                            "beds": 2,
+                            "bedType": "SINGLE"
+                        },
+                        "description": {
+                            "text": "Mercure Breaks-Early / RO-Room only\nStandard room with 2 single beds"
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "total": "91.00",
+                        "variations": {
+                            "average": {
+                                "base": "91.00"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "total": "91.00"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "deposit": {
+                            "acceptedPayments": {
+                                "creditCards": [
+                                    "AX",
+                                    "CA",
+                                    "DC",
+                                    "EC",
+                                    "IK",
+                                    "VI"
+                                ],
+                                "methods": [
+                                    "CREDIT_CARD"
+                                ]
+                            }
+                        },
+                        "paymentType": "deposit",
+                        "cancellation": {
+                            "deadline": "2021-04-17T00:00:00+02:00"
+                        }
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTPARIVR"
+        },
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "RTPARPPB",
+                "chainCode": "RT",
+                "dupeId": "700024247",
+                "name": "ibis Paris Porte de Bercy",
+                "rating": "3",
+                "cityCode": "PAR",
+                "latitude": 48.82524,
+                "longitude": 2.39413,
+                "hotelDistance": {
+                    "distance": 4.9,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "2 PLACE DE L EUROPE"
+                    ],
+                    "postalCode": "94220",
+                    "cityName": "CHARENTON LE PONT",
+                    "countryCode": "FR"
+                },
+                "contact": {
+                    "phone": "33/1/49775555",
+                    "fax": "33/1/49778191",
+                    "email": "H2041-RE@accor.com"
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "The Ibis Paris Porte de Bercy is located next to the Bercy 2 Shopping Centre at Charenton le Pont. Nearby attractions include Bercy Village, the Palais Omnisport de Bercy events centre and the Bois de Vincennes a few minutes away by public transport, which also provides easy access to the delights of Paris. The hotel offers 156 airconditioned rooms, 6 conference rooms, secure pay parking, a restaurant and a bar."
+                },
+                "amenities": [
+                    "ELEVATOR",
+                    "SAFE_DEPOSIT_BOX",
+                    "PARKING",
+                    "220_AC",
+                    "PETS_ALLOWED",
+                    "ACCESSIBLE_BATHS",
+                    "WIRELESS_CONNECTIVITY",
+                    "RESTAURANT",
+                    "MEETING_FACILITIES",
+                    "MEETING_ROOMS",
+                    "BUSINESS_CENTER",
+                    "BATH",
+                    "WAKEUP_SERVICE",
+                    "DIRECT_DIAL_PHONE",
+                    "WI-FI_IN_ROOM",
+                    "HAIR_DRYER",
+                    "CABLE_TELEVISION",
+                    "TELEVISION",
+                    "SATELLITE_TV",
+                    "CRIBS_AVAILABLE",
+                    "AIR_CONDITIONING",
+                    "NON_SMOKING_ROOMS"
+                ],
+                "media": [
+                    {
+                        "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/5774BE174DB64111A2E04C2F094BADE1",
+                        "category": "EXTERIOR"
+                    }
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "WYAX5IMQ1C",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "RDP",
+                    "rateFamilyEstimated": {
+                        "code": "RAC",
+                        "type": "P"
+                    },
+                    "commission": {
+                        "percentage": "10.00"
+                    },
+                    "room": {
+                        "type": "ROH",
+                        "typeEstimated": {
+                            "category": "STANDARD_ROOM"
+                        },
+                        "description": {
+                            "text": "Rack Rate-Room only\nRoom for 1 or 2 persons"
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "total": "100.00",
+                        "variations": {
+                            "average": {
+                                "base": "100.00"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "total": "100.00"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "holdTime": {
+                            "deadline": "2021-04-18T19:00:00"
+                        },
+                        "guarantee": {
+                            "acceptedPayments": {
+                                "creditCards": [
+                                    "AX",
+                                    "CA",
+                                    "DC",
+                                    "EC",
+                                    "IK",
+                                    "VI"
+                                ],
+                                "methods": [
+                                    "CREDIT_CARD"
+                                ]
+                            }
+                        },
+                        "paymentType": "guarantee",
+                        "cancellation": {
+                            "deadline": "2021-04-18T17:00:00+02:00"
+                        }
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTPARPPB"
+        },
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "PUPARPBR",
+                "chainCode": "PU",
+                "dupeId": "700024475",
+                "name": "Pullman Paris Centre Bercy",
+                "rating": "4",
+                "cityCode": "PAR",
+                "latitude": 48.83152,
+                "longitude": 2.38708,
+                "hotelDistance": {
+                    "distance": 4.9,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "1 RUE DE LIBOURNE",
+                        "1 AV TERROIRS DE FRANCE (POST)"
+                    ],
+                    "postalCode": "75012",
+                    "cityName": "PARIS",
+                    "countryCode": "FR"
+                },
+                "contact": {
+                    "phone": "33/1/44673400",
+                    "fax": "33/1/44673401",
+                    "email": "H2192@accor.com"
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "The 4-star Pullman Paris Centre - Bercy hotel is fully renovated and is just a stone's throw from the Palais Omnisport arena and Bercy Village. Admire its bright and modern design, the vibrant atmosphere of the bar, and indulge in the restaurant's tasty cuisine. For a weekend in the city or business meetings, the hotel offers quick access to the center of Paris, the Gare de Lyon and the airports. The Pullman Paris Centre - Bercy hotel boasts 17 meeting rooms, a 300-seat amphitheater and a gym with sauna."
+                },
+                "amenities": [
+                    "ELEVATOR",
+                    "SAUNA",
+                    "ROOM_SERVICE",
+                    "220_AC",
+                    "120_AC",
+                    "EXPRESS_CHECK_IN",
+                    "EXPRESS_CHECK_OUT",
+                    "BUS_PARKING",
+                    "PORTER/BELLBOY",
+                    "SMOKE_DETECTOR",
+                    "FIRE_SAFETY",
+                    "FIRE_DETECTORS",
+                    "EMERGENCY_LIGHTING",
+                    "MULTILINGUAL_STAFF",
+                    "MASSAGE",
+                    "VALET_PARKING",
+                    "INTERNET_SERVICES",
+                    "PARKING",
+                    "PETS_ALLOWED",
+                    "ACCESSIBLE_BATHS",
+                    "ADAPTED_PHONES",
+                    "WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+                    "DISABLED_FACILITIES",
+                    "CONCIERGE",
+                    "EXCHANGE_FACILITIES",
+                    "LOUNGE",
+                    "DOCTOR_ON_CALL",
+                    "24_HOUR_FRONT_DESK",
+                    "CONNECTING_ROOMS",
+                    "GARAGE_PARKING",
+                    "RESTAURANT",
+                    "SECRETARIAL_SERVICES",
+                    "OVERHEAD_PROJECTOR",
+                    "MEETING_FACILITIES",
+                    "MEETING_ROOMS",
+                    "BUSINESS_CENTER",
+                    "AUDIO-VISUAL_EQUIPMENT",
+                    "HIGH_SPEED_INTERNET_IN_ROOM",
+                    "BATH",
+                    "CRIBS_AVAILABLE",
+                    "ALARM_CLOCK",
+                    "WAKEUP_SERVICE",
+                    "VOICEMAIL_IN_ROOM",
+                    "WI-FI_IN_ROOM",
+                    "DIRECT_DIAL_PHONE",
+                    "HAIR_DRYER",
+                    "AIR_CONDITIONING",
+                    "SAFE",
+                    "NON_SMOKING_ROOMS",
+                    "BOATING",
+                    "WATER_SPORTS"
+                ],
+                "media": [
+                    {
+                        "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/C810468E535C4D92BEF358BC79A30F65",
+                        "category": "EXTERIOR"
+                    }
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "PYHB4081BV",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "PVG",
+                    "rateFamilyEstimated": {
+                        "code": "PKG",
+                        "type": "P"
+                    },
+                    "commission": {
+                        "percentage": "10.00"
+                    },
+                    "boardType": "BREAKFAST",
+                    "room": {
+                        "type": "B1D",
+                        "typeEstimated": {
+                            "category": "SUPERIOR_ROOM",
+                            "beds": 1,
+                            "bedType": "KING"
+                        },
+                        "description": {
+                            "text": "Privileged-BB/Bed+Brkfast\nSUPERIOR ROOM, 1 King Size Bed and 1 Single Siz\ne Bed"
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "total": "202.40",
+                        "variations": {
+                            "average": {
+                                "base": "202.40"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "total": "202.40"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "holdTime": {
+                            "deadline": "2021-04-18T18:00:00"
+                        },
+                        "guarantee": {
+                            "acceptedPayments": {
+                                "creditCards": [
+                                    "AX",
+                                    "BF",
+                                    "CA",
+                                    "DC",
+                                    "EC",
+                                    "IK",
+                                    "JC",
+                                    "VI"
+                                ],
+                                "methods": [
+                                    "TRAVEL_AGENT_ID",
+                                    "CREDIT_CARD"
+                                ]
+                            }
+                        },
+                        "paymentType": "guarantee",
+                        "cancellation": {
+                            "deadline": "2021-04-17T00:00:00+02:00"
+                        }
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=PUPARPBR"
+        },
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "BWPAR578",
+                "chainCode": "BW",
+                "dupeId": "700024479",
+                "name": "Best Western Plus Quartier Latin Pantheon",
+                "rating": "3",
+                "cityCode": "PAR",
+                "latitude": 48.84367,
+                "longitude": 2.35232,
+                "hotelDistance": {
+                    "distance": 4.9,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "71 RUE MONGE"
+                    ],
+                    "postalCode": "75005",
+                    "cityName": "PARIS",
+                    "countryCode": "FR"
+                },
+                "contact": {
+                    "phone": "+33 1 43312564",
+                    "fax": "+33 1 43311146",
+                    "email": "quartier-latin@my-paris-hotel.com"
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "Ideally located in the heart of the Latin Quarter, within walking distance from the rue Mouffetard, The Pantheon, the Botanical Gardens and the National History Museum, and Notre Dame Cathedral. The 37 guest rooms entirely air conditioned in 2005 and redecorated in a modern style in 2006, are all complete with private en suite bathrooms equipped with a bathtub or a shower and hairdryers, remote control cable TV, direct dial phones, automatic alarm clocks, air conditioning and a wireless Internet connection. Access : Métro : 7 Place Monge 10 : cardinal Lemoine Bus : 47, 67, 89 Gare : Austerlitz Gare : Lyon."
+                },
+                "amenities": [
+                    "MULTILINGUAL_STAFF",
+                    "ROOM_SERVICE",
+                    "SAFE_DEPOSIT_BOX",
+                    "FRONT_DESK",
+                    "ELEVATOR",
+                    "VIDEO_SURVEILANCE",
+                    "EMERGENCY_LIGHTING",
+                    "FIRE_DETECTORS",
+                    "SMOKE_DETECTOR",
+                    "PRINTER",
+                    "HAIR_DRYER",
+                    "CABLE_TELEVISION",
+                    "AIR_CONDITIONING",
+                    "HIGH_SPEED_INTERNET_IN_ROOM",
+                    "CRIBS_AVAILABLE",
+                    "VIDEO",
+                    "FAX_MACHINE",
+                    "ALARM_CLOCK",
+                    "TEA/COFFEE_MAKER",
+                    "SIGHTSEEING"
+                ],
+                "media": [
+                    {
+                        "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/30BA9B500CB948DF83378124E8EACE58",
+                        "category": "ROOM"
+                    }
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "P7ZWBWNPZK",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "RAC",
+                    "rateFamilyEstimated": {
+                        "code": "BAR",
+                        "type": "P"
+                    },
+                    "commission": {
+                        "percentage": "10"
+                    },
+                    "room": {
+                        "type": "B1Q",
+                        "typeEstimated": {
+                            "category": "STANDARD_ROOM",
+                            "beds": 1,
+                            "bedType": "QUEEN"
+                        },
+                        "description": {
+                            "text": "FLEXIBLE RATE*BEST LEAST RESTRICTIVE RATE\n1 QUEEN BED,NSMK,SUPER,ITASWR"
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "base": "129.00",
+                        "total": "130.65",
+                        "variations": {
+                            "average": {
+                                "base": "129.00"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "base": "129.00"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "holdTime": {
+                            "deadline": "2021-04-18T16:00:00"
+                        },
+                        "paymentType": "holdTime",
+                        "cancellation": {
+                            "deadline": "2021-04-18T16:00:00+02:00"
+                        }
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=BWPAR578"
+        },
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "RTPARVGR",
+                "chainCode": "RT",
+                "dupeId": "700048021",
+                "name": "Novotel Paris Vaugirard Montparnasse",
+                "rating": "4",
+                "cityCode": "PAR",
+                "latitude": 48.83997,
+                "longitude": 2.30303,
+                "hotelDistance": {
+                    "distance": 5.2,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "257 RUE DE VAUGIRARD"
+                    ],
+                    "postalCode": "75015",
+                    "cityName": "PARIS",
+                    "countryCode": "FR"
+                },
+                "contact": {
+                    "phone": "33/1/40451000",
+                    "fax": "33/1/40451010",
+                    "email": "H1978@accor.com"
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "The Hotel Novotel Paris Vaugirard Montparnasse is located in the center of Paris between Montparnasse station, the Eiffel Tower and the Porte de Versailles exhibition center. This 4-star hotel is easily accessible by metro and has a convention center andmeeting rooms with views of the Eiffel Tower, making it ideal for seminars. Facilities include a private car park, restaurant-bar with terrace, children's games, fitness room, sauna and free WIFI."
+                },
+                "amenities": [
+                    "ELEVATOR",
+                    "SAUNA",
+                    "ROOM_SERVICE",
+                    "220_AC",
+                    "PARKING",
+                    "PETS_ALLOWED",
+                    "ACCESSIBLE_BATHS",
+                    "WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+                    "DISABLED_FACILITIES",
+                    "TOUR_DESK",
+                    "WIRELESS_CONNECTIVITY",
+                    "KIDS_WELCOME",
+                    "LOUNGE",
+                    "CHILDRENS_PLAY_AREA",
+                    "24_HOUR_FRONT_DESK",
+                    "GARAGE_PARKING",
+                    "SMOKE_DETECTOR",
+                    "FIRE_SAFETY",
+                    "EMERGENCY_BACKUP_GENERATOR",
+                    "FIRE_DETECTORS",
+                    "EMERGENCY_LIGHTING",
+                    "BABY-SITTING",
+                    "RESTAURANT",
+                    "SECRETARIAL_SERVICES",
+                    "PHOTOCOPIER",
+                    "OVERHEAD_PROJECTOR",
+                    "MEETING_FACILITIES",
+                    "MEETING_ROOMS",
+                    "BUSINESS_CENTER",
+                    "IRON/IRON_BOARD",
+                    "BATH",
+                    "CRIBS_AVAILABLE",
+                    "ALARM_CLOCK",
+                    "WAKEUP_SERVICE",
+                    "HAIR_DRYER",
+                    "CABLE_TELEVISION",
+                    "TELEVISION",
+                    "SATELLITE_TV",
+                    "DIRECT_DIAL_PHONE",
+                    "FREE_NEWSPAPER",
+                    "SAFE",
+                    "NON_SMOKING_ROOMS"
+                ],
+                "media": [
+                    {
+                        "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/8748FD4DE49B4572A3F3FA2BE7908899",
+                        "category": "EXTERIOR"
+                    }
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "92QUEDUA29",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "RDI",
+                    "rateFamilyEstimated": {
+                        "code": "RAC",
+                        "type": "P"
+                    },
+                    "commission": {
+                        "amount": "0",
+                        "percentage": "0"
+                    },
+                    "room": {
+                        "type": "B2T",
+                        "typeEstimated": {
+                            "category": "SUPERIOR_ROOM",
+                            "beds": 2,
+                            "bedType": "TWIN"
+                        },
+                        "description": {
+                            "text": "Rack rate-Room only\nSuperior Room with twin beds"
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "total": "350.00",
+                        "variations": {
+                            "average": {
+                                "total": "350.00"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "total": "350.00"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "deposit": {
+                            "acceptedPayments": {
+                                "creditCards": [
+                                    "AX",
+                                    "CA",
+                                    "DC",
+                                    "EC",
+                                    "IK",
+                                    "JC",
+                                    "VI"
+                                ],
+                                "methods": [
+                                    "CREDIT_CARD"
+                                ]
+                            }
+                        },
+                        "paymentType": "deposit",
+                        "cancellation": {
+                            "deadline": "2021-04-18T23:59:00+02:00"
+                        }
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTPARVGR"
+        },
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "HIPAR8E5",
+                "chainCode": "HI",
+                "dupeId": "700008374",
+                "name": "HOLIDAY INN ST GERMAIN DES PRE",
+                "rating": "3",
+                "cityCode": "PAR",
+                "latitude": 48.84654,
+                "longitude": 2.32521,
+                "hotelDistance": {
+                    "distance": 5.3,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "92 RUE DE VAUGIRARD"
+                    ],
+                    "postalCode": "75006",
+                    "cityName": "PARIS",
+                    "countryCode": "FR"
+                },
+                "contact": {
+                    "phone": "+33 1 49548700",
+                    "fax": "+33 1 49548701"
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "Welcome to HOLIDAY INN Paris St Germain des Pr?s.  Ideally situated in the heart of La Rive Gauche and after a thorough refurbishment  the hotel is only a few minutes from the business centre and railway station of Montparnasse as well as the well known Latin Quarter of Paris.  With the Place Saint Germain des Pr?s also very close, renowned meeting point with restaurants and bars not forgetting the many boutiques on the Boulevard Saint Germain and the excellent shopping centre of Le Bon March?.  The hotel is also very close to many tourist attractions  such as Orsay and Louvre Museums Luxemburg Gardens the Banks of the Seine river Notre Dame Cathedral Pantheon.  All this gives us a prime address in the centre of Paris.  Easy access from Orly and Charles de Gaulle airports by RER train bus or taxi, the hotel is only two  minutes from the St Placide station metro line four.  The hotel has two meeting rooms for seminars and conferences being able to welcome up to fifty persons  Stylish four star hotel ideally located in the heart of Paris few steps away from the bustling and chic area of Saint Germain des Pr?s and from the Montparnasse connected business district and Train station"
+                },
+                "amenities": [
+                    "24_HOUR_FRONT_DESK",
+                    "24_HOUR_ROOM_SERVICE",
+                    "ATM/CASH_MACHINE",
+                    "BABY-SITTING",
+                    "CAR_RENTAL",
+                    "CONCIERGE",
+                    "CONFERENCE_FACILITIES",
+                    "EXCHANGE_FACILITIES",
+                    "DOCTOR_ON_CALL",
+                    "EXECUTIVE_FLOOR",
+                    "GYM",
+                    "ACCESSIBLE_FACILITIES",
+                    "WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+                    "HANDRAILS_BATHROOM",
+                    "ACCESSIBLE_PARKING",
+                    "WHEELCHAIR_ACCESSIBLE_ROOM",
+                    "GARAGE_PARKING",
+                    "JOGGING_TRACK",
+                    "LAUNDRY_SERVICE",
+                    "ON-SITE_PARKING",
+                    "PARKING",
+                    "SAFE_DEPOSIT_BOX",
+                    "DRY_CLEANING",
+                    "FRONT_DESK",
+                    "WIRELESS_CONNECTIVITY",
+                    "CHILDRENS_PLAY_AREA",
+                    "NURSERY",
+                    "HIGH_SPEED_WIRELESS",
+                    "FEMA_FIRE_SAFETY_COMPLIANT",
+                    "PHOTOCOPIER",
+                    "PRINTER",
+                    "AUDIO-VISUAL_EQUIPMENT",
+                    "BUSINESS_CENTER",
+                    "COMPUTER_RENTAL",
+                    "LCD/PROJECTOR",
+                    "OVERHEAD_PROJECTOR",
+                    "MEETING_FACILITIES",
+                    "FIRE_SAFETY",
+                    "EMERGENCY_BACKUP_GENERATOR",
+                    "EMERGENCY_LIGHTING",
+                    "FIRE_DETECTORS",
+                    "VIDEO_SURVEILANCE",
+                    "EXTINGUISHERS",
+                    "FEMA_FIRE_SAFETY_COMPLIANT",
+                    "BOATING",
+                    "FISHING",
+                    "FITNESS_CENTER"
+                ],
+                "media": [
+                    {
+                        "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/A139B62D62254ED6B8A6EF0F0D4FB7DF",
+                        "category": "EXTERIOR"
+                    }
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "GQN766Q0SU",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "22A",
+                    "rateFamilyEstimated": {
+                        "code": "BAR",
+                        "type": "P"
+                    },
+                    "room": {
+                        "type": "*1Q",
+                        "typeEstimated": {
+                            "category": "STANDARD_ROOM",
+                            "beds": 1,
+                            "bedType": "QUEEN"
+                        },
+                        "description": {
+                            "text": "BEST FLEXIBLE RATE\nQUEEN BED DESIGN NONSMOKING STAY CONNECTED\nTHROUGH HIGH SPEED INTERNET ACCESS IN YOUR"
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "base": "189.00",
+                        "total": "191.88",
+                        "variations": {
+                            "average": {
+                                "base": "189.00"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "base": "189.00"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "guarantee": {
+                            "acceptedPayments": {
+                                "creditCards": [
+                                    "AX",
+                                    "VI",
+                                    "CA"
+                                ],
+                                "methods": [
+                                    "CREDIT_CARD"
+                                ]
+                            }
+                        },
+                        "paymentType": "guarantee",
+                        "cancellation": {
+                            "numberOfNights": 1,
+                            "deadline": "2021-04-16T16:42:00+02:00"
+                        }
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=HIPAR8E5"
+        }
+    ],
+    [
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "RTORYISS",
+                "chainCode": "RT",
+                "dupeId": "700091457",
+                "name": "ibis Paris Porte de Versailles Mairie d'Issy",
+                "rating": "3",
+                "cityCode": "ORY",
+                "latitude": 48.82315,
+                "longitude": 2.2749,
+                "hotelDistance": {
+                    "distance": 5.4,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "15 AVENUE JEAN JAURES"
+                    ],
+                    "postalCode": "92130",
+                    "cityName": "ISSY LES MOULINEAUX",
+                    "countryCode": "FR"
+                },
+                "contact": {
+                    "phone": "33/1/46383000",
+                    "fax": "33/1/46383807",
+                    "email": "H1402@accor.com"
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "The ibis Paris Porte de Versailles hotel is located in the centre of Issy les Moulineaux, 15 km from the airport and 1 km from the Exhibition Centre of Porte de Versailles. You are close to Aquaboulevard (2 km), Montparnasse (5 km) and the Opera House (7km). The hotel has 78 air-conditioned rooms with Wifi Internet access, including 2 adapted for disabled persons. A bar, snacks 24/24, and covered pay parking are at your disposal. You can book 2 meeting rooms."
+                },
+                "amenities": [
+                    "ELEVATOR",
+                    "24_HOUR_FRONT_DESK",
+                    "SAFE_DEPOSIT_BOX",
+                    "PARKING",
+                    "220_AC",
+                    "PETS_ALLOWED",
+                    "ACCESSIBLE_BATHS",
+                    "WIRELESS_CONNECTIVITY",
+                    "SMOKE_DETECTOR",
+                    "FIRE_SAFETY",
+                    "FIRE_DETECTORS",
+                    "EMERGENCY_LIGHTING",
+                    "GARAGE_PARKING",
+                    "BUS_PARKING",
+                    "MEETING_FACILITIES",
+                    "MEETING_ROOMS",
+                    "BATH",
+                    "SHOWER",
+                    "DIRECT_DIAL_PHONE",
+                    "WI-FI_IN_ROOM",
+                    "WAKEUP_SERVICE",
+                    "CABLE_TELEVISION",
+                    "TELEVISION",
+                    "SATELLITE_TV",
+                    "AIR_CONDITIONING",
+                    "SAFE",
+                    "NON_SMOKING_ROOMS"
+                ],
+                "media": [
+                    {
+                        "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/B1E1E440896047D6A2F7FF8B3EB83D67",
+                        "category": "EXTERIOR"
+                    }
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "OV9DWF0SFB",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "D20",
+                    "commission": {
+                        "amount": "0",
+                        "percentage": "0"
+                    },
+                    "room": {
+                        "type": "ROH",
+                        "typeEstimated": {
+                            "category": "STANDARD_ROOM"
+                        },
+                        "description": {
+                            "text": "Happy 20 Rate1234564569877896541-Room only\nRoom for 1 or 2 persons"
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "base": "69.00",
+                        "total": "69.13",
+                        "variations": {
+                            "average": {
+                                "base": "69.00"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "base": "69.00"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "holdTime": {
+                            "deadline": "2021-04-18T19:00:00"
+                        },
+                        "guarantee": {
+                            "acceptedPayments": {
+                                "creditCards": [
+                                    "AX",
+                                    "BF",
+                                    "CA",
+                                    "DC",
+                                    "EC",
+                                    "IK",
+                                    "VI"
+                                ],
+                                "methods": [
+                                    "CREDIT_CARD"
+                                ]
+                            }
+                        },
+                        "paymentType": "guarantee"
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTORYISS"
+        },
+        {
+            "type": "hotel-offers",
+            "hotel": {
+                "type": "hotel",
+                "hotelId": "RTPARSOR",
+                "chainCode": "RT",
+                "dupeId": "700043120",
+                "name": "Hotel de Test",
+                "rating": "5",
+                "cityCode": "PAR",
+                "latitude": 48.84917,
+                "longitude": 2.34301,
+                "hotelDistance": {
+                    "distance": 5.5,
+                    "distanceUnit": "KM"
+                },
+                "address": {
+                    "lines": [
+                        "14 RUE DE LA SORBONNE"
+                    ],
+                    "postalCode": "75005",
+                    "cityName": "PARIS",
+                    "countryCode": "FR"
+                },
+                "contact": {
+                    "phone": "0810515253",
+                    "fax": "0810515254",
+                    "email": "Papa.Noel@free.fr"
+                },
+                "description": {
+                    "lang": "en",
+                    "text": "Voici une description normale de notre hotel. Il est situe dans une foret, dispose d une piscine chauffee et de chambres toutes tres spacieuses et calmes"
+                },
+                "amenities": [
+                    "ELEVATOR",
+                    "24_HOUR_FRONT_DESK",
+                    "24_HOUR_ROOM_SERVICE",
+                    "CONNECTING_ROOMS",
+                    "AIRLINE_DESK",
+                    "ATM/CASH_MACHINE",
+                    "BABY-SITTING",
+                    "PHOTOCOPIER",
+                    "PRINTER",
+                    "AUDIO-VISUAL_EQUIPMENT",
+                    "WHITE/BLACKBOARD",
+                    "BUSINESS_CENTER",
+                    "CELLULAR_PHONE_RENTAL",
+                    "COMPUTER_RENTAL",
+                    "EXECUTIVE_DESK",
+                    "LCD/PROJECTOR",
+                    "MEETING_ROOMS",
+                    "OVERHEAD_PROJECTOR",
+                    "SECRETARIAL_SERVICES",
+                    "CONFERENCE_SUITE",
+                    "CONVENTION_CENTRE",
+                    "MEETING_FACILITIES",
+                    "FIRE_SAFETY",
+                    "EMERGENCY_BACKUP_GENERATOR",
+                    "EMERGENCY_LIGHTING",
+                    "FIRE_DETECTORS",
+                    "GUARDED_PARKING",
+                    "RESTRICTED_PUBLIC_ACCESS",
+                    "EXTERIOR_ROOM_ENTRY",
+                    "INTERIOR_ROOM_ENTRY",
+                    "SMOKE_DETECTOR",
+                    "ROOMS_WITH_BALCONIES",
+                    "SPRINKLERS",
+                    "FIRST_AID_STAF",
+                    "SECURITY_GUARD",
+                    "VIDEO_SURVEILANCE",
+                    "EXTINGUISHERS",
+                    "FEMA_FIRE_SAFETY_COMPLIANT",
+                    "FIRE_SAFETY_NOT_STANDARD",
+                    "WHEELCHAIR_ACCESSIBLE_WASHBASIN",
+                    "DISABLED_FACILITIES",
+                    "WHEELCHAIR_ACCESSIBLE_LIGHT_SWITCH",
+                    "WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+                    "SERVICE_DOGS_ALLOWED",
+                    "DISABLED_ACCESSIBLE_TOILETS",
+                    "HANDRAILS_BATHROOM",
+                    "ADAPTED_PHONES",
+                    "WHEELCHAIR_ACCESSIBLE_ELEVATORS",
+                    "TV_SUBTITLES/CAPTION",
+                    "ACCESSIBLE_PARKING",
+                    "EMERGENCY_CORD/BUTTON_BATHROOM",
+                    "EMERGENCY_PLAN_FOR_DISABLED",
+                    "HEARING_INDUCTION_LOOPS",
+                    "BRAILLE/LARGE_PRINT_MENU",
+                    "DISABLED_TRAINED_STAFF",
+                    "VIBRATING_PILLOWS_AVAILABLE",
+                    "ACCESSIBLE_BATH_CONTROLS",
+                    "ACCESSIBLE_BATHS",
+                    "BRAILLE/LARGE_PRINT_LITERATURE",
+                    "ADAPT_ROOM_DOORS",
+                    "WHEELCHAIR_ACCESSIBLE_ROOM",
+                    "SPECIAL_NEEDS_MENU",
+                    "WIDE_ENTRANCE",
+                    "WIDE_CORRIDORS",
+                    "WIDE_RESTAURANT_ENTRANCE",
+                    "AIR_CONDITIONING",
+                    "ALARM_CLOCK",
+                    "BABY_LISTENING_DEVICE",
+                    "BATH",
+                    "BIDET",
+                    "CABLE_TELEVISION",
+                    "CRIBS_AVAILABLE",
+                    "BEACH",
+                    "BOATING",
+                    "BOWLING",
+                    "FISHING",
+                    "GOLF",
+                    "GOLF",
+                    "FITNESS_CENTER"
+                ]
+            },
+            "available": true,
+            "offers": [
+                {
+                    "id": "78217R2DSU",
+                    "checkInDate": "2021-04-18",
+                    "checkOutDate": "2021-04-19",
+                    "rateCode": "EAM",
+                    "commission": {
+                        "amount": "0",
+                        "percentage": "0"
+                    },
+                    "room": {
+                        "type": "A1D",
+                        "typeEstimated": {
+                            "category": "STANDARD_ROOM",
+                            "beds": 1,
+                            "bedType": "DOUBLE"
+                        },
+                        "description": {
+                            "text": "Mercure Breaks-Early / RO-Room only\nStandard Room"
+                        }
+                    },
+                    "guests": {
+                        "adults": 1
+                    },
+                    "price": {
+                        "currency": "EUR",
+                        "total": "164.50",
+                        "variations": {
+                            "average": {
+                                "base": "164.50"
+                            },
+                            "changes": [
+                                {
+                                    "startDate": "2021-04-18",
+                                    "endDate": "2021-04-19",
+                                    "total": "164.50"
+                                }
+                            ]
+                        }
+                    },
+                    "policies": {
+                        "holdTime": {
+                            "deadline": "2021-04-18T18:00:00"
+                        },
+                        "guarantee": {
+                            "acceptedPayments": {
+                                "creditCards": [
+                                    "AX",
+                                    "BF",
+                                    "CA",
+                                    "DC",
+                                    "EC",
+                                    "IK",
+                                    "JC",
+                                    "VI"
+                                ],
+                                "methods": [
+                                    "TRAVEL_AGENT_ID",
+                                    "CREDIT_CARD"
+                                ]
+                            }
+                        },
+                        "paymentType": "guarantee",
+                        "cancellation": {
+                            "deadline": "2021-04-17T00:00:00+02:00"
+                        }
+                    }
+                }
+            ],
+            "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTPARSOR"
+        }
+    ]
+]

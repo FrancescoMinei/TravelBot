@@ -6,17 +6,22 @@ const db = require('better-sqlite3')('./TravelBot.db', { verbose: console.log })
 const request = require('request');
 const express = require('express');
 
-
+//admin: modifica delle stringhe
 const WelcomeMsg = 'Benvenuto in TravelBot, ';
 const HelpMsg = 'La ricerca degli hotel va in base al codice IATA, il codice aereoportuale.';
-const View = 'Ecco il dataset con le città';
-const Send = 'Invia il codice di una città';
-const SendC = 'Invia le coordinate di una città ';
-const Search = 'Invia il nome di una città per verificare se contenuta del database';
-const Errore = 'Purtroppo non è stato trovato nessun hotel... ci dispiace';
-const ErroreC = 'Purtroppo non è stata trovata nessuna città... ci dispiace';
-const ErroreCord = 'Errore di inserimento nelle coordinate, riprovare';
+const View = 'Ecco il dataset con le città 😃';
+const Position = 'Ecco il metodo per inviare la propria posizione 🙃';
+const Send = 'Invia il codice di una città 🔢';
+const SendC = 'Invia le coordinate di una città 🌐';
+const Search = 'Invia il nome di una città per verificare se contenuta del database ✔️';
 const SearchC = 'Invia il nome di una città';
+const Searching = 'Sto cercando i migliori hotel... 🔄';
+const SendPosition = 'Invia la posizione. Se non sai come fare, digita /SendPosition'
+const Errore = 'Purtroppo non è stato trovato nessun hotel... ci dispiace 😭';
+const ErroreC = 'Purtroppo non è stata trovata nessuna città... ci dispiace 😭';
+const ErroreCord = 'Errore di inserimento nelle coordinate, riprovare ❌';
+const ErroreIata = 'Errore nell\'inserimento del codice, deve essere di tre caratteri e non può contenere numeri, riprovare ❌';
+
 
 var Amadeus = require('amadeus');
 const { default: booking } = require('amadeus/lib/amadeus/namespaces/booking');
@@ -24,7 +29,6 @@ var amadeus = new Amadeus({
     clientId: 'mhxawUm5tmcun1zoSB9kq9mk1YIIzCsV',
     clientSecret: 'dnFHZ9Lh7UYvrROT'
 });
-
 
 bot.onText(/\/start/, msg => {
     bot.sendMessage(msg.chat.id, WelcomeMsg + msg.from.first_name);
@@ -60,10 +64,10 @@ bot.onText(/\/code/, msg => {
         let handler = (msg) => {
             let city = msg.text.toString();
             if (CheckIataCode(city)) {
-                bot.sendMessage(msg.chat.id, "Sto cercando i migliori hotel...");
+                bot.sendMessage(msg.chat.id, Searching);
                 GetHotelJsonIata(city, msg.chat.id);
             } else {
-                bot.sendMessage(msg.chat.id, "Errore nell'inserimento del codice, deve essere di tre caratteri e non può contenere numeri");
+                bot.sendMessage(msg.chat.id, ErroreIata);
             }
             bot.removeListener("message", handler);
         }
@@ -82,7 +86,7 @@ bot.onText(/\/coordinates/, msg => {
                 let handler2 = (msg2) => {
                     let lon = parseFloat(msg2.text);
                     if (CheckCoordinate(lon)) {
-                        bot.sendMessage(msg.chat.id, "Sto cercando i migliori hotel...");
+                        bot.sendMessage(msg.chat.id, Searching);
                         let json = new Array;
                         amadeus.shopping.hotelOffers.get({
                             latitude: lat,
@@ -114,7 +118,7 @@ bot.onText(/\/coordinates/, msg => {
     });
 });
 
-bot.onText(/\/GetCoordinate/, msg => {
+bot.onText(/\/getCoordinate/, msg => {
     bot.sendMessage(msg.chat.id, SearchC).then(() => {
         let handler = (msg) => {
             let city = msg.text.toString();
@@ -123,6 +127,45 @@ bot.onText(/\/GetCoordinate/, msg => {
         }
         bot.on('message', handler);
     });
+});
+
+bot.onText(/\/position/, msg => {
+    bot.sendMessage(msg.chat.id, SendPosition).then(() => {
+        let handler = (msg) => {
+            let lat = parseFloat(msg.location.latitude).toFixed(1);
+            let lon = parseFloat(msg.location.longitude).toFixed(2);
+            console.log(lat, lon);
+            let json = new Array;
+            bot.sendMessage(msg.chat.id, Searching).then(() => {
+                amadeus.shopping.hotelOffers.get({
+                    latitude: lat,
+                    longitude: lon
+                }).then(function(response) {
+                    json.push(response.data);
+                    return amadeus.next(response);
+                }).then(function(nextResponse) {
+                    json.push(nextResponse.data);
+                    let result = GetName(json);
+                    if (result.length != 0)
+                        bot.sendMessage(msg.chat.id, result.toString());
+                }).catch(function(error) {
+                    console.log(error);
+                    bot.sendMessage(msg.chat.id, Errore);
+                });
+            });
+            bot.removeListener("location", handler);
+        };
+        bot.on('location', handler);
+    });
+});
+
+bot.onText(/\/SendPosition/, msg => {
+    //gif per inviare la posizione
+});
+
+bot.onText(/\/SendPosition/, msg => {
+    bot.sendMessage(msg.chat.id, Position);
+    bot.sendVideo(msg.chat.id, './positionINFO.mp4');
 });
 
 bot.onText(/\/test/, msg => {
@@ -144,15 +187,23 @@ function CheckIataCode(code) {
 }
 
 function GetName(json) {
-    console.log(json)
     let data = new String;
+    //fs.writeFileSync("arr.json", JSON.stringify(json, null, 4));
     json.forEach(x => {
         x.forEach(y => {
-            data += y.hotel.name.toString() + " 🏨\n" +
-                y.hotel.address.lines + " 🚄\n" +
-                y.hotel.contact.phone + " 📱\n" +
-                "Valutazione: " + y.hotel.rating + " ⭐\n" +
-                "---------------------" + "\n";
+            if (y.hotel.name != undefined) {
+                data += y.hotel.name.toString() + " 🏨\n";
+            }
+            if (y.hotel.address.lines[0] != undefined) {
+                data += y.hotel.address.lines[0] + " 🚄\n";
+            }
+            if (y.hotel.contact != undefined) {
+                data += y.hotel.contact.phone + " 📱\n";
+            }
+            if (y.hotel.rating != undefined) {
+                data += "Valutazione: " + y.hotel.rating + " ⭐\n";
+            }
+            data += "---------------------" + "\n";
         });
     });
     return data;
@@ -177,13 +228,6 @@ async function GetHotelJsonIata(city, id) {
             bot.sendMessage(id, result.toString());
         else
             bot.sendMessage(id, Errore);
-    });
-}
-
-
-async function GetRestaurantJsonData(city, id) {
-    return Promise.resolve('a').then(async function() {
-        //await amadeus.shopping.
     });
 }
 
