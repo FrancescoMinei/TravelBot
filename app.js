@@ -3,6 +3,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const token = '1731816120:AAE5UVzQb_KLw1oe_COPdkHnHG2hBJ7e2Xc';
 const bot = new TelegramBot(token, { polling: true });
 const db = require('better-sqlite3')('./TravelBot.db', { verbose: console.log });
+const fs = require('fs');
 const request = require('request');
 const express = require('express');
 
@@ -14,11 +15,15 @@ const Position = 'Ecco il metodo per inviare la propria posizione 🙃';
 const Send = 'Invia il codice di una città 🔢';
 const SendC = 'Invia le coordinate di una città 🌐';
 const Search = 'Invia il nome di una città per verificare se contenuta del database ✔️';
-const SearchC = 'Invia il nome di una città';
-const Searching = 'Sto cercando i migliori hotel... 🔄';
-const SendPosition = 'Invia la posizione. Se non sai come fare, digita /SendPosition'
+const SearchC = 'Invia il nome di una città 🌆';
+const SearchCity = 'Invia il nome o le iniziali di una città 🌆';
+const Searching = 'Stiamo cercando i migliori hotel... 🔄';
+const SearchingAct = 'Stiamo cercando le migliori attività... 🔄';
+const SearchingCity = 'Stiamo cercando le città... 🔄';
+const SendPosition = 'Invia la posizione. Se non sai come fare, digita /sendPosition'
 const Errore = 'Purtroppo non è stato trovato nessun hotel... ci dispiace 😭';
 const ErroreC = 'Purtroppo non è stata trovata nessuna città... ci dispiace 😭';
+const ErroreA = 'Purtroppo non è stata trovata nessuna attività... ci dispiace 😭';
 const ErroreCord = 'Errore di inserimento nelle coordinate, riprovare ❌';
 const ErroreIata = 'Errore nell\'inserimento del codice, deve essere di tre caratteri e non può contenere numeri, riprovare ❌';
 
@@ -57,6 +62,7 @@ bot.onText(/\/search/, msg => {
         }
         bot.on('message', handler);
     });
+    bot.sendMessage(msg.chat.id, "Puoi controllare il tuo codice qui: https://www.iata.org/en/publications/directories/code-search/");
 });
 
 bot.onText(/\/code/, msg => {
@@ -159,13 +165,85 @@ bot.onText(/\/position/, msg => {
     });
 });
 
-bot.onText(/\/SendPosition/, msg => {
-    //gif per inviare la posizione
-});
-
-bot.onText(/\/SendPosition/, msg => {
+bot.onText(/\/sendPosition/, msg => {
     bot.sendMessage(msg.chat.id, Position);
     bot.sendVideo(msg.chat.id, './positionINFO.mp4');
+});
+
+bot.onText(/\/activities/, msg => {
+    bot.sendMessage(msg.chat.id, SendC).then(() => {
+        bot.sendMessage(msg.chat.id, "Inserire la latitudine");
+        let handler = (msg) => {
+            let lat = parseFloat(msg.text);
+            if (CheckCoordinate(lat)) {
+                bot.removeListener("message", handler);
+                bot.sendMessage(msg.chat.id, "Inserire la longitudine");
+                let handler2 = (msg2) => {
+                    let lon = parseFloat(msg2.text);
+                    if (CheckCoordinate(lon)) {
+                        bot.sendMessage(msg.chat.id, Searching);
+                        let json = new Array;
+                        amadeus.shopping.activities.get({
+                            latitude: lon,
+                            longitude: lat,
+                            radius: 20
+                        }).then(function(response) {
+                            console.log(response.data);
+                            json.push(response.data);
+                            return amadeus.next(response);
+                        }).then(function(nextResponse) {
+                            if (nextResponse != null) {
+                                json.push(nextResponse.data);
+                                console.log(nextResponse.data);
+                            }
+                            let result = GetActivities(json);
+                            if (result.length != 0)
+                                bot.sendMessage(msg.chat.id, result.toString());
+                        }).catch(function(error) {
+                            console.log(error);
+                            bot.sendMessage(msg.chat.id, Errore);
+                        });
+                        bot.removeListener("message", handler2);
+                    } else {
+                        bot.sendMessage(msg.chat.id, ErroreCord);
+                    }
+                }
+                bot.on('message', handler2);
+            } else {
+                bot.sendMessage(msg.chat.id, ErroreCord);
+            }
+        }
+        bot.on('message', handler);
+    });
+
+
+});
+
+bot.onText(/\/CitySearch/, msg => {
+    bot.sendMessage(msg.chat.id, SearchCity).then(() => {
+        let handler = (msg) => {
+            let json = new Array;
+            let start = msg.text.toString();
+            bot.sendMessage(msg.chat.id, SearchingCity);
+            amadeus.referenceData.locations.get({
+                keyword: start,
+                subType: 'CITY'
+            }).then(function(response) {
+                json.push(response.data);
+                return amadeus.next(response);
+            }).then(function(nextResponse) {
+                json.push(nextResponse.data);
+                let result = GetCity(json);
+                if (result.length != 0)
+                    bot.sendMessage(msg.chat.id, result.toString());
+            }).catch(function(error) {
+                console.log(error.code);
+                bot.sendMessage(msg.chat.id, ErroreC);
+            });;
+            bot.removeListener("message", handler);
+        }
+        bot.on('message', handler);
+    });
 });
 
 bot.onText(/\/test/, msg => {
@@ -202,6 +280,47 @@ function GetName(json) {
             }
             if (y.hotel.rating != undefined) {
                 data += "Valutazione: " + y.hotel.rating + " ⭐\n";
+            }
+            data += "---------------------" + "\n";
+        });
+    });
+    return data;
+}
+
+function GetActivities(json) {
+    let data = new String;
+    json.forEach(x => {
+        x.forEach(y => {
+            if (y.name != undefined) {
+                data += y.name.toString() + " 🏃‍♂️\n";
+            }
+            if (y.bookingLink != undefined) {
+                data += "Link: " + y.bookingLink + " 🔗\n";
+            }
+            if (y.price != undefined) {
+                data += y.price.amount + "€ 💵\n";
+            }
+            if (y.rating != undefined) {
+                data += "Valutazione: " + Math.round(y.rating).toString() + " ⭐\n";
+            }
+            data += "---------------------" + "\n";
+        });
+    });
+    return data;
+}
+
+function GetCity(json) {
+    let data = new String;
+    json.forEach(x => {
+        x.forEach(y => {
+            if (y.name != undefined) {
+                data += y.name.toString() + " 🏙️\n";
+            }
+            if (y.iataCode != undefined) {
+                data += y.iataCode.toString() + " 🔢\n";
+            }
+            if (y.geoCode != undefined) {
+                data += "Latitudine: " + y.geoCode.latitude.toString() + "🌐\nLongitudine: " + y.geoCode.longitude.toString() + "🌐\n";
             }
             data += "---------------------" + "\n";
         });
