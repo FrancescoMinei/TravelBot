@@ -7,6 +7,26 @@ const request = require('request');
 const express = require('express');
 const ejs = require('ejs');
 
+//admin: modifica delle stringhe
+var WelcomeMsg = 'Benvenuto in TravelBot, ';
+var HelpMsg = 'La ricerca degli hotel va in base al codice IATA, il codice aereoportuale.';
+var View = 'Ecco il dataset con le città 😃';
+var Position = 'Ecco il metodo per inviare la propria posizione 🙃';
+var Send = 'Invia il codice di una città 🔢';
+var SendC = 'Invia le coordinate di una città 🌐';
+var Search = 'Invia il nome di una città per verificare se contenuta del database ✔️';
+var SearchC = 'Invia il nome di una città 🌆';
+var SearchCity = 'Invia il nome o le iniziali di una città 🌆';
+var Searching = 'Stiamo cercando i migliori hotel... 🔄';
+var SearchingAct = 'Stiamo cercando le migliori attività... 🔄';
+var SearchingCity = 'Stiamo cercando le città... 🔄';
+var SendPosition = 'Invia la posizione. Se non sai come fare, digita /sendPosition'
+var Errore = 'Purtroppo non è stato trovato nessun hotel... ci dispiace 😭';
+var ErroreC = 'Purtroppo non è stata trovata nessuna città... ci dispiace 😭';
+var ErroreA = 'Purtroppo non è stata trovata nessuna attività... ci dispiace 😭';
+var ErroreCord = 'Errore di inserimento nelle coordinate, riprovare ❌';
+var ErroreIata = 'Errore nell\'inserimento del codice, deve essere di tre caratteri e non può contenere numeri, riprovare ❌';
+
 //#region WebInterface
 const app = express();
 const port = 3000;
@@ -17,7 +37,7 @@ app.use(express.urlencoded({
 
 app.get("/", function(req, res) {
     res.render("index", {
-        WelcomeMsg: WelcomeMsg,
+        welcomeMsg: WelcomeMsg,
         HelpMsg: HelpMsg,
         View: View,
         Position: Position,
@@ -39,51 +59,28 @@ app.get("/", function(req, res) {
 });
 
 app.post("/message", function(req, res) {
-    if (req.body.WelcomeMsg && req.body.HelpMsg && req.body.View && req.body.Position && req.body.Send && req.body.SendC && req.body.Search && req.body.SearchC && req.body.SearchCity && req.body.Searching && req.body.SearchingAct && req.body.SearchingCity && req.body.SendPosition && req.body.WelcomeMsg && req.body.Errore && req.body.ErroreC && req.body.ErroreA && req.body.ErroreCord && req.body.ErroreIata) {
-        WelcomeMsg = req.body.WelcomeMsg;
-        HelpMsg = req.body.HelpMsg;
-        View = req.body.View;
-        Position = req.body.Position;
-        Send = req.body.Send;
-        SendC = req.body.SendC;
-        Search = req.body.Search;
-        SearchC = req.body.SearchC;
-        SearchCity = req.body.SearchCity;
-        Searching = req.body.Searching;
-        SearchingAct = req.body.SearchingAct;
-        SearchingCity = req.body.SearchingCity;
-        SendPosition = req.body.SendPosition;
-        Errore = req.body.Errore;
-        ErroreC = req.body.ErroreC;
-        ErroreA = req.body.ErroreA;
-        ErroreCord = req.body.ErroreCord;
-        ErroreIata = req.body.ErroreIata;
-    }
+    WelcomeMsg = req.body.WelcomeMsg;
+    HelpMsg = req.body.HelpMsg;
+    View = req.body.View;
+    Position = req.body.Position;
+    Send = req.body.Send;
+    SendC = req.body.SendC;
+    Search = req.body.Search;
+    SearchC = req.body.SearchC;
+    SearchCity = req.body.SearchCity;
+    Searching = req.body.Searching;
+    SearchingAct = req.body.SearchingAct;
+    SearchingCity = req.body.SearchingCity;
+    SendPosition = req.body.SendPosition;
+    Errore = req.body.Errore;
+    ErroreC = req.body.ErroreC;
+    ErroreA = req.body.ErroreA;
+    ErroreCord = req.body.ErroreCord;
+    ErroreIata = req.body.ErroreIata;
     res.redirect("/");
 });
 app.listen(port, () => console.log(`Listening on port ${port}`));
 //#endregion
-
-//admin: modifica delle stringhe
-var WelcomeMsg = 'Benvenuto in TravelBot, ';
-var HelpMsg = 'La ricerca degli hotel va in base al codice IATA, il codice aereoportuale.';
-var View = 'Ecco il dataset con le città 😃';
-var Position = 'Ecco il metodo per inviare la propria posizione 🙃';
-var Send = 'Invia il codice di una città 🔢';
-var SendC = 'Invia le coordinate di una città 🌐';
-var Search = 'Invia il nome di una città per verificare se contenuta del database ✔️';
-var SearchC = 'Invia il nome di una città 🌆';
-var SearchCity = 'Invia il nome o le iniziali di una città 🌆';
-var Searching = 'Stiamo cercando i migliori hotel... 🔄';
-var SearchingAct = 'Stiamo cercando le migliori attività... 🔄';
-var SearchingCity = 'Stiamo cercando le città... 🔄';
-var SendPosition = 'Invia la posizione. Se non sai come fare, digita /sendPosition'
-var Errore = 'Purtroppo non è stato trovato nessun hotel... ci dispiace 😭';
-var ErroreC = 'Purtroppo non è stata trovata nessuna città... ci dispiace 😭';
-var ErroreA = 'Purtroppo non è stata trovata nessuna attività... ci dispiace 😭';
-var ErroreCord = 'Errore di inserimento nelle coordinate, riprovare ❌';
-var ErroreIata = 'Errore nell\'inserimento del codice, deve essere di tre caratteri e non può contenere numeri, riprovare ❌';
-
 
 var Amadeus = require('amadeus');
 const { default: booking } = require('amadeus/lib/amadeus/namespaces/booking');
