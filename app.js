@@ -3,29 +3,86 @@ const TelegramBot = require('node-telegram-bot-api');
 const token = '1731816120:AAE5UVzQb_KLw1oe_COPdkHnHG2hBJ7e2Xc';
 const bot = new TelegramBot(token, { polling: true });
 const db = require('better-sqlite3')('./TravelBot.db', { verbose: console.log });
-const fs = require('fs');
 const request = require('request');
 const express = require('express');
+const ejs = require('ejs');
+
+//#region WebInterface
+const app = express();
+const port = 3000;
+app.set("view engine", "ejs");
+app.use(express.urlencoded({
+    extended: true
+}));
+
+app.get("/", function(req, res) {
+    res.render("index", {
+        WelcomeMsg: WelcomeMsg,
+        HelpMsg: HelpMsg,
+        View: View,
+        Position: Position,
+        Send: Send,
+        SendC: SendC,
+        Search: Search,
+        SearchC: SearchC,
+        SearchCity: SearchCity,
+        Searching: Searching,
+        SearchingAct: SearchingAct,
+        SearchingCity: SearchingCity,
+        SendPosition: SendPosition,
+        Errore: Errore,
+        ErroreC: ErroreC,
+        ErroreA: ErroreA,
+        ErroreCord: ErroreCord,
+        ErroreIata: ErroreIata
+    });
+});
+
+app.post("/message", function(req, res) {
+    if (req.body.WelcomeMsg && req.body.HelpMsg && req.body.View && req.body.Position && req.body.Send && req.body.SendC && req.body.Search && req.body.SearchC && req.body.SearchCity && req.body.Searching && req.body.SearchingAct && req.body.SearchingCity && req.body.SendPosition && req.body.WelcomeMsg && req.body.Errore && req.body.ErroreC && req.body.ErroreA && req.body.ErroreCord && req.body.ErroreIata) {
+        WelcomeMsg = req.body.WelcomeMsg;
+        HelpMsg = req.body.HelpMsg;
+        View = req.body.View;
+        Position = req.body.Position;
+        Send = req.body.Send;
+        SendC = req.body.SendC;
+        Search = req.body.Search;
+        SearchC = req.body.SearchC;
+        SearchCity = req.body.SearchCity;
+        Searching = req.body.Searching;
+        SearchingAct = req.body.SearchingAct;
+        SearchingCity = req.body.SearchingCity;
+        SendPosition = req.body.SendPosition;
+        Errore = req.body.Errore;
+        ErroreC = req.body.ErroreC;
+        ErroreA = req.body.ErroreA;
+        ErroreCord = req.body.ErroreCord;
+        ErroreIata = req.body.ErroreIata;
+    }
+    res.redirect("/");
+});
+app.listen(port, () => console.log(`Listening on port ${port}`));
+//#endregion
 
 //admin: modifica delle stringhe
-const WelcomeMsg = 'Benvenuto in TravelBot, ';
-const HelpMsg = 'La ricerca degli hotel va in base al codice IATA, il codice aereoportuale.';
-const View = 'Ecco il dataset con le città 😃';
-const Position = 'Ecco il metodo per inviare la propria posizione 🙃';
-const Send = 'Invia il codice di una città 🔢';
-const SendC = 'Invia le coordinate di una città 🌐';
-const Search = 'Invia il nome di una città per verificare se contenuta del database ✔️';
-const SearchC = 'Invia il nome di una città 🌆';
-const SearchCity = 'Invia il nome o le iniziali di una città 🌆';
-const Searching = 'Stiamo cercando i migliori hotel... 🔄';
-const SearchingAct = 'Stiamo cercando le migliori attività... 🔄';
-const SearchingCity = 'Stiamo cercando le città... 🔄';
-const SendPosition = 'Invia la posizione. Se non sai come fare, digita /sendPosition'
-const Errore = 'Purtroppo non è stato trovato nessun hotel... ci dispiace 😭';
-const ErroreC = 'Purtroppo non è stata trovata nessuna città... ci dispiace 😭';
-const ErroreA = 'Purtroppo non è stata trovata nessuna attività... ci dispiace 😭';
-const ErroreCord = 'Errore di inserimento nelle coordinate, riprovare ❌';
-const ErroreIata = 'Errore nell\'inserimento del codice, deve essere di tre caratteri e non può contenere numeri, riprovare ❌';
+var WelcomeMsg = 'Benvenuto in TravelBot, ';
+var HelpMsg = 'La ricerca degli hotel va in base al codice IATA, il codice aereoportuale.';
+var View = 'Ecco il dataset con le città 😃';
+var Position = 'Ecco il metodo per inviare la propria posizione 🙃';
+var Send = 'Invia il codice di una città 🔢';
+var SendC = 'Invia le coordinate di una città 🌐';
+var Search = 'Invia il nome di una città per verificare se contenuta del database ✔️';
+var SearchC = 'Invia il nome di una città 🌆';
+var SearchCity = 'Invia il nome o le iniziali di una città 🌆';
+var Searching = 'Stiamo cercando i migliori hotel... 🔄';
+var SearchingAct = 'Stiamo cercando le migliori attività... 🔄';
+var SearchingCity = 'Stiamo cercando le città... 🔄';
+var SendPosition = 'Invia la posizione. Se non sai come fare, digita /sendPosition'
+var Errore = 'Purtroppo non è stato trovato nessun hotel... ci dispiace 😭';
+var ErroreC = 'Purtroppo non è stata trovata nessuna città... ci dispiace 😭';
+var ErroreA = 'Purtroppo non è stata trovata nessuna attività... ci dispiace 😭';
+var ErroreCord = 'Errore di inserimento nelle coordinate, riprovare ❌';
+var ErroreIata = 'Errore nell\'inserimento del codice, deve essere di tre caratteri e non può contenere numeri, riprovare ❌';
 
 
 var Amadeus = require('amadeus');
@@ -101,7 +158,8 @@ bot.onText(/\/coordinates/, msg => {
                             json.push(response.data);
                             return amadeus.next(response);
                         }).then(function(nextResponse) {
-                            json.push(nextResponse.data);
+                            if (json.nextResponse != null)
+                                json.push(nextResponse.data);
                             let result = GetName(json);
                             console.log(result.toString());
                             if (result.length != 0)
@@ -124,17 +182,6 @@ bot.onText(/\/coordinates/, msg => {
     });
 });
 
-bot.onText(/\/getCoordinate/, msg => {
-    bot.sendMessage(msg.chat.id, SearchC).then(() => {
-        let handler = (msg) => {
-            let city = msg.text.toString();
-            GetCityCoordinate(city, msg.chat.id)
-            bot.removeListener("message", handler);
-        }
-        bot.on('message', handler);
-    });
-});
-
 bot.onText(/\/position/, msg => {
     bot.sendMessage(msg.chat.id, SendPosition).then(() => {
         let handler = (msg) => {
@@ -150,7 +197,8 @@ bot.onText(/\/position/, msg => {
                     json.push(response.data);
                     return amadeus.next(response);
                 }).then(function(nextResponse) {
-                    json.push(nextResponse.data);
+                    if (json.nextResponse != null)
+                        json.push(nextResponse.data);
                     let result = GetName(json);
                     if (result.length != 0)
                         bot.sendMessage(msg.chat.id, result.toString());
@@ -181,7 +229,7 @@ bot.onText(/\/activities/, msg => {
                 let handler2 = (msg2) => {
                     let lon = parseFloat(msg2.text);
                     if (CheckCoordinate(lon)) {
-                        bot.sendMessage(msg.chat.id, Searching);
+                        bot.sendMessage(msg.chat.id, SearchingAct);
                         let json = new Array;
                         amadeus.shopping.activities.get({
                             latitude: lon,
@@ -201,7 +249,7 @@ bot.onText(/\/activities/, msg => {
                                 bot.sendMessage(msg.chat.id, result.toString());
                         }).catch(function(error) {
                             console.log(error);
-                            bot.sendMessage(msg.chat.id, Errore);
+                            bot.sendMessage(msg.chat.id, ErroreA);
                         });
                         bot.removeListener("message", handler2);
                     } else {
@@ -226,20 +274,32 @@ bot.onText(/\/CitySearch/, msg => {
             let start = msg.text.toString();
             bot.sendMessage(msg.chat.id, SearchingCity);
             amadeus.referenceData.locations.get({
-                keyword: start,
-                subType: 'CITY'
+                subType: "CITY",
+                keyword: start
             }).then(function(response) {
                 json.push(response.data);
                 return amadeus.next(response);
             }).then(function(nextResponse) {
-                json.push(nextResponse.data);
+                if (json.nextResponse != null)
+                    json.push(nextResponse.data);
                 let result = GetCity(json);
                 if (result.length != 0)
                     bot.sendMessage(msg.chat.id, result.toString());
             }).catch(function(error) {
                 console.log(error.code);
                 bot.sendMessage(msg.chat.id, ErroreC);
-            });;
+            });
+            bot.removeListener("message", handler);
+        }
+        bot.on('message', handler);
+    });
+});
+
+bot.onText(/\/CitySearchV2/, msg => {
+    bot.sendMessage(msg.chat.id, SearchC).then(() => {
+        let handler = (msg) => {
+            let city = msg.text.toString();
+            GetCityCoordinate(city, msg.chat.id)
             bot.removeListener("message", handler);
         }
         bot.on('message', handler);
@@ -247,7 +307,20 @@ bot.onText(/\/CitySearch/, msg => {
 });
 
 bot.onText(/\/test/, msg => {
-    //per testare metodi
+    let json = new Array;
+    amadeus.referenceData.locations.get({
+        subType: "CITY",
+        keyword: "Barcelona"
+    }).then(function(response) {
+        json.push(response.data);
+        return amadeus.next(response);
+    }).then(function(nextResponse) {
+        if (json.nextResponse != null)
+            json.push(nextResponse.data);
+        let result = GetCity(json);
+        if (result.length != 0)
+            bot.sendMessage(msg.chat.id, result.toString());
+    });
 });
 
 function CheckCoordinate(coord) {
@@ -337,7 +410,8 @@ async function GetHotelJsonIata(city, id) {
             json.push(response.data);
             return amadeus.next(response);
         }).then(function(nextResponse) {
-            json.push(nextResponse.data);
+            if (json.nextResponse != null)
+                json.push(nextResponse.data);
         }).catch(function(error) {
             console.log(error.code);
         });
@@ -358,7 +432,16 @@ function GetCityCoordinate(city, id) {
             let city = new String;
             arr = JSON.parse(body);
             arr.forEach(x => {
-                city += x.city + ', ' + x.country + ', ' + x.lat + ', ' + x.lng + '\n';
+                if (x.city != null) {
+                    city += x.city.toString() + " 🏙️\n";
+                }
+                if (x.country != null) {
+                    city += x.country.toString() + " 🚩\n";
+                }
+                if (x.lat != null && x.lng != null) {
+                    city += "Latitudine: " + x.lat.toString() + "🌐\nLongitudine: " + x.lng.toString() + "🌐\n";
+                }
+                city += "---------------------" + "\n";
             });
             if (arr.length != 0)
                 bot.sendMessage(id, city.toString());

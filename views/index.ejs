@@ -1,0 +1,50 @@
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<style>
+    .container-fluid .row .col-md-12 input {
+        width: 1000px;
+        margin-top: 10px;
+    }
+    
+    .container-fluid .row .col-md-12 #submit-button {
+        width: 150px;
+        background-color: #3A96DD;
+    }
+</style>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="text-center">
+                    <div>
+                        <h3>✈️Gestione dei messaggi predefiniti✈️</h3>
+                        <form action="/message" method="POST">
+                            <input name="WelcomeMsg" type="text" value="<%= WelcomeMsg %>"> <br>
+                            <input name="HelpMsg" type="text" value="<%= HelpMsg %>"><br>
+                            <input name="View" type="text" value="<%= View %>"><br>
+                            <input name="Position" type="text" value="<%= Position %>"><br>
+                            <input name="Send" type="text" value="<%= Send %>"><br>
+                            <input name="SendC" type="text" value="<%= SendC %>"><br>
+                            <input name="Search" type="text" value="<%= Search %>"><br>
+                            <input name="SearchC" type="text" value="<%= SearchC %>"><br>
+                            <input name="SearchCity" type="text" value="<%= SearchCity %>"><br>
+                            <input name="Searching" type="text" value="<%= Searching %>"><br>
+                            <input name="SearchingAct" type="text" value="<%= SearchingAct %>"><br>
+                            <input name="SearchingCity" type="text" value="<%= SearchingCity %>"><br>
+                            <input name="Errore" type="text" value="<%= Errore %>"><br>
+                            <input name="ErroreC" type="text" value="<%= ErroreC %>"><br>
+                            <input name="ErroreA" type="text" value="<%= ErroreA %>"><br>
+                            <input name="ErroreCord" type="text" value="<%= ErroreCord %>"><br>
+                            <input name="ErroreIata" type="text" value="<%= ErroreIata %>"><br>
+                            <input type="submit" id="submit-button">
+                        </form>
+                    </div>
+                </h3>
+            </div>
+        </div>
+</body>
