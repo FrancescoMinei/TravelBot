@@ -6,7 +6,7 @@ const db = require('better-sqlite3')('./TravelBot.db', { verbose: console.log })
 const request = require('request');
 const express = require('express');
 const ejs = require('ejs');
-
+var porta;
 //admin: modifica delle stringhe
 var WelcomeMsg = 'Benvenuto in TravelBot, ';
 var HelpMsg = 'La ricerca degli hotel va in base al codice IATA, il codice aereoportuale.';
@@ -38,6 +38,7 @@ app.use(express.urlencoded({
 
 app.get("/", function(req, res) {
     res.render("index", {
+        Porta: porta,
         welcomeMsg: WelcomeMsg,
         HelpMsg: HelpMsg,
         View: View,
@@ -60,6 +61,7 @@ app.get("/", function(req, res) {
 });
 
 app.post("/message", function(req, res) {
+    porta = req.body.Porta;
     WelcomeMsg = req.body.WelcomeMsg;
     HelpMsg = req.body.HelpMsg;
     View = req.body.View;
@@ -424,7 +426,7 @@ async function GetHotelJsonIata(city, id) {
 
 function GetCityCoordinate(city, id) {
     return Promise.resolve('a').then(async function() {
-        let url = "http://travelbotapi.herokuapp.com/city?CityName=" + city;
+        let url = `http://travelbotapi.herokuapp.com:${porta}/city?CityName=${city}`;
         let arr = new Array;
         request(url, function(err, res, body) {
             let city = new String;
