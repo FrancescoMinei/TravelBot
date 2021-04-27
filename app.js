@@ -424,7 +424,7 @@ async function GetHotelJsonIata(city, id) {
 
 function GetCityCoordinate(city, id) {
     return Promise.resolve('a').then(async function() {
-        let url = "http://localhost:9090/city?CityName=" + city;
+        let url = "http://travelbotapi.herokuapp.com/city?CityName=" + city;
         let arr = new Array;
         request(url, function(err, res, body) {
             let city = new String;
