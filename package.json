@@ -5,15 +5,13 @@
     "main": "app.js",
     "scripts": {
         "app": "nodemon app.js",
-        "api": "nodemon api.js",
-        "start": "concurrently \"npm run app\" \"npm run api\" "
+        "start": "npm run app"
     },
     "author": "Francesco Minei",
     "license": "ISC",
     "dependencies": {
         "amadeus": "^5.6.1",
         "better-sqlite3": "^7.1.2",
-        "concurrently": "^6.0.2",
         "ejs": "^3.1.6",
         "express": "^4.17.1",
         "node-telegram-bot-api": "^0.52.0",
