@@ -29,7 +29,7 @@ var ErroreIata = 'Errore nell\'inserimento del codice, deve essere di tre caratt
 
 //#region WebInterface
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 app.set("view engine", "ejs");
 app.use(express.urlencoded({
     extended: true
@@ -79,7 +79,7 @@ app.post("/message", function(req, res) {
     ErroreIata = req.body.ErroreIata;
     res.redirect("/");
 });
-app.listen(port, () => console.log(`Listening on port ${port}`));
+app.listen(port, () => console.log(`WebInterface on port ${port}`));
 //#endregion
 
 var Amadeus = require('amadeus');
@@ -264,7 +264,7 @@ bot.onText(/\/activities/, msg => {
 
 });
 
-bot.onText(/\/CitySearch/, msg => {
+bot.onText(/\/CitySearch$/, msg => {
     bot.sendMessage(msg.chat.id, SearchCity).then(() => {
         let handler = (msg) => {
             let json = new Array;

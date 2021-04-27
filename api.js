@@ -28,6 +28,6 @@ function StartJson() {
 }
 
 app.listen(PORT, HOSTNAME, function() {
-    console.log("Server attivo sull'Hostname " + HOSTNAME);
+    console.log("Server attivo sull' Hostname " + HOSTNAME);
     console.log('Server attivo sulla porta ' + PORT);
 });
