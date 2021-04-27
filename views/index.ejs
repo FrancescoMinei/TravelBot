@@ -1,8 +1,5 @@
-<!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-<!-- Optional theme -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-<!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <style>
     .container-fluid .row .col-md-12 input {
@@ -13,6 +10,7 @@
     .container-fluid .row .col-md-12 #submit-button {
         width: 150px;
         background-color: #3A96DD;
+        color: #fff;
     }
 </style>
 
@@ -24,24 +22,23 @@
                     <div>
                         <h3>✈️Gestione dei messaggi predefiniti✈️</h3>
                         <form action="/message" method="POST">
-                            <input name="Porta" type="text" value="<%= Porta %>"> <br>
-                            <input name="WelcomeMsg" type="text" value="<%= welcomeMsg %>"> <br>
-                            <input name="HelpMsg" type="text" value="<%= HelpMsg %>"><br>
-                            <input name="View" type="text" value="<%= View %>"><br>
-                            <input name="Position" type="text" value="<%= Position %>"><br>
-                            <input name="Send" type="text" value="<%= Send %>"><br>
-                            <input name="SendC" type="text" value="<%= SendC %>"><br>
-                            <input name="Search" type="text" value="<%= Search %>"><br>
-                            <input name="SearchC" type="text" value="<%= SearchC %>"><br>
-                            <input name="SearchCity" type="text" value="<%= SearchCity %>"><br>
-                            <input name="Searching" type="text" value="<%= Searching %>"><br>
-                            <input name="SearchingAct" type="text" value="<%= SearchingAct %>"><br>
-                            <input name="SearchingCity" type="text" value="<%= SearchingCity %>"><br>
-                            <input name="Errore" type="text" value="<%= Errore %>"><br>
-                            <input name="ErroreC" type="text" value="<%= ErroreC %>"><br>
-                            <input name="ErroreA" type="text" value="<%= ErroreA %>"><br>
-                            <input name="ErroreCord" type="text" value="<%= ErroreCord %>"><br>
-                            <input name="ErroreIata" type="text" value="<%= ErroreIata %>"><br>
+                            <label for="">Messaggio di benvenuto:</label> <input name="WelcomeMsg" type="text" value="<%= welcomeMsg %>"> <br>
+                            <label for="">Messaggio di aiuto:</label> <input name="HelpMsg" type="text" value="<%= HelpMsg %>"><br>
+                            <label for="">Messaggio di ricevimento del dataset:</label> <input name="View" type="text" value="<%= View %>"><br>
+                            <label for="">Messaggio per l'invio della posizione:</label> <input name="Position" type="text" value="<%= Position %>"><br>
+                            <label for="">Messaggio per l'invio codice Iata:</label> <input name="Send" type="text" value="<%= Send %>"><br>
+                            <label for="">Messaggio per l'invio coordinate:</label> <input name="SendC" type="text" value="<%= SendC %>"><br>
+                            <label for="">Messaggio per la ricerca delle città:</label> <input name="Search" type="text" value="<%= Search %>"><br>
+                            <label for="">Messaggio per l'invio del nome della città:</label> <input name="SearchC" type="text" value="<%= SearchC %>"><br>
+                            <label for="">Messaggio per l'invio del nome della città #2:</label> <input name="SearchCity" type="text" value="<%= SearchCity %>"><br>
+                            <label for="">Messaggio di attesa hotel:</label> <input name="Searching" type="text" value="<%= Searching %>"><br>
+                            <label for="">Messaggio di attesa attività:</label> <input name="SearchingAct" type="text" value="<%= SearchingAct %>"><br>
+                            <label for="">Messaggio di attesa:</label> <input name="SearchingCity" type="text" value="<%= SearchingCity %>"><br>
+                            <label for="">Messaggio di errore hotel:</label> <input name="Errore" type="text" value="<%= Errore %>"><br>
+                            <label for="">Messaggio di errore città:</label> <input name="ErroreC" type="text" value="<%= ErroreC %>"><br>
+                            <label for="">Messaggio di errore attività:</label> <input name="ErroreA" type="text" value="<%= ErroreA %>"><br>
+                            <label for="">Messaggio di errore coordinate:</label> <input name="ErroreCord" type="text" value="<%= ErroreCord %>"><br>
+                            <label for="">Messaggio di errore codice Iata:</label> <input name="ErroreIata" type="text" value="<%= ErroreIata %>"><br>
                             <input type="submit" id="submit-button">
                         </form>
                     </div>

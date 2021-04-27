@@ -3,10 +3,11 @@ const TelegramBot = require('node-telegram-bot-api');
 const token = '1731816120:AAE5UVzQb_KLw1oe_COPdkHnHG2hBJ7e2Xc';
 const bot = new TelegramBot(token, { polling: true });
 const db = require('better-sqlite3')('./TravelBot.db', { verbose: console.log });
-const request = require('request');
 const express = require('express');
 const ejs = require('ejs');
-var porta;
+const fs = require("fs");
+var cities = new Array;
+
 //admin: modifica delle stringhe
 var WelcomeMsg = 'Benvenuto in TravelBot, ';
 var HelpMsg = 'La ricerca degli hotel va in base al codice IATA, il codice aereoportuale.';
@@ -38,7 +39,6 @@ app.use(express.urlencoded({
 
 app.get("/", function(req, res) {
     res.render("index", {
-        Porta: porta,
         welcomeMsg: WelcomeMsg,
         HelpMsg: HelpMsg,
         View: View,
@@ -61,7 +61,6 @@ app.get("/", function(req, res) {
 });
 
 app.post("/message", function(req, res) {
-    porta = req.body.Porta;
     WelcomeMsg = req.body.WelcomeMsg;
     HelpMsg = req.body.HelpMsg;
     View = req.body.View;
@@ -306,23 +305,6 @@ bot.onText(/\/CitySearchV2/, msg => {
     });
 });
 
-bot.onText(/\/test/, msg => {
-    let json = new Array;
-    amadeus.referenceData.locations.get({
-        subType: "CITY",
-        keyword: "Barcelona"
-    }).then(function(response) {
-        json.push(response.data);
-        return amadeus.next(response);
-    }).then(function(nextResponse) {
-        if (json.nextResponse != null)
-            json.push(nextResponse.data);
-        let result = GetCity(json);
-        if (result.length != 0)
-            bot.sendMessage(msg.chat.id, result.toString());
-    });
-});
-
 function CheckCoordinate(coord) {
     if (/^[-+]?\d*\.?\d*$/.test(coord))
         return true;
@@ -424,29 +406,35 @@ async function GetHotelJsonIata(city, id) {
     });
 }
 
-function GetCityCoordinate(city, id) {
-    return Promise.resolve('a').then(async function() {
-        let url = `http://travelbotapi.herokuapp.com:${porta}/city?CityName=${city}`;
-        let arr = new Array;
-        request(url, function(err, res, body) {
-            let city = new String;
-            arr = JSON.parse(body);
-            arr.forEach(x => {
-                if (x.city != null) {
-                    city += x.city.toString() + " 🏙️\n";
-                }
-                if (x.country != null) {
-                    city += x.country.toString() + " 🚩\n";
-                }
-                if (x.lat != null && x.lng != null) {
-                    city += "Latitudine: " + x.lat.toString() + "🌐\nLongitudine: " + x.lng.toString() + "🌐\n";
-                }
-                city += "---------------------" + "\n";
-            });
-            if (arr.length != 0)
-                bot.sendMessage(id, city.toString());
-            else
-                bot.sendMessage(id, ErroreC);
+function GetCityCoordinate(cityName, id) {
+    let cities = readJson();
+    let str = cityName.toString().toLowerCase();
+    let arr = cities.filter(x => x.city.toLowerCase() == str);
+    let city = new String;
+    if (arr.length != 0) {
+        arr.forEach(x => {
+            if (x.city != null) {
+                city += x.city.toString() + " 🏙️\n";
+            }
+            if (x.country != null) {
+                city += x.country.toString() + " 🚩\n";
+            }
+            if (x.lat != null && x.lng != null) {
+                city += "Latitudine: " + x.lat.toString() + "🌐\nLongitudine: " + x.lng.toString() + "🌐\n";
+            }
+            city += "---------------------" + "\n";
         });
-    });
+        bot.sendMessage(id, city.toString());
+    } else
+        bot.sendMessage(id, ErroreC);
+}
+
+function readJson() {
+    try {
+        let rawdata = fs.readFileSync('./worldcities.json');
+        cities = JSON.parse(rawdata);
+    } catch (err) {
+        console.log(err);
+    }
+    return cities;
 }
