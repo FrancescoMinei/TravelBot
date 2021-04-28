@@ -26,8 +26,10 @@
                 <h3 class="text-center">
                     <div>
                         <h3>✈️Gestione dei messaggi predefiniti✈️</h3>
-                        <form action="/message" method="POST">
+                        <!--<form action="/" method="POST">
                             <button name="ResetMsg" type="button" class="btn btn-primary" id="reset-button">Reset</button><br>
+                        </form>-->
+                        <form action="/message" method="POST">
                             <label for="">Messaggio di benvenuto:</label> <input name="WelcomeMsg" type="text" value="<%= welcomeMsg %>"> <br>
                             <label for="">Messaggio di aiuto:</label> <input name="HelpMsg" type="text" value="<%= HelpMsg %>"><br>
                             <label for="">Messaggio di ricevimento del dataset:</label> <input name="View" type="text" value="<%= View %>"><br>
@@ -45,7 +47,10 @@
                             <label for="">Messaggio di errore attività:</label> <input name="ErroreA" type="text" value="<%= ErroreA %>"><br>
                             <label for="">Messaggio di errore coordinate:</label> <input name="ErroreCord" type="text" value="<%= ErroreCord %>"><br>
                             <label for="">Messaggio di errore codice Iata:</label> <input name="ErroreIata" type="text" value="<%= ErroreIata %>"><br>
-                            <input type="submit" id="submit-button">
+                            <input name="submitbtn" type="submit" id="submit-button" value="Modifica">
+                        </form>
+                        <form action="/" method="POST">
+                            <input name="resetbtn" type="submit" id="submit-button" value="Reset">
                         </form>
                     </div>
                 </h3>

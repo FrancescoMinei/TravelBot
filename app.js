@@ -47,27 +47,31 @@ app.use(express.urlencoded({
 }));
 
 app.get("/", function(req, res) {
-    res.render("index", {
-        welcomeMsg: WelcomeMsg,
-        HelpMsg: HelpMsg,
-        View: View,
-        Position: Position,
-        Send: Send,
-        SendC: SendC,
-        Search: Search,
-        SearchC: SearchC,
-        SearchCity: SearchCity,
-        Searching: Searching,
-        SearchingAct: SearchingAct,
-        SearchingCity: SearchingCity,
-        SendPosition: SendPosition,
-        Errore: Errore,
-        ErroreC: ErroreC,
-        ErroreA: ErroreA,
-        ErroreCord: ErroreCord,
-        ErroreIata: ErroreIata
+        res.render("index", {
+            welcomeMsg: WelcomeMsg,
+            HelpMsg: HelpMsg,
+            View: View,
+            Position: Position,
+            Send: Send,
+            SendC: SendC,
+            Search: Search,
+            SearchC: SearchC,
+            SearchCity: SearchCity,
+            Searching: Searching,
+            SearchingAct: SearchingAct,
+            SearchingCity: SearchingCity,
+            SendPosition: SendPosition,
+            Errore: Errore,
+            ErroreC: ErroreC,
+            ErroreA: ErroreA,
+            ErroreCord: ErroreCord,
+            ErroreIata: ErroreIata
+        });
+    })
+    .post("/", function(req, res) {
+        ResetMsg();
+        res.redirect("/");
     });
-});
 
 app.post("/message", function(req, res) {
     WelcomeMsg = req.body.WelcomeMsg;
@@ -88,8 +92,6 @@ app.post("/message", function(req, res) {
     ErroreA = req.body.ErroreA;
     ErroreCord = req.body.ErroreCord;
     ErroreIata = req.body.ErroreIata;
-    if (req.body.ResetMsg)
-        ResetMsg();
     res.redirect("/");
 });
 app.listen(port, () => console.log(`WebInterface on port ${port}`));
