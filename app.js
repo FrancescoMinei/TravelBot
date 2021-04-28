@@ -109,23 +109,6 @@ bot.onText(/\/view/, msg => {
     bot.sendDocument(msg.chat.id, './City.txt');
 });
 
-bot.onText(/\/search/, msg => {
-    bot.sendMessage(msg.chat.id, Search).then(() => {
-        let handler = (msg) => {
-            const row = db.prepare('SELECT * FROM City WHERE City.City LIKE ?').all(msg.text.toString());
-            let ans = "";
-            if (row.length != 0) {
-                row.forEach(x => ans += (x.City + ' - ' + x.Code + '\n'));
-                bot.sendMessage(msg.chat.id, ans);
-            } else
-                bot.sendMessage(msg.chat.id, "Nessuna città trovata");
-            bot.removeListener("message", handler);
-        }
-        bot.on('message', handler);
-    });
-    bot.sendMessage(msg.chat.id, "Puoi controllare il tuo codice qui: https://www.iata.org/en/publications/directories/code-search/");
-});
-
 bot.onText(/\/code/, msg => {
     bot.sendMessage(msg.chat.id, Send).then(() => {
         let handler = (msg) => {
@@ -222,7 +205,7 @@ bot.onText(/\/sendPosition/, msg => {
     bot.sendVideo(msg.chat.id, './positionINFO.mp4');
 });
 
-bot.onText(/\/activities/, msg => {
+bot.onText(/\/activities$/, msg => {
     bot.sendMessage(msg.chat.id, SendC).then(() => {
         bot.sendMessage(msg.chat.id, "Inserire la latitudine");
         let handler = (msg) => {
@@ -271,6 +254,58 @@ bot.onText(/\/activities/, msg => {
 
 });
 
+bot.onText(/\/activitiesposition/, msg => {
+    bot.sendMessage(msg.chat.id, SendPosition).then(() => {
+        let handler = (msg) => {
+            let lat = parseFloat(msg.location.latitude).toFixed(1);
+            let lon = parseFloat(msg.location.longitude).toFixed(2);
+            console.log(lat, lon);
+            let json = new Array;
+            bot.sendMessage(msg.chat.id, SearchingAct).then(() => {
+                amadeus.shopping.activities.get({
+                    latitude: lon,
+                    longitude: lat,
+                    radius: 20
+                }).then(function(response) {
+                    console.log(response.data);
+                    json.push(response.data);
+                    return amadeus.next(response);
+                }).then(function(nextResponse) {
+                    if (nextResponse != null) {
+                        json.push(nextResponse.data);
+                        console.log(nextResponse.data);
+                    }
+                    let result = GetActivities(json);
+                    if (result.length != 0)
+                        bot.sendMessage(msg.chat.id, result.toString());
+                }).catch(function(error) {
+                    console.log(error);
+                    bot.sendMessage(msg.chat.id, ErroreA);
+                });
+            });
+            bot.removeListener("location", handler);
+        };
+        bot.on('location', handler);
+    });
+});
+
+bot.onText(/\/search/, msg => {
+    bot.sendMessage(msg.chat.id, Search).then(() => {
+        let handler = (msg) => {
+            const row = db.prepare('SELECT * FROM City WHERE City.City LIKE ?').all(msg.text.toString());
+            let ans = "";
+            if (row.length != 0) {
+                row.forEach(x => ans += (x.City + ' - ' + x.Code + '\n'));
+                bot.sendMessage(msg.chat.id, ans);
+            } else
+                bot.sendMessage(msg.chat.id, "Nessuna città trovata");
+            bot.removeListener("message", handler);
+        }
+        bot.on('message', handler);
+    });
+    bot.sendMessage(msg.chat.id, "Puoi controllare il tuo codice qui: https://www.iata.org/en/publications/directories/code-search/");
+});
+
 bot.onText(/\/CitySearch$/, msg => {
     bot.sendMessage(msg.chat.id, SearchCity).then(() => {
         let handler = (msg) => {
@@ -309,7 +344,6 @@ bot.onText(/\/CitySearchV2/, msg => {
         bot.on('message', handler);
     });
 });
-
 //#endregion
 
 //#region function
