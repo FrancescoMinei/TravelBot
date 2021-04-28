@@ -7,8 +7,9 @@ const express = require('express');
 const ejs = require('ejs');
 const fs = require("fs");
 var cities = new Array;
+var defMessage = new Array;
 
-//admin: modifica delle stringhe
+//#region Default message
 var WelcomeMsg = 'Benvenuto in TravelBot, ';
 var HelpMsg = 'La ricerca degli hotel va in base al codice IATA, il codice aereoportuale.';
 var View = 'Ecco il dataset con le città 😃';
@@ -27,6 +28,14 @@ var ErroreC = 'Purtroppo non è stata trovata nessuna città... ci dispiace 😭
 var ErroreA = 'Purtroppo non è stata trovata nessuna attività... ci dispiace 😭';
 var ErroreCord = 'Errore di inserimento nelle coordinate, riprovare ❌';
 var ErroreIata = 'Errore nell\'inserimento del codice, deve essere di tre caratteri e non può contenere numeri, riprovare ❌';
+//#endregion
+
+var Amadeus = require('amadeus');
+const { default: booking } = require('amadeus/lib/amadeus/namespaces/booking');
+var amadeus = new Amadeus({
+    clientId: 'mhxawUm5tmcun1zoSB9kq9mk1YIIzCsV',
+    clientSecret: 'dnFHZ9Lh7UYvrROT'
+});
 
 //#region WebInterface
 const app = express();
@@ -79,18 +88,14 @@ app.post("/message", function(req, res) {
     ErroreA = req.body.ErroreA;
     ErroreCord = req.body.ErroreCord;
     ErroreIata = req.body.ErroreIata;
+    if (req.body.ResetMsg)
+        ResetMsg();
     res.redirect("/");
 });
 app.listen(port, () => console.log(`WebInterface on port ${port}`));
 //#endregion
 
-var Amadeus = require('amadeus');
-const { default: booking } = require('amadeus/lib/amadeus/namespaces/booking');
-var amadeus = new Amadeus({
-    clientId: 'mhxawUm5tmcun1zoSB9kq9mk1YIIzCsV',
-    clientSecret: 'dnFHZ9Lh7UYvrROT'
-});
-
+//#region command
 bot.onText(/\/start/, msg => {
     bot.sendMessage(msg.chat.id, WelcomeMsg + msg.from.first_name);
 });
@@ -305,6 +310,9 @@ bot.onText(/\/CitySearchV2/, msg => {
     });
 });
 
+//#endregion
+
+//#region function
 function CheckCoordinate(coord) {
     if (/^[-+]?\d*\.?\d*$/.test(coord))
         return true;
@@ -438,3 +446,25 @@ function readJson() {
     }
     return cities;
 }
+
+function ResetMsg() {
+    WelcomeMsg = 'Benvenuto in TravelBot, ';
+    HelpMsg = 'La ricerca degli hotel va in base al codice IATA, il codice aereoportuale.';
+    View = 'Ecco il dataset con le città 😃';
+    Position = 'Ecco il metodo per inviare la propria posizione 🙃';
+    Send = 'Invia il codice di una città 🔢';
+    SendC = 'Invia le coordinate di una città 🌐';
+    Search = 'Invia il nome di una città per verificare se contenuta del database ✔️';
+    SearchC = 'Invia il nome di una città 🌆';
+    SearchCity = 'Invia il nome o le iniziali di una città 🌆';
+    Searching = 'Stiamo cercando i migliori hotel... 🔄';
+    SearchingAct = 'Stiamo cercando le migliori attività... 🔄';
+    SearchingCity = 'Stiamo cercando le città... 🔄';
+    SendPosition = 'Invia la posizione. Se non sai come fare, digita /sendPosition'
+    Errore = 'Purtroppo non è stato trovato nessun hotel... ci dispiace 😭';
+    ErroreC = 'Purtroppo non è stata trovata nessuna città... ci dispiace 😭';
+    ErroreA = 'Purtroppo non è stata trovata nessuna attività... ci dispiace 😭';
+    ErroreCord = 'Errore di inserimento nelle coordinate, riprovare ❌';
+    ErroreIata = 'Errore nell\'inserimento del codice, deve essere di tre caratteri e non può contenere numeri, riprovare ❌';
+}
+//#endregion

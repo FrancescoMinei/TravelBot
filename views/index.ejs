@@ -3,14 +3,19 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <style>
     .container-fluid .row .col-md-12 input {
-        width: 1000px;
-        margin-top: 10px;
+        width: 1500px;
+        margin-bottom: 25px;
     }
     
     .container-fluid .row .col-md-12 #submit-button {
         width: 150px;
         background-color: #3A96DD;
         color: #fff;
+    }
+    
+    .container-fluid .row .col-md-12 #reset-button {
+        margin-top: 15px;
+        margin-bottom: 15px;
     }
 </style>
 
@@ -22,6 +27,7 @@
                     <div>
                         <h3>✈️Gestione dei messaggi predefiniti✈️</h3>
                         <form action="/message" method="POST">
+                            <button name="ResetMsg" type="button" class="btn btn-primary" id="reset-button">Reset</button><br>
                             <label for="">Messaggio di benvenuto:</label> <input name="WelcomeMsg" type="text" value="<%= welcomeMsg %>"> <br>
                             <label for="">Messaggio di aiuto:</label> <input name="HelpMsg" type="text" value="<%= HelpMsg %>"><br>
                             <label for="">Messaggio di ricevimento del dataset:</label> <input name="View" type="text" value="<%= View %>"><br>
