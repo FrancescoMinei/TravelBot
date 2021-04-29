@@ -294,10 +294,18 @@ bot.onText(/\/activitiesposition/, msg => {
 bot.onText(/\/search/, msg => {
     bot.sendMessage(msg.chat.id, Search).then(() => {
         let handler = (msg) => {
-            const row = db.prepare('SELECT * FROM City WHERE City.City LIKE ?').all(msg.text.toString());
+            const row = db.prepare('SELECT * FROM CityCode WHERE CityCode.City LIKE ?').all(msg.text.toString());
             let ans = "";
             if (row.length != 0) {
-                row.forEach(x => ans += (x.City + ' - ' + x.Code + '\n'));
+                row.forEach(x => {
+                    if (x.City != undefined) {
+                        ans += x.City.toString() + " 🏙️\n";
+                    }
+                    if (x.Code != undefined) {
+                        ans += x.Code.toString() + " 🔢\n";
+                    }
+                    ans += "---------------------" + "\n";
+                });
                 bot.sendMessage(msg.chat.id, ans);
             } else
                 bot.sendMessage(msg.chat.id, "Nessuna città trovata");
