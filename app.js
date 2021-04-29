@@ -137,20 +137,20 @@ app.listen(port, () => console.log(`WebInterface on port ${port}`));
 //#endregion
 
 //#region command
-bot.onText(/\/start/, msg => {
+bot.onText(/\/start$/, msg => {
     bot.sendMessage(msg.chat.id, WelcomeMsg + msg.from.first_name);
 });
 
-bot.onText(/\/help/, msg => {
+bot.onText(/\/help$/, msg => {
     bot.sendMessage(msg.chat.id, HelpMsg);
 });
 
-bot.onText(/\/view/, msg => {
+bot.onText(/\/dataset$/, msg => {
     bot.sendMessage(msg.chat.id, View);
     bot.sendDocument(msg.chat.id, './City.txt');
 });
 
-bot.onText(/\/code/, msg => {
+bot.onText(/\/iataSearch$/, msg => {
     bot.sendMessage(msg.chat.id, Send).then(() => {
         let handler = (msg) => {
             let city = msg.text.toString();
@@ -166,7 +166,7 @@ bot.onText(/\/code/, msg => {
     });
 });
 
-bot.onText(/\/coordinates/, msg => {
+bot.onText(/\/coordinatesearch$/, msg => {
     bot.sendMessage(msg.chat.id, SendC).then(() => {
         bot.sendMessage(msg.chat.id, "Inserire la latitudine");
         let handler = (msg) => {
@@ -210,7 +210,7 @@ bot.onText(/\/coordinates/, msg => {
     });
 });
 
-bot.onText(/\/position/, msg => {
+bot.onText(/\/positionsearch$/, msg => {
     bot.sendMessage(msg.chat.id, SendPosition).then(() => {
         let handler = (msg) => {
             let lat = parseFloat(msg.location.latitude).toFixed(1);
@@ -241,12 +241,12 @@ bot.onText(/\/position/, msg => {
     });
 });
 
-bot.onText(/\/sendPosition/, msg => {
+bot.onText(/\/sendPosition$/, msg => {
     bot.sendMessage(msg.chat.id, Position);
     bot.sendVideo(msg.chat.id, './positionINFO.mp4');
 });
 
-bot.onText(/\/activities$/, msg => {
+bot.onText(/\/activitiesearch$/, msg => {
     bot.sendMessage(msg.chat.id, SendC).then(() => {
         bot.sendMessage(msg.chat.id, "Inserire la latitudine");
         let handler = (msg) => {
@@ -295,7 +295,7 @@ bot.onText(/\/activities$/, msg => {
 
 });
 
-bot.onText(/\/activitiesposition/, msg => {
+bot.onText(/\/activitiespositionsearch$/, msg => {
     bot.sendMessage(msg.chat.id, SendPosition).then(() => {
         let handler = (msg) => {
             let lat = parseFloat(msg.location.latitude).toFixed(1);
@@ -330,7 +330,7 @@ bot.onText(/\/activitiesposition/, msg => {
     });
 });
 
-bot.onText(/\/search/, msg => {
+bot.onText(/\/codesearch$/, msg => {
     bot.sendMessage(msg.chat.id, Search).then(() => {
         let handler = (msg) => {
             const row = db.prepare('SELECT * FROM CityCode WHERE CityCode.City LIKE ?').all(msg.text.toString());
@@ -355,7 +355,7 @@ bot.onText(/\/search/, msg => {
     bot.sendMessage(msg.chat.id, "Puoi controllare il tuo codice qui: https://www.iata.org/en/publications/directories/code-search/");
 });
 
-bot.onText(/\/CitySearch$/, msg => {
+bot.onText(/\/apisearch$/, msg => {
     bot.sendMessage(msg.chat.id, SearchCity).then(() => {
         let handler = (msg) => {
             let json = new Array;
@@ -383,7 +383,7 @@ bot.onText(/\/CitySearch$/, msg => {
     });
 });
 
-bot.onText(/\/CitySearchV2/, msg => {
+bot.onText(/\/coordinatesearch$/, msg => {
     bot.sendMessage(msg.chat.id, SearchC).then(() => {
         let handler = (msg) => {
             let city = msg.text.toString();
