@@ -147,7 +147,7 @@ bot.onText(/\/help$/, msg => {
 
 bot.onText(/\/dataset$/, msg => {
     bot.sendMessage(msg.chat.id, View);
-    bot.sendDocument(msg.chat.id, './City.txt');
+    bot.sendDocument(msg.chat.id, './Dataset.txt');
 });
 
 bot.onText(/\/iataSearch$/, msg => {
@@ -241,7 +241,7 @@ bot.onText(/\/positionsearch$/, msg => {
     });
 });
 
-bot.onText(/\/sendPosition$/, msg => {
+bot.onText(/\/sendposition$/, msg => {
     bot.sendMessage(msg.chat.id, Position);
     bot.sendVideo(msg.chat.id, './positionINFO.mp4');
 });
