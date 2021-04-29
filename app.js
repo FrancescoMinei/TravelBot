@@ -150,7 +150,7 @@ bot.onText(/\/dataset$/, msg => {
     bot.sendDocument(msg.chat.id, './Dataset.txt');
 });
 
-bot.onText(/\/iataSearch$/, msg => {
+bot.onText(/\/iatasearch$/, msg => {
     bot.sendMessage(msg.chat.id, Send).then(() => {
         let handler = (msg) => {
             let city = msg.text.toString();
