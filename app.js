@@ -7,35 +7,19 @@ const express = require('express');
 const ejs = require('ejs');
 const fs = require("fs");
 var cities = new Array;
-var defMessage = new Array;
 
 //#region Default message
-var WelcomeMsg = 'Benvenuto in TravelBot, ';
-var HelpMsg = 'La ricerca degli hotel va in base al codice IATA, il codice aereoportuale.';
-var View = 'Ecco il dataset con le città 😃';
-var Position = 'Ecco il metodo per inviare la propria posizione 🙃';
-var Send = 'Invia il codice di una città 🔢';
-var SendC = 'Invia le coordinate di una città 🌐';
-var Search = 'Invia il nome di una città per verificare se contenuta del database ✔️';
-var SearchC = 'Invia il nome di una città 🌆';
-var SearchCity = 'Invia il nome o le iniziali di una città 🌆';
-var Searching = 'Stiamo cercando i migliori hotel... 🔄';
-var SearchingAct = 'Stiamo cercando le migliori attività... 🔄';
-var SearchingCity = 'Stiamo cercando le città... 🔄';
-var SendPosition = 'Invia la posizione. Se non sai come fare, digita /sendPosition'
-var Errore = 'Purtroppo non è stato trovato nessun hotel... ci dispiace 😭';
-var ErroreC = 'Purtroppo non è stata trovata nessuna città... ci dispiace 😭';
-var ErroreA = 'Purtroppo non è stata trovata nessuna attività... ci dispiace 😭';
-var ErroreCord = 'Errore di inserimento nelle coordinate, riprovare ❌';
-var ErroreIata = 'Errore nell\'inserimento del codice, deve essere di tre caratteri e non può contenere numeri, riprovare ❌';
+var WelcomeMsg, HelpMsg, View, Position, Send, SendC, Search, SearchC, SearchCity, Searching, SearchingAct, SearchingCity, SendPosition, Errore, ErroreC, ErroreA, ErroreCord, ErroreIata;
 //#endregion
-
+GetMsg();
+//#region API
 var Amadeus = require('amadeus');
 const { default: booking } = require('amadeus/lib/amadeus/namespaces/booking');
 var amadeus = new Amadeus({
     clientId: 'mhxawUm5tmcun1zoSB9kq9mk1YIIzCsV',
     clientSecret: 'dnFHZ9Lh7UYvrROT'
 });
+//#endregion
 
 //#region WebInterface
 const app = express();
@@ -74,24 +58,79 @@ app.get("/", function(req, res) {
     });
 
 app.post("/message", function(req, res) {
-    WelcomeMsg = req.body.WelcomeMsg;
-    HelpMsg = req.body.HelpMsg;
-    View = req.body.View;
-    Position = req.body.Position;
-    Send = req.body.Send;
-    SendC = req.body.SendC;
-    Search = req.body.Search;
-    SearchC = req.body.SearchC;
-    SearchCity = req.body.SearchCity;
-    Searching = req.body.Searching;
-    SearchingAct = req.body.SearchingAct;
-    SearchingCity = req.body.SearchingCity;
-    SendPosition = req.body.SendPosition;
-    Errore = req.body.Errore;
-    ErroreC = req.body.ErroreC;
-    ErroreA = req.body.ErroreA;
-    ErroreCord = req.body.ErroreCord;
-    ErroreIata = req.body.ErroreIata;
+    if (req.body.WelcomeMsg) {
+        let q1 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='WelcomeMsg'");
+        q1.run(req.body.WelcomeMsg.toString());
+    }
+    if (req.body.HelpMsg) {
+        let q2 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='HelpMsg'");
+        q2.run(req.body.HelpMsg.toString());
+    }
+    if (req.body.View) {
+        let q3 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='View'");
+        q3.run(req.body.View.toString());
+    }
+    if (req.body.Position) {
+        let q4 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='Position'");
+        q4.run(req.body.Position.toString());
+    }
+    if (req.body.Send) {
+        let q5 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='Send'");
+        q5.run(req.body.Send.toString());
+    }
+    if (req.body.SendC) {
+        let q6 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='SendC'");
+        q6.run(req.body.SendC.toString());
+    }
+    if (req.body.Search) {
+        let q7 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='Search'");
+        q7.run(req.body.Search.toString());
+    }
+    if (req.body.SearchC) {
+        let q8 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='SearchC'");
+        q8.run(req.body.SearchC.toString());
+    }
+    if (req.body.SearchCity) {
+        let q9 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='SearchCity'");
+        q9.run(req.body.SearchCity.toString());
+    }
+    if (req.body.Searching) {
+        let q10 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='Searching'");
+        q10.run(req.body.Searching.toString());
+    }
+    if (req.body.SearchingAct) {
+        let q11 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='SearchingAct'");
+        q11.run(req.body.SearchingAct.toString());
+    }
+    if (req.body.SearchingCity) {
+        let q12 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='SearchingCity'");
+        q12.run(req.body.SearchingCity.toString());
+    }
+    if (req.body.SendPosition) {
+        let q13 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='SendPosition'");
+        q13.run(req.body.SendPosition.toString());
+    }
+    if (req.body.Errore) {
+        let q14 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='Errore'");
+        q14.run(req.body.Errore.toString());
+    }
+    if (req.body.ErroreC) {
+        let q15 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='ErroreC'");
+        q15.run(req.body.ErroreC.toString());
+    }
+    if (req.body.ErroreA) {
+        let q16 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='ErroreA'");
+        q16.run(req.body.ErroreA.toString());
+    }
+    if (req.body.ErroreCord) {
+        let q17 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='ErroreCord'");
+        q17.run(req.body.ErroreCord.toString());
+    }
+    if (req.body.ErroreIata) {
+        let q18 = db.prepare("UPDATE Message SET Msg = ? WHERE Nome='ErroreIata'");
+        q18.run(req.body.ErroreIata.toString());
+    }
+    GetMsg();
     res.redirect("/");
 });
 app.listen(port, () => console.log(`WebInterface on port ${port}`));
@@ -491,24 +530,53 @@ function readJson() {
     return cities;
 }
 
+function GetMsg() {
+    const row = db.prepare('SELECT Msg FROM Message').all();
+    if (row.length != 0) {
+        WelcomeMsg = row[0].Msg;
+        HelpMsg = row[1].Msg;
+        View = row[2].Msg;
+        Position = row[3].Msg;
+        Send = row[4].Msg;
+        SendC = row[5].Msg;
+        Search = row[6].Msg;
+        SearchC = row[7].Msg;
+        SearchCity = row[8].Msg;
+        Searching = row[9].Msg;
+        SearchingAct = row[10].Msg;
+        SearchingCity = row[11].Msg;
+        SendPosition = row[12].Msg;
+        Errore = row[13].Msg;
+        ErroreC = row[14].Msg;
+        ErroreA = row[15].Msg;
+        ErroreCord = row[16].Msg;
+        ErroreIata = row[17].Msg;
+    }
+}
+
 function ResetMsg() {
-    WelcomeMsg = 'Benvenuto in TravelBot, ';
-    HelpMsg = 'La ricerca degli hotel va in base al codice IATA, il codice aereoportuale.';
-    View = 'Ecco il dataset con le città 😃';
-    Position = 'Ecco il metodo per inviare la propria posizione 🙃';
-    Send = 'Invia il codice di una città 🔢';
-    SendC = 'Invia le coordinate di una città 🌐';
-    Search = 'Invia il nome di una città per verificare se contenuta del database ✔️';
-    SearchC = 'Invia il nome di una città 🌆';
-    SearchCity = 'Invia il nome o le iniziali di una città 🌆';
-    Searching = 'Stiamo cercando i migliori hotel... 🔄';
-    SearchingAct = 'Stiamo cercando le migliori attività... 🔄';
-    SearchingCity = 'Stiamo cercando le città... 🔄';
-    SendPosition = 'Invia la posizione. Se non sai come fare, digita /sendPosition'
-    Errore = 'Purtroppo non è stato trovato nessun hotel... ci dispiace 😭';
-    ErroreC = 'Purtroppo non è stata trovata nessuna città... ci dispiace 😭';
-    ErroreA = 'Purtroppo non è stata trovata nessuna attività... ci dispiace 😭';
-    ErroreCord = 'Errore di inserimento nelle coordinate, riprovare ❌';
-    ErroreIata = 'Errore nell\'inserimento del codice, deve essere di tre caratteri e non può contenere numeri, riprovare ❌';
+    const row = db.prepare('SELECT Msg FROM MessageBackup').all();
+    if (row.length != 0) {
+        WelcomeMsg = row[0].Msg;
+        HelpMsg = row[1].Msg;
+        View = row[2].Msg;
+        Position = row[3].Msg;
+        Send = row[4].Msg;
+        SendC = row[5].Msg;
+        Search = row[6].Msg;
+        SearchC = row[7].Msg;
+        SearchCity = row[8].Msg;
+        Searching = row[9].Msg;
+        SearchingAct = row[10].Msg;
+        SearchingCity = row[11].Msg;
+        SendPosition = row[12].Msg;
+        Errore = row[13].Msg;
+        ErroreC = row[14].Msg;
+        ErroreA = row[15].Msg;
+        ErroreCord = row[16].Msg;
+        ErroreIata = row[17].Msg;
+    }
+    const reset = db.prepare('INSERT INTO Message SELECT * FROM MessageBackup');
+    reset.run();
 }
 //#endregion
