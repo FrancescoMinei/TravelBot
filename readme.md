@@ -1,2 +1,2 @@
 ## TRAVEL BOT
-# per runnarlo fare npm run dev
+# per runnarlo fare npm run start
