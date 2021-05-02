@@ -213,27 +213,28 @@ bot.onText(/\/coordinatehotelsearch$/, msg => {
 bot.onText(/\/positionsearch$/, msg => {
     bot.sendMessage(msg.chat.id, SendPosition).then(() => {
         let handler = (msg) => {
-            let lat = parseFloat(msg.location.latitude).toFixed(1);
-            let lon = parseFloat(msg.location.longitude).toFixed(2);
+            let lat = parseFloat(msg.location.latitude).toFixed(3);
+            let lon = parseFloat(msg.location.longitude).toFixed(3);
             console.log(lat, lon);
             let json = new Array;
-            bot.sendMessage(msg.chat.id, Searching).then(() => {
-                amadeus.shopping.hotelOffers.get({
-                    latitude: lat,
-                    longitude: lon
-                }).then(function(response) {
-                    json.push(response.data);
-                    return amadeus.next(response);
-                }).then(function(nextResponse) {
-                    if (json.nextResponse != null)
-                        json.push(nextResponse.data);
-                    let result = GetName(json);
-                    if (result.length != 0)
-                        bot.sendMessage(msg.chat.id, result.toString());
-                }).catch(function(error) {
-                    console.log(error);
-                    bot.sendMessage(msg.chat.id, Errore);
-                });
+            bot.sendMessage(msg.chat.id, Searching);
+            amadeus.shopping.hotelOffers.get({
+                latitude: lat,
+                longitude: lon,
+                radius: 20,
+                radiusUnit: "KM"
+            }).then(function(response) {
+                json.push(response.data);
+                return amadeus.next(response);
+            }).then(function(nextResponse) {
+                if (json.nextResponse != null)
+                    json.push(nextResponse.data);
+                let result = GetName(json);
+                if (result.length != 0)
+                    bot.sendMessage(msg.chat.id, result.toString());
+            }).catch(function(error) {
+                console.log(error);
+                bot.sendMessage(msg.chat.id, Errore);
             });
             bot.removeListener("location", handler);
         };
@@ -298,8 +299,8 @@ bot.onText(/\/activitiesearch$/, msg => {
 bot.onText(/\/activitiespositionsearch$/, msg => {
     bot.sendMessage(msg.chat.id, SendPosition).then(() => {
         let handler = (msg) => {
-            let lat = parseFloat(msg.location.latitude).toFixed(1);
-            let lon = parseFloat(msg.location.longitude).toFixed(2);
+            let lat = parseFloat(msg.location.latitude).toFixed(3);
+            let lon = parseFloat(msg.location.longitude).toFixed(3);
             console.log(lat, lon);
             let json = new Array;
             bot.sendMessage(msg.chat.id, SearchingAct).then(() => {
