@@ -166,7 +166,7 @@ bot.onText(/\/iatasearch$/, msg => {
     });
 });
 
-bot.onText(/\/coordinatesearch$/, msg => {
+bot.onText(/\/coordinatehotelsearch$/, msg => {
     bot.sendMessage(msg.chat.id, SendC).then(() => {
         bot.sendMessage(msg.chat.id, "Inserire la latitudine");
         let handler = (msg) => {
