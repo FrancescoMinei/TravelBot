@@ -260,8 +260,8 @@ bot.onText(/\/activitiesearch$/, msg => {
                         bot.sendMessage(msg.chat.id, SearchingAct);
                         let json = new Array;
                         amadeus.shopping.activities.get({
-                            latitude: lon,
-                            longitude: lat,
+                            latitude: lat,
+                            longitude: lon,
                             radius: 20
                         }).then(function(response) {
                             console.log(response.data);
